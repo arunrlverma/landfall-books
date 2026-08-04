@@ -1325,8 +1325,3 @@ Williamsbridge, 262.
 Winterhalter, 253.
 Woolsey, Cardinal, 250.
 Zegre, Jean, 103.
-Transcriber's Note
-Minor typographic errors of spelling, punctuation and hyphenation have been repaired. Archaic and variable spelling has been preserved as printed.
-The following errors in facing page number references have been repaired:
-Page 61--plate reference to page 81 amended to 82.
-Page 76--plate references for the "Vertumnus and Pomona" series amended from 39 through 42 to 72 through 75.

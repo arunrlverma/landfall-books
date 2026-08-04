@@ -230,10 +230,3 @@ And how surprised these people were to find her in that place, accompanied by a 
 And how may we describe the joy of the King and Queen when they saw their daughter again and knew that the good fairy had kept her word? The King was so delighted that all he could say was "Bless my soul! bless my soul!" And the Queen could say nothing at all, for she was weeping for joy.
 What a feast there was that night! In spite of the hundred years that had gone by it was still the Princess's birthday, and she was in reality no more than fifteen years old, for time had stood still for her. So she had her birthday feast just the same, and it was her betrothal feast too, for the King joined the hands of the young Prince and his daughter and gave them his blessing.
 ## THE END
-PRINTED IN GREAT BRITAIN BY
-RICHARD CLAY & SONS, LIMITED,
-BRUNSWICK ST., STAMFORD ST., S.E. 1,
-AND BUNGAY, SUFFOLK.
-* * * * *
-Transcriber's Note:
-Page 78, a closing quote was added after (can force his way through.)

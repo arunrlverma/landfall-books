@@ -457,9 +457,3 @@ When Tur-il-i-ra saw what he had done, he was in great trouble indeed. He ordere
 "Perhaps that's true," said the Giant; "and when you want to see them, there are so many good people here in the palace. I am sure I like common human beings very much, and I would wish to be with them always, if they were not so little."
 "I like them too," said Ting-a-ling, "and would live with them all the time, if they were not so big."
 +---------------------------------------+
-| Transcriber's Notes: |
-| |
-| Page 56 Mahalla changed to Mahallah |
-| 75 wofully changed to woefully |
-| 138 afrites changes to Afrites |
-+---------------------------------------+

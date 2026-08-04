@@ -569,24 +569,3 @@ Late in the second day, after running through swarms of hideous reptiles, they s
 Tyler and the rescue party had but just reached the yacht that afternoon. They had heard, faintly, the signal shots fired by the U-33 but had been unable to locate their direction and so had assumed that they had come from the guns of the Toreador.
 It was a happy party that sailed north toward sunny, southern California, the old U-33 trailing in the wake of the Toreador and flying with the latter the glorious Stars and Stripes beneath which she had been born in the shipyard at Santa Monica. Three newly married couples, their bonds now duly solemnized by the master of the ship, joyed in the peace and security of the untracked waters of the south Pacific and the unique honeymoon which, had it not been for stern duty ahead, they could have wished protracted till the end of time.
 And so they came one day to dock at the shipyard which Bowen Tyler now controlled, and here the U-33 still lies while those who passed so many eventful days within and because of her, have gone their various ways.
-[Transcriber's note: I have made the following changes to the text:
-PAGE LINE ORIGINAL CHANGED TO
-10 12 of or
-14 19 of animals life of animals
-31 26 is arms his arms
-37 14 above this above his
-37 23 Bradley, Bradley
-54 18 man man
-57 14 and of Oo-oh of Oo-oh
-62 18 spend spent
-63 31 and mumbled the mumbled
-64 9 things thing
-80 30 east cast
-104 16 proaching proached
-106 30 cos-at-lu cos-ata-lu
-126 17 not artistic not an artistic
-126 25 close below hands close below
-130 1 internals intervals
-132 9 than that
-132 10 splashes splashed
-134 3 know know not know]

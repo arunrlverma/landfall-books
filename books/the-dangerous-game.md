@@ -2012,22 +2012,3 @@ He drew her into his arms, and Edris put hers round his neck and clung tightly t
 If you stand on that broad promenade, the Höheweg, at Interlaken, with its row of handsome hotels, and its great meadows with the wide valley and the towering eternal snows of the Jungfrau in the background--one of the most gorgeous views in all Europe--you will see, upon the wooded mountain-side, a pretty white chalet, with balconies and wide, overhanging eaves and a wonderful garden of tangled roses, geraniums and wisteria.
 If you ask who lives at that delightful spot, you will be told that it belongs to Mr. Seton Darville, the famous novelist, who lives there in peaceful happiness with his charming wife, both of them ardent lovers of Switzerland and the Swiss, and both extremely popular all over the Bernese Oberland.
 ## THE END
-TRANSCRIBER’S NOTES
-Minor spelling inconsistencies (e.g. intrusted/entrusted, reëntering/re-entering, Zürich/Zurich, etc.) have been preserved.
-Alterations to the text:
-[Chapter VII]
-“Besides he was not certain whether she had come to England” add a comma after _Besides_.
-Change “I had a similar case a _fornight_ ago--an insured parcel” to _fortnight_.
-[Chapter IX]
-“Can you leave Paris at ten, and be at Victoria at _5:15_?” to _5.15_.
-[Chapter X]
-“See you on Saturday, and I’ll be delighted Good-by, Edris.” add a period after _delighted_.
-[Chapter XIX]
-“She crossed to where… and, bending, kissed him fondly” add a period to the sentence.
-[Chapter XX]
-“all three dined together in the great salle _a_ manger amid the gay” to _à_.
-[Chapter XXIV]
-“I am compelled to… while my heart is breaking I know that my” add a period after _breaking_.
-[Chapter XXVI]
-“That night the pair experienced a feeling of _strangement_” to _estrangement_.
-[End of text]

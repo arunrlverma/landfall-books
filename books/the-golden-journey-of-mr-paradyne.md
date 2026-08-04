@@ -204,6 +204,3 @@ By RICHARD GARNETT. With an Introduction by T. E. Lawrence, and 28 Illustrations
 Illustrated in colour and black and white by S. Hulme Beaman. Crown 4to. 6s. net.
 An attractively illustrated edition of an-ever-fresh story.
 JOHN LANE THE BODLEY HEAD LTD., VIGO ST., W.1
-Transcriber’s Note:
-Obvious errors in accents and punctuation have been silently corrected in this version, but minor inconsistencies have been retained as printed.
-Some illustrations have been moved slightly to better fit the ebook format.

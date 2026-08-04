@@ -390,17 +390,3 @@ Considering all the circumstances of the journey, through two thousand miles of 
 As I look back, through the lapse of nearly sixty years, upon that toilsome and perilous journey, notwithstanding its numerous harrowing events, memory presents it to me as an itinerary of almost continuous excitement and wholesome enjoyment; a panorama that never grows stale; many of the incidents standing out to view on recollection's landscape as clear and sharp as the things of yesterday. That which was worst seems to have softened and lapsed into the half-forgotten, while the good and happy features have grown brighter and better with the passing of the years.
 Whether pioneers in the most technical sense, we were early Californians, who learned full well what was meant by "Crossing the Plains."
 ## END.
-[Transcriber's Notes:
-Every effort has been made to replicate this text as faithfully as possible, including obsolete and variant spellings and other inconsistencies.
-The transcriber made changes as indicated to the text to correct obvious errors:
-1. p. 15, awkardness --> awkwardness
-2. p. 44, we though best --> we thought best
-3. p. 45, knowldege --> knowledge
-4. p. 68, maner --> manner
-5. p. 74, consciouses --> consciousness
-6. p. 103, characteristc --> characteristic
-7. p. 114, unusal --> unusual
-8. p. 149, "tenderfoot' --> "tenderfoot"
-9. p. 153, "good Indian' --> 'good Indian'
-Several occurrences of mismatched quotes remain as published. Also, some illustrations have been repositioned to appear between paragraphs, causing some to move to a different page, but page numbers in the Contents remain as published.
-End of Transcriber's Notes]

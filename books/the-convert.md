@@ -4328,36 +4328,3 @@ THE MACMILLAN CO. OF CANADA, LTD.
 ## TORONTO
 [end of moved advertising]
 * * * * *
-Transcriber's note:
-Every effort has been made to replicate this text as faithfully as possible, including obsolete and variant spellings. Obvious typographical errors in punctuation (misplaced quotes and the like) have been corrected. Corrections [in brackets] in the text are noted below:
-page 7: hyphen removed
-about that long'--he measured less than an inch on his minute fore-finger[hyphen removed]--'with long holes through so they
-page 9: typographical error corrected
-refusal to let attenion[attention] go was mitigated by something in the quietness,
-page 17: hyphen removed
-'Why?' said Mr. Freddy, sticking in his eye-glass.[hyphen removed]
-page 36: hyphen added
-kept watching with a kind of half-absent-[hyphen added]minded scorn
-page 102: quotation typographical error corrected
-Dr. Pankhurst and Mr. Jacob Bright passed a second reading."[']
-page 105: quotation typographical error corrected
-next monster petition to Parliament asking for Woman's Suffrage."[']
-page 110: typographical error corrected
-the vivid scarlet lips; almost spleepy[sleepy] the heavy-lidded eyes.
-page 125: quotation typographical error corrected
-Those of you who want to see women free, hold up your hands."[']
-page 248: typographical error corrected 'We got a gryte deal to do with our wgyes[wyges], we women has.
-page 250: quotation typographical error corrected
-'Why didn't you stay where I left you?"['] he answered, without
-page 252: added single quotation mark
-a rich chuckle. 'She's a educatin' of us![']
-page 258: added double quotation mark
-"Look at this big crowd. W'y, we're all _men_! If the women want the vote, w'y ain't they here to s'y so?["] Well, I'll tell you w'y. It's because they've 'ad to get
-page 260: typographical error corrected
-in a turtle-esque fashion highty[highly] provocative,
-page 265: quotation typographical error corrected
-whose crime is, they ask for the vote?'["] But try as I would,
-page 292: typographical error corrected
-Stonor as he came in seemed to take no acccount[account] of those
-page 299: typographical error corrected
-for that moment he semed[seemed] as bankrupt in denunciation

@@ -1697,22 +1697,3 @@ Priscilla nodded understandingly, and presently added with an air of challenge:
 "I think--I'll get married instead."
 "Oh!" Patty laughed softly. "_I_ am going to do both!"
 * * * * *
-Transcriber's Notes:
-Obvious punctuation errors repaired.
-Page 21, "chose" changed to "choose" (endeavor to choose)
-Page 35, "Cony" changed to "Conny" (Conny Wilder in dramatics)
-Page 36, "Rosaile" changed to "Rosalie" (When Rosalie chanced)
-Page 76, "or" changed to "of" (majority of the)
-Page 85, "exhanced" changed to "enhanced" (are enhanced by)
-Page 86, "skurried" changed to "scurried" (she scurried off)
-Page 92, "Sally" changed to "Sallie" ( Miss Sallie affably)
-Page 107, "Connie" changed to "Conny" (Conny murmured fervently)
-Page 109, "wail" changed to "wait" (Just wait till)
-Page 152, "esthetic" changed to "aesthetic" (rather than aesthetic)
-Page 206, "same" changed to "some" (There was some)
-Page 230, "or" changed to "of" (quiet confines of)
-Page 247, "cheery" changed to "cherry" (of the cherry tree)
-Page 320, "freindly" changed to "friendly" (the friendly darkness)
-Page 329, "airly" changed to "airily" (her hand airily)
-Page 330, "sings" changed to "signs" (dey learn signs)
-Page 338, "tempestous" changed to "tempestuous" (through four tempestuous)

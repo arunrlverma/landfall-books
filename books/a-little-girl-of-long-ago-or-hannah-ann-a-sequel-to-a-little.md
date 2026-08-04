@@ -2170,22 +2170,3 @@ And of the great City that has gathered the little towns of children who went ou
 "You may live to see it," the little mother says, and smiles.
 For herself there is the other country, and the loves she holds most dear. And because they go, when the worst sorrow is spent, one knows they will be found again, and that immortality is no myth, but the crown and seal of God's love to human love.
 ## THE END
-* * * * *
-The "Little Girl" Series
-By AMANDA M. DOUGLAS
-In Handsome Cloth Binding
-A Little Girl in Old New York
-A Little Girl of Long Ago A sequel to "A Little Girl in Old New York"
-A Little Girl in Old Boston
-A Little Girl in Old Philadelphia
-A Little Girl in Old Washington
-A Little Girl in Old New Orleans
-A Little Girl in Old Detroit
-A Little Girl in Old St Louis
-A little Girl in Old Chicago
-A Little Girl in Old San Francisco
-A Little Girl in Old Quebec
-A Little Girl in Old Baltimore
-A Little Girl in Old Salem
-A Little Girl in Old Pittsburg
-A. L. BURT COMPANY, PUBLISHERS 52, 58 Duane Street New York

@@ -1202,7 +1202,7 @@ He made the inquiries and ascertained pretty nearly how many had been tardy, and
 The number was found to be so great, that the scholars admitted that something ought to be done.
 "What shall I do?" asked he. "Can any one propose a plan which will remedy the difficulty?"
 There was no answer.
-[Transcriber's Note: The footnote marker for the following footnote is missing.] [Footnote D: The above, and one or two of the succeeding articles have been before published, in periodicals.]
+ [Footnote D: The above, and one or two of the succeeding articles have been before published, in periodicals.]
 "The easiest and pleasantest way to secure punctuality, is for the scholars to come early of their own accord, upon principle. It is evident from the reports, that many of you do so; but some do not. Now there is no other plan which will not be attended with very serious difficulty, but I am willing to adopt the one which will be pleasantest to yourselves, if it will be likely to accomplish the object. Has any one any plan to propose."
 There was a pause.
 "It would evidently," continued the teacher, "be the easiest for me to leave this subject, and do nothing about it. It is of no personal consequence to me, whether you come early or not, but as long as I hold this office, I must be faithful, and I have no doubt the school committee, if they knew how many of you were tardy, would think I ought to do something to diminish the evil.
@@ -1708,14 +1708,3 @@ Now, in some such cases as this, great good may be done both in respect to the i
 * * * * *
 The teacher should thus, in accordance with the directions we have given, commence his labors with careful circumspection, patience, frankness, and honest good will towards every individual of his charge. He will find less difficulty at the outset than he would have expected, and soon have the satisfaction of perceiving that a mild but most efficient government is quietly and firmly established in the little kingdom over which he is called to reign.
 * * * * *
-Transcriber's Note:
-Summarized here are the corrections applied to the text.
-We can then see how much improvement has been "improvement" was printed as "impovement"
-at his own discretion, waive it. "waive" was printed as "wave"
-evil consequences will result "consequences" was printed as "conquences"
-between the boys of a town school and an academy "academy" was printed as "acadamy"
-sits at the curtained desk "sits" was printed as "sists"
-Proposed, that a music committee be appointed "that" was printed as "That"
-misspelled word "misspelled" was printed as "mispelled"
-in periodicals devoted to education "devoted" was printed as "dovoted"
-are cases of discipline "discipline" was printed as "dicipline"

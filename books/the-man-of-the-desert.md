@@ -968,11 +968,3 @@ THE WAGON AND THE STAR
 TARPAPER PALACE
 * * * * *
 * * * * *
-Transcriber's Notes:
-Obvious punctuation errors repaired.
-Page 34, "These" changed to "There". (There were neighbors)
-Page 43, word "It" presumed as ink was unclear. (It seemed to)
-Page 45, "nd" changed to "and". (and the pony's)
-Page 147, "The" changed to "the". (the agent is)
-Page 224, word "to" added to text. (what to do with)
-Page 227, "th" changed to "the". (the inn tells)

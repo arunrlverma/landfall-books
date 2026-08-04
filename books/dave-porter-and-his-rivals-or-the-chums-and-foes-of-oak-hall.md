@@ -2519,23 +2519,3 @@ It was assuredly a grand victory, and that evening the whole school celebrated, 
 "That's the talk!" cried Dave, throwing down his Latin grammar. "First fellow to get his skates on gets a ginger snap!"
 And off he ran, with the others at his heels. And here for the present we will say good-by to Dave Porter, his chums, and his rivals.
 THE END
-## DAVE PORTER SERIES
-By EDWARD STRATEMEYER
-"Mr. Stratemeyer has seldom introduced a more popular hero than Dave Porter. He is a typical boy, manly, brave, always ready for a good time if it can be obtained in an honorable way."--_Wisconsin, Milwaukee, Wis._
-"Edward Stratemeyer's 'Dave Porter' has become exceedingly popular."--_Boston Globe._
-"Dave and his friends are nice, manly chaps."--_Times-Democrat, New Orleans._
-DAVE PORTER AT OAK HALL Or The School Days of an American Boy
-DAVE PORTER IN THE SOUTH SEAS Or The Strange Cruise of the Stormy Petrel
-DAVE PORTER'S RETURN TO SCHOOL Or Winning the Medal of Honor
-DAVE PORTER IN THE FAR NORTH Or The Pluck of an American Schoolboy
-DAVE PORTER AND HIS CLASSMATES Or For the Honor of Oak Hall
-DAVE PORTER AT STAR RANCH Or The Cowboy's Secret
-DAVE PORTER AND HIS RIVALS Or The Chums and Foes of Oak Hall
-DAVE PORTER ON CAVE ISLAND Or A Schoolboy's Mysterious Mission
-DAVE PORTER AND THE RUNAWAYS Or Last Days at Oak Hall
-DAVE PORTER IN THE GOLD FIELDS Or The Search for the Landslide Mine
-DAVE PORTER AT BEAR CAMP Or The Wild Man of Mirror Lake
-DAVE PORTER AND HIS DOUBLE Or The Disappearance of the Basswood Fortune
-DAVE PORTER'S GREAT SEARCH Or The Perils of a Young Civil Engineer
-DAVE PORTER UNDER FIRE Or A Young Army Engineer in France
-DAVE PORTER'S WAR HONORS Or At the Front with the Fighting Engineers

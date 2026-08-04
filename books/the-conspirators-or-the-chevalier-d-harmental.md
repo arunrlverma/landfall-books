@@ -3608,26 +3608,3 @@ These proofs of clemency appeared to Dubois so out of all reason that he came to
 "For I am Philippe le Debonnaire, Philippe le Debonnaire."
 This enraged Dubois so much that the regent, in order to pacify him, was obliged to transform him into his Eminence the Cardinal.
 ## END OF "THE CONSPIRATORS."
-[Transcriber's Note: The following typographical errors present in the original edition have been corrected.
-On page 242, an extra quotation mark after "would deceive." was deleted.
-On page 243, an extraneous period following "which his fathers had left him" was deleted.
-On page 250, "The Chevalier d'Harmentel saw" was changed to "The Chevalier d'Harmental saw".
-On page 260, "D'Harmental only knew the Marquis de Pompador" has been changed to "D'Harmental only knew the Marquis de Pompadour".
-On page 266, "soupe au fromage and macroni" was changed to "soupe au fromage and macaroni".
-On page 286, "you come, young and inexperiened" was changed to "you come, young and inexperienced".
-On page 293, a comma following "he sketched the delicious picture before him" was changed to a period.
-On page 298, a missing quotation mark was added after "I admit no one into my games."
-On page 318, "abstracted mein" was changed to "abstracted mien".
-On page 320, "she might as well open her's" was changed to "she might as well open hers".
-On page 321, "Mizra's skill" was changed to "Mirza's skill", "acquired for Mizra" was changed to "acquired for Mirza", and "evidently not to Mizra" was changed to "evidently not to Mirza".
-On page 323, "the statue of Henri IV.." was changed to "the statue of Henri IV.", and "standing at her wnidow" was changed to "standing at her window".
-On page 325, "were not eompensated" was changed to "were not compensated".
-On page 326, "secretely the mistress" was changed to "secretly the mistress".
-On page 329, a missing quotation mark was added before "I did come to speak".
-On page 339, "Melezieux advanced" was changed to "Malezieux advanced".
-On page 354, "sat down opposite D'Harmemtal" was changed to "sat down opposite D'Harmental", and a missing quotation mark was added following "something profoundly sad has happened to you.".
-On page 377, "where the orignals are" was changed to "where the originals are".
-On page 408, "the name--the name--of--Chevalier--Raoul D'Harmental" was changed to "the name--the name--of--Chevalier--Raoul d'Harmental".
-On page 410, "By the light of the t orch" was changed to "By the light of the torch".
-On page 411, "mounted on the postllion's horse" was changed to "mounted on the postilion's horse".
-On page 412, "risked all, sufered all" was changed to "risked all, suffered all".]

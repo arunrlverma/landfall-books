@@ -1149,21 +1149,3 @@ _Fully illustrated. Colored frontispiece. Cloth 12mo. 60 cents each._
 * * * * *
 Publishers The Reilly & Britton Co. Chicago
 * * * * *
-Transcriber's Notes:
-Obvious punctuation errors repaired.
-Page 3, "reak" changed to "reek" (the reek of cedar)
-Page 19, "wierd" changed to "weird" (in weird-looking)
-Page 29, "surpise" changed to "surprise" (his vast surprise)
-Page 90, "botton" changed to "bottom" (at the bottom)
-Page 131, "Ghobal" changed to Gholab" (then Gholab Singh, Mohammedan)
-Page 136, "though" changed to "thought" (I thought camels)
-Page 207, "shoud" changed to "should" (we should not share)
-"Charley" was changed to "Charlie" to fit rest of 308 uses in the text.
-15: Charlie paused and
-84: Charlie had stepped
-90: thrust forward. Charlie
-Charlie sank down
-91: Charlie nodded.
-97: Charlie. "This looks
-100: Quilqua?" asked Charlie.
-177: began Charlie, but the

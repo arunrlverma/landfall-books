@@ -2378,5 +2378,3 @@ It seemed a long time. The horses champed and rattled their harness. The bystand
 He looked in the church again and saw them coming down the aisle: Fraser, smiling and erect, with Poppy’s little hand upon his arm. She looked down at first, smiling shyly, but as they drew near the door gave her husband a glance such as Flower had never seen before. He caught his breath then, and stood up erect as the bridegroom himself, and as they reached the door they both saw him at the same instant. Poppy, with a startled cry of joy and surprise, half drew her arm from her husband’s; Fraser gazed at him as on one risen from the dead.
 For a space they regarded each other without a word, then Fraser, with his wife on his arm, took a step towards him. Flower, still regarding them steadily, drew back a little, and moved by a sudden impulse, and that new sense of dignity, snatched a handful of rice from the old woman’s bag and threw it over them.
 Then he turned quickly, and with rapid strides made his way back to the station.
-Transcriber’s Notes:
-• Text enclosed by underscores is in italics (_italics_). • Text enclosed by pluses is in small caps (+small caps+).

@@ -996,7 +996,3 @@ OLD IRONSIDE. By the author of "Alnomuc." 24 engravings.
 PETER PARLEY'S METHOD OF TELLING ABOUT THE GEOGRAPHY OF THE BIBLE.
 THE BOY AND THE BIRDS.
 ROSE AND HER LAMB.
-## TRANSCRIBER'S NOTES:
-1. Minor changes have been made to correct usage of punctuation; otherwise, every effort has been made to ensure that this etext is faithful to the original book.
-2. The original Table of Contents incorrectly listed the first chapter as beginning on page 11; this has been corrected to reflect the first page as page 9.
-3. The footnote in the first chapter refers the reader to the Frontispiece; in fact, the Frontispiece refers to an event in seventh chapter. The Transcriber believes that the footnote should read "See page 23."

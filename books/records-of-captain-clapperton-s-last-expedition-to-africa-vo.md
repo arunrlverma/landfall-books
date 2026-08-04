@@ -464,19 +464,3 @@ J. B. NICHOLS AND SON,
 [Footnote 6: A kind of pudding made of flour, butter, and eggs.]
 [Footnote 7: A female’s slave.]
 [Footnote 8: The act of fetching wood in the night season, by reason of the existence of wild beasts in the woods, is considered an enterprize of danger; and those who accept the proposal are greatly eulogised, and held up as examples for others to copy.]
-Transcriber's note:
-The changes in the ERRATA have been made.
-pg 10 Changed: "of the myterious Niger" to: "mysterious"
-pg 31 Changed: "slavery in in a remote region" to: "slavery in a"
-pg 32 Changed: "brigantine haing been sent" to: "having"
-pg 67 Changed: "were subequently conducted" to: "subsequently"
-pg 127 Changed: "any of the incoveniences we had" to: "inconveniences"
-pg 146 Changed: "their strange-looking anoe" to: "canoe"
-pg 150-151 Changed: "her excescessive plumpness" to: "excessive"
-pg 186 Changed: "the place, amogsnt all classes" to: "amongst"
-pg 199 Changed: "to migitate their sufferings" to: "mitigate"
-pg 212 Changed: "head much about religous matters" to: "religious"
-pg 213 Changed: "this information was comunicated" to: "communicated"
-pg 224 Changed: "The ollowing is a copy of it" to: "following"
-pg 243 Changed: "infested the neigbourhood" to: "neighbourhood"
-pg 300 Changed: "a bouyant, cheerful, happy temper" to: "buoyant"

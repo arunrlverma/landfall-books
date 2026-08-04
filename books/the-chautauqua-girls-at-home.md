@@ -1732,29 +1732,3 @@ Little they knew about each other even yet, with all their intimacy, those four 
 But what mattered it, so long as they had given themselves over, body and soul, into the keeping of their Father in heaven, who knew not only the beginning, but the end?
 ## THE END.
 * * * * *
-Transcriber's Notes:
-This text uses both Bible-class and Bible class; chamber-maid and chambermaid.
-Obvious punctuation errors repaired.
-Page 27, "grammer" changed to "grammar" (grammar class; and)
-Page 39, new paragraph inserted. Text originally read: (who have." "That's exactly like myself)
-Page 58, "vailed" changed to "veiled" (sharp words veiled)
-Page 91, "flappant" changed to "flippant" (his voice flippant)
-Page 148, "softly" changed to "soft" (a soft little laugh)
-Page 163, "b ought" changed to "brought" (that brought them most)
-Page 186, "Hurlburt" changed to "Hurlbut" (Oh, Dr. Hurlbut!)
-Page 202, "nowdays" changed to "nowadays" (no idols nowadays)
-Page 203, "quered" changed to "queried" (duty?" queried Eurie)
-Page 203, "adicted" changed to "addicted" (very much addicted)
-Page 262, repeated word "a" removed. (while one with a a)
-Page 285, "argumentive" changed to "argumentative" (my argumentative powers)
-Pages 318 and 333 had paragraphs that were not indented in the orginal. These paragraphs began: (Yet was she not) (Mr. Wayne was unusually)
-Page 322, "unstanding" changed to "understanding" (by tacit understanding)
-Page 322, "radient" changed to "radiant" (face just radiant)
-Page 348, "vail" changed to "veil" (very flimsiest veil of)
-Page 374, "solmnly" changed to "solemnly" (solemnly true. Ruth)
-Page 396, "forsee" changed to "foresee" (she not foresee)
-Page 400, "desoolate" changed to "desolate" (ever to be desolate)
-Page 415, "parishoners" changed to "parishioners" (on his parishioners)
-Page 423, "Smyth" changed to "Smythe" (brother-in-law, Mr. Smythe)
-Page 445, "alwas" changed to "always" (for she was always)
-Page 448, "alwas" changed to "always" (parties had always)

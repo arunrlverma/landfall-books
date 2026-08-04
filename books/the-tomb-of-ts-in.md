@@ -1942,32 +1942,3 @@ Somehow Tillizinni fails to reconcile those two men. The Talham who held the for
 “For my part,” wrote Tillizinni in his diary, “I would as lief be buried alive in the tomb under Mount Li, as be buried alive in a suburb of London.”
 It is, of course, a matter of opinion.
 ## THE END.
-TRANSCRIBER’S NOTES
-The frontispiece was used for the cover.
-Minor spelling inconsistencies (e.g. crossbows/cross-bows, fountain-pen/fountain pen, gulley/gully, etc.) have been preserved.
-Alterations to the text:
-Abandon the use of drop-caps.
-Punctuation: fix some quotation mark pairings/nestings, and some missing periods.
-[Chapter IV]
-Change “They were terribly _alove_ and eager.” to _alive_.
-[Chapter XI]
-(“It is to such unsympathetic _pharasaical_ souls as yours,”) to _pharisaical_.
-[Chapter XII]
-“Tillizinni regarded himself as more or less _ephemereal_” to _ephemeral_.
-“but more _specificially_, in language which need not be repeated” to _specifically_.
-[Chapter XIII]
-“Talham’s eyes were on the floor; _her’s_, filled with pity,” to _hers_.
-[Chapter XIV]
-“Mrs. Yale was impressed by the whole-hearted _devoton_ of” to _devotion_.
-“that spoke to him. some message which went out in vibrant waves” change the period to a comma.
-[Chapter XV]
-“with Soo, and smiled. as again and again he came across” change the period to a comma.
-[Chapter XVI]
-(“As your _excellency_ knows, the city of Taupan, one hundred”) to _Excellency_.
-[Chapter XVII]
-“asking that your Noble _Beneficience_ will restore to them” to _Beneficence_.
-[Chapter XIX]
-(“No, no no!” she shuddered.) add a comma after the second _no_.
-[Chapter XX]
-“to go out in the shadow of the great _Emperor’_ tomb” to _Emperor’s_.
-[End of text]

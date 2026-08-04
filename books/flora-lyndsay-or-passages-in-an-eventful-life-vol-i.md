@@ -1378,32 +1378,3 @@ Though an inveterate imbiber of alcohol, he was never positively drunk during th
 END OF THE FIRST VOLUME.
 ## R. CLAY, PRINTER, BREAD STREET HILL.
 * * * * *
-Transcriber's Note:
-Variations in spelling, use of hyphenated words, and in dialect have been retained as they appear in the original book. Changes have been made as follows:
-Page 16 ropes fr you changed to ropes for you
-Page 17 grey esey sparkled changed to grey eyes sparkled
-Page 65 added double closing quotation mark to Busy at work, too?"
-Page 92 real Havanna changed to real Havana
-Page 95 one of these days.' changed to one of these days."
-Page 96 and getting none, changed to and getting none.
-Page 104 and by some mismagement changed to by some mismanagement
-Page 140 very plausibly changed to very plausible
-Page 146 added double closing quotation mark to heart-breaking regret."
-Page 148 stumblingblocks changed to stumbling blocks
-Page 150 Then sideling changed to Then sidling
-Page 153 deep vexation changed to deep vexation.
-Page 156 Bad beginings changed to Bad beginnings
-Page 169 handsome young quaker changed to handsome young Quaker
-Page 177 carolled high in air changed to carolled high in the air
-Page 193 rest of his journey, changed to rest of his journey.
-Page 214 it annoyed her " changed to it annoyed her."
-Page 232 my Mammy say?' changed to my Mammy say?"
-Page 240 browze and gambol changed to browse and gambol
-Page 240 and when the arrived changed to and when they arrived
-Page 246 added double closing quotation mark after not have seen this."
-Page 261 removed double closing quotation mark after half-pennyworth of taste.
-Page 267 added double closing quotation mark after dimensions of the fire."
-Page 271 said Flora coaxingly., changed to said Flora coaxingly.
-Page 271 added double closing quotation mark after an' boil an' roast!"
-Page 288 and in a few miuutes changed to and in a few minutes
-Page 291 Doctor Mac Adie changed to Doctor MacAdie

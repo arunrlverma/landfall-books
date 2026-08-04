@@ -7130,9 +7130,3 @@ _Forthcoming Publications._
 =The Life and Times of Anthony Wood, antiquary, of Oxford=, 1632-1695, described by himself. By the Rev. ANDREW CLARK, M.A. Vol. II (_nearly printed_).
 (The _Cartulary of St. Frideswide_, _Place names of Oxfordshire, Berkshire and Buckinghamshire_, _Berkshire Wills_, _Oxford and the Neighbourhood during the Civil War_, _Hearne’s Collections, vol. IV._, and other volumes are in preparation.)
 A full description of the Society’s work and objects can be obtained by application to any of the Committee (Rev. C. W. BOASE, Exeter College; Rev. ANDREW CLARK, 30 Warnborough Road; C. R. L. FLETCHER, Esq., 22 Norham Gardens; P. LYTTELTON GELL, Esq., Headington Hill; and FALCONER MADAN, Esq. (_Hon. Treasurer_), 90 Banbury Road, Oxford). The annual subscription is one guinea, and =the published volumes as a set can be obtained by new members at one-fourth the published price=.
-Transcriber’s Notes:
-Passages in italics are indicated by _italics_.
-Passages in bold are indicated by =bold=.
-Superscripted characters are indicated by .
-Letters printed in reverse are indicated by ~reverse~.
-In several instances, the letters “NE” are printed as a ligature. These are indicated by *NE*.

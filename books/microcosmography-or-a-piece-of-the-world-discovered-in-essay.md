@@ -1710,12 +1710,6 @@ ib. line 31, for _susuperavit_ read _superavit_.
 231, line 11, for _Jude_ read _Inde_: for _ferucat_ read _ferueat_.
 245, line 7, for _whosc_ read _whose_.
 Several errors and inaccuracies of less consequence than those here pointed out, will probably be discovered. These were occasioned by the editor's distance from the press, and he requests the gentle reader to pardon and correct them.
-[Transcriber's note: Despite a valiant effort to the contrary some additional transcription errors may have slipped through during the preparation of this e-text. We can't blame the distance between the editor and the press. Please forward any corrections to Project Gutenberg errata.]
-The _Inscription_, No. x. of the _Appendix_, should have been entirely omitted. The following extract from Guillim's _Heraldry_, shews that Bishop Earle could not have been connected with the Streglethorp family, since, if he had, there would have been no occasion for a new grant of armorial bearings.
-"He beareth _ermine_, on a chief indented sable, three eastern crowns or, by the name of _Earles_. This coat was granted by _Sir Edward Walker_, garter, the 1st of August, 1660, to the Reverend Dr. _John Earles_, son of _Thomas Earles_, gent, sometime Register of the Archbishop's Court at York. He was Dean of _Westminster_, and Clerk of the Closet to his Majesty King _Charles_ the Second; and in the year 1663, made Bishop of _Salisbury_."
-Guillim's _Heraldry_, folio. Lond. 1724. p. 282.
-It is almost unnecessary to add that I was not aware of this grant, when I compiled the short account of Earle, at page 186, and spoke of my inability to give any information relative to his parents.
-INDEX.
 Abishaes, 266.
 Abithaes, 266.
 Abraham-man, 221.

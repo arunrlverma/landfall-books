@@ -1989,15 +1989,3 @@ A letter from Maurice Wallion to the Author, dated Montreal, July 20th, 1918.
 "Yours very sincerely,
 "MAURICE WALLION."
 THE END
-* * * * *
-_NEW FICTION_
-ANNETTE ET SYLVIE
-_by Romain Rolland_
-JEAN HUGUENOT
-_by Stephen Vincent Benét_
-DIFFERENT GODS
-_by Violet Quirk_
-## QUEST
-_by Rosita Forbes_
-* * * * *
-[Transcriber's Note: Inconsistent hyphenation left as printed.]

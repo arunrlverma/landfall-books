@@ -1100,11 +1100,3 @@ PRINTED FOR A. C. McCLURG & CO. BY
 THE UNIVERSITY PRESS, JOHN WILSON
 & SON (INC.) CAMBRIDGE, U. S. A.
 * * * * *
-Transcriber's note:
-Page 140
-The illustration entitled "Brewer's Blackbirds" appears to be
-one of Yellow-headed Blackbirds.
-Unchanged.
-Page 333
-000. =English sparrow.= PASSER DOMESTICUS.
-This item falls between item 533 and 534. Unchanged from original.

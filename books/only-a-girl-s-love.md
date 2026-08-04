@@ -6375,5 +6375,3 @@ and dozens of others whose work usually appears between cloth covers.
 Send for our complete catalogue. You will be surprised at the value it contains.
 STREET & SMITH :: Publishers :: NEW YORK
 * * * * * *
-Transcriber's note:
-Numerous printer errors have been corrected. There were so many printer errors that these have been corrected without being documented. The author's original spelling, punctuation and hyphenation have been left intact.

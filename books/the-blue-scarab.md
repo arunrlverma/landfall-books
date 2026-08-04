@@ -1448,30 +1448,3 @@ The caretaker, who had evidently been thinking furiously, was by no means confid
 Before he could finish, the door rattled to a heavy concussion. Then it flew open, and Mr. Gerrard staggered into the room, thrust forward by the police inspector. His appearance was marvellously changed, for he had lost his spectacles, and one of his eyebrows had disappeared, as had also the mole and a portion of the built-up moustache. The caretaker started up with an exclamation, but at this moment Gerrard, with a violent effort, wrenched himself free. The inspector sprang forward to recapture him. But he was too late. The prisoner’s hand flew upwards; there was a ringing report; and Arthur Gerrard--or Reginald Reed--fell back across a bench with a trickle of blood on his temple and a pistol still clutched in his hand.
 “And so,” said Stalker, when he called on us the next day for details, “it was a suicide after all. Very lucky, too, seeing that there was no provision in the policy for death by judicial hanging.”
 ## THE END
-TRANSCRIBER’S NOTES
-This book was published as _Dr. Thorndyke’s Case-Book_ in the UK.
-Minor spelling inconsistencies (_e.g._ footpath/foot-path, finger prints/finger-prints, etc.) have been preserved.
-Alterations to the text:
-Abandon the use of drop-caps.
-Adjust some quotation mark pairings/nestings.
-Capitalize several instances of _doctor_ and _superintendent_ when used in direct addresses.
-[Chapter I]
-Change “That may have been lapis _luzuli_, but more probably” to _lazuli_.
-“_As_ any rate, it is an heirloom, and I am loath to lose it” to _At_.
-(“Here is the Blowgraves’ place,” said Thorndyke. “nearly in the…”) change the period to a comma.
-[Chapter II]
-(“I think so, excepting that I _learn_ from Foxton that…”) to _learned_.
-[Chapter III]
-“we reached a rather dark first-_door_ landing where” to _floor_.
-“Now what West Central place names end in ‘n.’ It was not a street…” change the period to a question mark.
-[Chapter V]
-(“who would successfully _practise_ the scientific detection…”) to _practice_.
-“a small telescopic jemmy, a jointed _augur_, a screwdriver and…” to _auger_.
-(“He must be pretty tough. Shall we be able to see him.”) change the second period to a question mark.
-“He continued to advance at _any_ easy pace, and I noticed that” to _an_.
-[Chapter VI]
-“And there’s something queer _agoing_ on aboard of her” to _a-going_.
-(“This’ll do your trick, _master_. Here comes a Customs cruiser.”) to _mister_.
-[Chapter VII]
-“Who is to contest his family’s claim.” change the period to a question mark.
-[End of text]

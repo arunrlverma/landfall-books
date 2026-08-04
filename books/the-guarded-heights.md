@@ -4573,10 +4573,3 @@ She stood in the centre of the room in an eager, arrested attitude, having, perh
 He shook off his lassitude, but the wonder grew.
 As in a dream he went to her, and her curved lips moved beneath his, but he pressed them closer so that she couldn't speak; for he felt encircling them in a breathless embrace, as his arms held her, something thrilling and rudimentary that neither of them had experienced before; something quite beyond the comprehension of Sylvia Planter and George Morton, that belonged wholly to the perplexing and abundant future.
 THE END
-BOOKS BY WADSWORTH CAMP
-THE ABANDONED ROOM
-THE GRAY MASK
-THE GUARDED HEIGHTS
-THE HOUSE OF FEAR
-SINISTER ISLAND
-WAR'S DARK FRAME

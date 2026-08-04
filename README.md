@@ -12,3 +12,10 @@ unknowns excluded).
 
 Served as static files; the app downloads a book once on first open.
 All texts are in the public domain. © 2026 NextBase LLC for the tooling.
+
+## Editorial quality gate
+
+Run `python3 tools/editorial_quality.py` before publishing. It verifies every
+catalog object, checksum, title, and high-confidence ebook-production artifact.
+`--write` applies only the reviewed, prose-preserving cleanup rules and refreshes
+the catalog hashes.

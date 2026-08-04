@@ -2057,13 +2057,3 @@ This scene from the beginning is prose printed as blank verse, down to the line�
 “E’en all the valiant stomachs in the court”—
 where the verse recommences. This transition from the prose to the verse enhances, and indeed forms the comic effect. Lazarillo concludes his soliloquy with a hymn to the goddess of plenty.
 THE END.
-Advertisement.
-_NEW EDITION, REVISED._
-## AIDS TO REFLECTION
-IN THE FORMATION OF A MANLY CHARACTER, ON THE SEVERAL GROUNDS OF PRUDENCE, MORALITY, AND RELIGION.
-## BY S. T. COLERIDGE.
-WITH A COPIOUS INDEX TO THE WORK, AND TRANSLATIONS OF THE GREEK AND LATIN QUOTATIONS.
-BY THOMAS FENBY.
-400 pp. _Fscp. 8vo, cloth extra_, 3/6.
-EDWARD HOWELL, PUBLISHER, LIVERPOOL
-MDCCCLXXIV.

@@ -2195,24 +2195,3 @@ Henry uttered a cry and sprang forward, but the great war tomahawk of Timmendiqu
 The five bade the great Wyandot chieftain farewell and ten minutes later were on their return journey. They knew that they were safe from any pursuit by the band of Timmendiquas. They returned to Wareville and they fought always with distinction throughout the border wars. They were at the Blue Licks that dreadful day when Timmendiquas and Moluntha, Caldwell and Girty, who finally came, with the Wyandots and Shawnees destroyed more than half of the Kentucky force. Strangely enough they went with Clark from the mouth of the Licking just two years after the first expedition, again with a thousand riflemen against Piqua which had been rebuilt, and they destroyed it, as before, in revenge for Blue Licks.
 Years later they were in the terrible slaughter of St. Clair's army, and they were with Wayne when he inflicted the crushing and final defeat upon the allied tribes at the Fallen Timbers. After the peace all the five, every one of whom lived to a very great age, became the fast friends of Timmendiquas, famous war chief of the Wyandots, the nation that knew no fear.
 ## THE END
-Transcriber's Notes:
-Page 59, "tattoed" corrected to "tattooed". (bear tattooed upon his chest)
-Page 69, removed duplicate "to". (large enough to keep three men)
-page 77, a comma is presumed as text is unclear. (Fowler, and six savage)
-Page 84 and 97, spelling "hare lip" retained. Elsewhere in text it is spelled "harelip". (a hare lip. Then he)(wrinkled his ugly hare lip)
-Page 90, "dear" corrected to "deer". (of buffalo, deer, bear)
-Page 97, retained comma although question mark probably more appropriate. (South with you," he said)
-Page 100, and Page 156, "Kentucy" corrected to "Kentucky". (prospect of victory. The Kentucky) (doubtless had reached Kentucky)
-Page 130, inserted missing period. (watched him shrewdly.)
-Page 163, a colon is presumed as original is unclear. (flushed, but he continued:)
-Page 196, a character named "Tom" is addressed in dialogue. Context shows it should be the character "Sol" instead. Original text retained. ("Tom, that can be)
-Page 240, unusual word "sidewiping" retained. Author possibly meant "sideswiping". (a glancing blow, sidewiping it)
-Page 241, a comma is presumed as text is unclear. (come to them through the woods,)
-Page 271, "house" corrected to "houses". (houses, built of solid logs, stood in ordered rows)
-Page 279, inserted missing period. (toward the little settlement.)
-Page 293 and 317, "Black Panther" (name of a chief) probably refers to "Yellow Panther", a name which occurs more frequently in the text. Original text retained.
-Page 295, "menancing" corrected to "menacing". (like a menacing under-note)
-Page 313, inserted missing period. (sound of oars became fainter and fainter.)
-Page 335, removed duplicate "the". (cracks between the timbers)
-Page 353, inserted missing period. ( the army to envelop it.)
-Page 365, a dialogue attributed to character "Ross" should probably be "Sol" since in the next paragraph "Tom Ross" answers. However the original text has been retained. (said Ross, "that the Indians hev crossed)

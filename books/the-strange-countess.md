@@ -2281,37 +2281,3 @@ He nodded.
 They paused at the end of a little path.
 “Let us go down here,” she said. “I think I remember there’s a shrubbery at the other end, and a garden seat, and it’s hardly likely that at this time of day…”
 ## THE END
-TRANSCRIBER’S NOTES
-The Hodder and Stoughton Limited (1926) edition was consulted for many of the changes listed below.
-Minor spelling inconsistencies (_e.g._ liftman/lift-man, prison-gate/prison gate, Whitcomb/Whitcombe, etc.) have been preserved.
-Alterations to the text:
-Abandon the use of drop-caps.
-Add ToC.
-[Chapter Seven]
-Change (“Even you must _given_ me some credit for my frankness.”) to _give_.
-[Chapter Thirteen]
-(“Lizzy came promptly at six, bringing with her a…) delete the quotation mark.
-[Chapter Eighteen]
-“periods of national rejoicing but here, in this shadowy place” add semicolon after _rejoicing_.
-[Chapter Twenty]
-(“I’ve got a wife and four children,” he whined “and there’s an…) add comma after _whined_.
-[Chapter Twenty-one]
-“in order to get even either with Mr. _Chester_ Praye or the Countess” to _Chesney_.
-[Chapter Twenty-five]
-(“I want to see the master of this house,” said Michael Dorn!) change the exclamation mark to a period.
-[Chapter Twenty-six]
-“he could not see the top windows of the _buildings_” to _building_.
-[Chapter Twenty-seven]
-“Dr. Tappatt had no intention of sending _of_ the police” to _for_.
-[Chapter Twenty-eight]
-“_Tappett_ forced a smile.” to _Tappatt_.
-[Chapter Twenty-nine]
-“He scowled at her as _he_ came in, noted her coat and her hat” to _she_.
-[Chapter Thirty]
-“The farm takes _it_ name from the wood.” to _its_.
-“steady echo of footsteps, as though somebody was _passing_ the floor” to _pacing_.
-[Chapter Thirty-three]
-“be sensible and recognise the _sacrifies_ I am making for you” to _sacrifices_.
-[Chapter Thirty-six]
-(“_It_ a curious thing----” he said.) to _It’s_.
-[End of text]

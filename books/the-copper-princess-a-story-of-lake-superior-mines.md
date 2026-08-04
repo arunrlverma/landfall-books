@@ -1186,34 +1186,3 @@ Could she not love him a little bit in return? Would she not go back with him, a
 In another instant he had folded her in his arms, for he knew that she was wholly his, and that in _this_ Copper Princess his interest was unshared.
 * * * * *
 ## THE END
-* * * * *
-By S. R. KEIGHTLEY
-THE LAST RECRUIT OF CLARE'S. Being Passages from the Memoirs of Anthony Dillon, Chevalier of St. Louis, and Late Colonel of Clare's Regiment in the Service of France. Illustrated. Post 8vo, Cloth, Ornamental, $1.50.
-This is a romance not of love, but of daring adventure, and so well worked as to be profoundly interesting.--_Chicago Inter-Ocean._
-Cleverly told, and enchains the reader's attention immediately, holding him captive to the last page.--_Brooklyn Standard-Union._
-A series of vivid pictures of the life of a soldier who was also a gentleman.--_N. Y. Press._
-THE CRIMSON SIGN. A Narrative of the Adventures of Mr. Gervase Orme, sometime Lieutenant in Mountjoy's Regiment of Foot. Illustrated. Post 8vo, Cloth, Ornamental, $1.50.
-Recounts in an able manner the terrible scenes which culminated in the siege and relief of Londonderry, giving his readers a personal interest in the characters he has created, and many and pathetic are the resulting pictures. Mr. Keightley, with a few deft touches of his pen, brings them home to the reader with a force that enables him to realize what such warfare really means. The French soldier is a strange character, strikingly conceived.--_Literary World_, London.
-THE CAVALIERS. A Novel. Illustrated. Post 8vo, Cloth, Ornamental, $1.50.
-Full of adventure, incident, and the wild spirit of the age, yet written withal in so true, simple, and vigorous a manner that it is the people of the narrative as much as their doings and escapades that interest the reader.--_Chicago Journal._
-Compels immediate and enduring interest on the part of the reader. From an artistic and literary point of view, indeed, the book is entirely noteworthy. It has swing, verve, and genuine force. The interest is cumulative, and the denouement of the story in no wise disappointing.--_Philadelphia Bulletin._
-PUBLISHED By HARPER & BROTHERS, NEW YORK
-_The above works are for sale by all booksellers, or will be sent by the publishers, postage prepaid, on receipt of the price._
-* * * * *
-## BY CAPT. CHARLES KING
-* * * * *
-CAMPAIGNING WITH CROOK, AND STORIES OF ARMY LIFE. Post 8vo, Cloth, $1.25.
-A WAR-TIME WOOING. Illustrated by R. F. ZOGBAUM. pp. iv., 196. Post 8vo, Cloth, $1.00.
-BETWEEN THE LINES. A Story of the War. Illustrated by GILBERT GAUL. pp. iv., 312. Post 8vo, Cloth, $1.25.
-In all of Captain King's stories the author holds to lofty ideals of manhood and womanhood, and inculcates the lessons of honor, generosity, courage, and self-control--_Literary World_, Boston.
-The vivacity and charm which signally distinguish Captain King's pen.... He occupies a position in American literature entirely his own.... His is the literature of honest sentiment, pure and tender.--_N. Y. Press._
-A romance by Captain King is always a pleasure, because he has so complete a mastery of the subjects with which he deals.... Captain King has few rivals in his domain.... The general tone of Captain King's stories is highly commendable. The heroes are simple, frank, and soldierly; the heroines are dignified and maidenly in the most unconventional situations.--_Epoch_, N. Y.
-All Captain King's stories are full of spirit and with the true ring about them--_Philadelphia Item._
-Captain King's stories of army life are so brilliant and intense, they have such a ring of true experience, and his characters are so lifelike and vivid that the announcement of a new one is always received with pleasure.--_New Haven Palladium._
-Captain King is a delightful story-teller.--_Washington Post._
-In the delineation of war scenes Captain King's style is crisp and vigorous, inspiring in the breast of the reader a thrill of genuine patriotic fervor.--_Boston Commonwealth._
-Captain King is almost without a rival in the field he has chosen.... His style is at once vigorous and sentimental in the best sense of that word, so that his novels are pleasing to young men as well as young women.--_Pittsburgh Bulletin._
-It is good to think that there is at least one man who believes that all the spirit of romance and chivalry has not yet died out of the world, and that there are as brave and honest hearts to-day as there were in the days of knights and paladins.--_Philadelphia Record._
-* * * * *
-PUBLISHED By HARPER & BROTHERS, NEW YORK.
-_Any of the above works sent by mail, postage prepaid, to any part of the United States, Canada, or Mexico, on receipt of the price._

@@ -1393,16 +1393,3 @@ He wondered if Danny Moore had nothing better to do than eternally swab his face
 "Yes, thanks," sighed Don.
 ## THE END
 * * * * *
-Transcriber's Notes:
-Obvious punctuation errors repaired.
-Page 22, "usully" changed to "usually" (Daley was usually)
-Page 24, "acknowlegement" changed to "acknowledgment" (the acknowledgment that)
-Page 65, "Muskateers" changed to "Musketeers" (four "Three Musketeers")
-Page 89, "castenets" changed to "castanets" (chattering like castanets)
-Page 115, "rom" changed to "from" (darting from the galloping)
-Page 129, "disgruntedly" changed to "disgruntledly" (had been disgruntledly)
-Page 136, "that's" changed to "that" (that Joe's parents had)
-Page 145, "startingly" changed to "startlingly" (sounded startlingly loud)
-Page 167, "disgruntedly" changed to "disgruntledly" (Walton disgruntledly found)
-Page 172, "positon" changed to "position" (of his position with)
-Page 223, "Demanded" changed to "demanded" on illustration caption. (demanded Don angrily)

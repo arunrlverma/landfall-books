@@ -28,8 +28,8 @@
   "category": "fiction",
   "blurb": "Only a Girl's Love\" by Charles Garvice is a novel likely written in the late 19th century.",
   "gutenbergID": 53416,
-  "bytes": 769520,
-  "sha256": "0e60cd9a96414f417e532cc77efcecc9253a02d23b4eff6d0f74f5dccb070d2d",
+  "bytes": 769281,
+  "sha256": "8f8ac50d2dd9bc0725f3f2fb91992b5127f23c5728096307cd91e028e7f30128",
   "downloads": 48001
  },
  {
@@ -72,8 +72,8 @@
   "category": "fiction",
   "blurb": "Dainty's Cruel Rivals; Or, The Fatal Birthday\" by Mrs.",
   "gutenbergID": 31257,
-  "bytes": 297627,
-  "sha256": "8faf2bf44243e97d4211ce39949e7148834e05726cc4c8dbbd671a2a5c7af275",
+  "bytes": 296806,
+  "sha256": "97c3053648f512a23fe6f13cee47b4b7d058b170477881c1bf22ecbd43ad722a",
   "downloads": 36648
  },
  {
@@ -83,8 +83,8 @@
   "category": "fiction",
   "blurb": "The Rover Boys on the Farm; or, Last Days at Putnam Hall\" by Edward Stratemeyer is a children's adventure novel written in the early 20th century.",
   "gutenbergID": 22163,
-  "bytes": 261665,
-  "sha256": "3e8a768a035467578b18e20686127ecf10b9c836e8ce020776d282771720afde",
+  "bytes": 247364,
+  "sha256": "4f986da95aee09ef3e4a5fe260c9914995d9ccf821b28b523bc3d7e3493a666c",
   "downloads": 36057
  },
  {
@@ -156,9 +156,9 @@
  {
   "slug": "the-romance-of-tristan-and-iseult",
   "title": "The Romance of Tristan and Iseult",
-  "author": "B\u00e9dier, Joseph",
+  "author": "Bédier, Joseph",
   "category": "history",
-  "blurb": "The Romance of Tristan and Iseult\" by Joseph B\u00e9dier is a classic medieval tale retold in prose, likely written in the early 20th century.",
+  "blurb": "The Romance of Tristan and Iseult\" by Joseph Bédier is a classic medieval tale retold in prose, likely written in the early 20th century.",
   "gutenbergID": 14244,
   "bytes": 134730,
   "sha256": "7ec6055e87b798ba93f8bfca6cbd0f675f6ae10ccd6e2c9aeb4f97e52828db0c",
@@ -188,10 +188,10 @@
  },
  {
   "slug": "the-red-lily-complete",
-  "title": "The Red Lily \u2014 Complete",
+  "title": "The Red Lily — Complete",
   "author": "France, Anatole",
   "category": "fiction",
-  "blurb": "The Red Lily \u2014 Complete\" by Anatole France is a novel published in 1894.",
+  "blurb": "The Red Lily — Complete\" by Anatole France is a novel published in 1894.",
   "gutenbergID": 3922,
   "bytes": 412973,
   "sha256": "3f16d56d4015f9b8b10567cfe5871d4f2f898df0aae4fa257cf0c775b3c221e9",
@@ -202,7 +202,7 @@
   "title": "The Landloper: The Romance of a Man on Foot",
   "author": "Day, Holman",
   "category": "fiction",
-  "blurb": "\u201cThe Landloper: The Romance of a Man on Foot\u201d by Holman Day is a novel written in the early 20th century.",
+  "blurb": "“The Landloper: The Romance of a Man on Foot” by Holman Day is a novel written in the early 20th century.",
   "gutenbergID": 4712,
   "bytes": 566700,
   "sha256": "f6e42de40e46ddfe4a04ab4bb8b861391cd0c5862cb88f1236092697d45f9a30",
@@ -210,10 +210,10 @@
  },
  {
   "slug": "the-works-of-edgar-allan-poe-volume-1",
-  "title": "The Works of Edgar Allan Poe \u2014 Volume 1",
+  "title": "The Works of Edgar Allan Poe — Volume 1",
   "author": "Poe, Edgar Allan",
   "category": "poetry",
-  "blurb": "The Works of Edgar Allan Poe \u2014 Volume 1\" by Edgar Allan Poe is a collection of various literary works, likely written in the mid-19th century.",
+  "blurb": "The Works of Edgar Allan Poe — Volume 1\" by Edgar Allan Poe is a collection of various literary works, likely written in the mid-19th century.",
   "gutenbergID": 2147,
   "bytes": 510209,
   "sha256": "49267169eea71242c683e6a3518ecf26574587af1633bce49a307433c2a886e1",
@@ -244,7 +244,7 @@
  {
   "slug": "undine",
   "title": "Undine",
-  "author": "La Motte-Fouqu\u00e9, Friedrich Heinrich Karl, Freiherr de",
+  "author": "La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de",
   "category": "fiction",
   "blurb": "Undine\" by Friedrich de la Motte Fouque is a romantic fairy tale novel written in the early 19th century.",
   "gutenbergID": 2825,
@@ -380,8 +380,8 @@
   "category": "fiction",
   "blurb": "The Car of Destiny\" by C.",
   "gutenbergID": 23500,
-  "bytes": 676976,
-  "sha256": "72d309b1e7ff476696eaa3a8de736aa2ade2370fc23aa5826b5ee2491b8d6cf7",
+  "bytes": 676756,
+  "sha256": "989cd9601ee6df5f3a7ae1a0024f85991c95247e96da92e1fd4d457198310547",
   "downloads": 31164
  },
  {
@@ -397,10 +397,10 @@
  },
  {
   "slug": "life-and-letters-of-charles-darwin-volume-1",
-  "title": "Life and Letters of Charles Darwin \u2014 Volume 1",
+  "title": "Life and Letters of Charles Darwin — Volume 1",
   "author": "Darwin, Charles",
   "category": "history",
-  "blurb": "Life and Letters of Charles Darwin \u2014 Volume 1\" by Charles Darwin is a biographical work published in 1887.",
+  "blurb": "Life and Letters of Charles Darwin — Volume 1\" by Charles Darwin is a biographical work published in 1887.",
   "gutenbergID": 2087,
   "bytes": 1075794,
   "sha256": "fb0d4ded4fa7d2f588535f101590510e4444a68516ba02ea2de37191e5cd8771",
@@ -441,10 +441,10 @@
  },
  {
   "slug": "more-letters-of-charles-darwin-volume-1-a-record-of-his-work",
-  "title": "More Letters of Charles Darwin \u2014 Volume 1: A Record of His Work in a Series of Hitherto Unpublished Letters",
+  "title": "More Letters of Charles Darwin — Volume 1: A Record of His Work in a Series of Hitherto Unpublished Letters",
   "author": "Darwin, Charles",
   "category": "history",
-  "blurb": "More Letters of Charles Darwin \u2014 Volume 1\" by Charles Darwin is a collection of correspondence published in 1903.",
+  "blurb": "More Letters of Charles Darwin — Volume 1\" by Charles Darwin is a collection of correspondence published in 1903.",
   "gutenbergID": 2739,
   "bytes": 1105129,
   "sha256": "17dd5734d2ad2ab2061a542d9b4b604e56106ad869ad6770cda7110373330bc4",
@@ -466,7 +466,7 @@
   "title": "The Secret Agent: A Simple Tale",
   "author": "Conrad, Joseph",
   "category": "fiction",
-  "blurb": "The Secret Agent: A Simple Tale\" by Joseph Conrad is a novel first published in installments in 1905\u20131906 and in book form in 1907.",
+  "blurb": "The Secret Agent: A Simple Tale\" by Joseph Conrad is a novel first published in installments in 1905–1906 and in book form in 1907.",
   "gutenbergID": 974,
   "bytes": 523979,
   "sha256": "4d0836812f81ed7a543d46fdde897445c253751441d35730a377b29c5c870d63",
@@ -479,8 +479,8 @@
   "category": "fiction",
   "blurb": "The Mystery of the Yellow Room\" by Gaston Leroux is a mystery novel first published serially in 1907.",
   "gutenbergID": 1685,
-  "bytes": 425511,
-  "sha256": "f2b896405d0e483578a84e6c04b2f0cc216e950ec36c11e914fe0876ff8cd0d7",
+  "bytes": 424165,
+  "sha256": "d0dc71910d59da0b69f30c71f545c4a7a3d45f93b3713902accf8a82bc77447a",
   "downloads": 29219
  },
  {
@@ -545,8 +545,8 @@
   "category": "history",
   "blurb": "The Life of Charles Dickens, Vol.",
   "gutenbergID": 25851,
-  "bytes": 2381370,
-  "sha256": "14dad6d4d2b9c9c3b46c3d8891f7aab5adfeb7385e85326809daf842e58a2bdf",
+  "bytes": 2371178,
+  "sha256": "d028c60192724cb8f5b5e03b101e098dd6b270801ef3de633bf1a3e900cd8a18",
   "downloads": 28419
  },
  {
@@ -565,7 +565,7 @@
   "title": "Love-at-arms: being a narrative excerpted from the chronicles of Urbino, during the dominion of the high and mighty Messer Guidobaldo da Montefeltro",
   "author": "Sabatini, Rafael",
   "category": "history",
-  "blurb": "Love-at-arms: Being a narrative excerpted from the chronicles of Urbino\" by Raphael Sabatini is a historical novel set during the late 15th to early 16th\u2026",
+  "blurb": "Love-at-arms: Being a narrative excerpted from the chronicles of Urbino\" by Raphael Sabatini is a historical novel set during the late 15th to early 16th…",
   "gutenbergID": 3530,
   "bytes": 477680,
   "sha256": "5979283db3e9263d30038a2b14b9adaaa4241d9a5c4b33942456dad87fba0784",
@@ -644,8 +644,8 @@
   "category": "fiction",
   "blurb": "Blue-grass and Broadway\" by Maria Thompson Daviess is a novel written in the early 20th century.",
   "gutenbergID": 29391,
-  "bytes": 342290,
-  "sha256": "861f112cea3e2bf54e2df4c9b3afbddf9e5934af076467f1c15c068c2a52f46e",
+  "bytes": 341069,
+  "sha256": "845c8b50c5ab9af730c2507bbe8d139e52138ab56d2ef2594f72a7513b13770b",
   "downloads": 27444
  },
  {
@@ -727,10 +727,10 @@
  },
  {
   "slug": "the-amazing-marriage-complete",
-  "title": "The Amazing Marriage \u2014 Complete",
+  "title": "The Amazing Marriage — Complete",
   "author": "Meredith, George",
   "category": "fiction",
-  "blurb": "The Amazing Marriage \u2014 Complete\" by George Meredith is a novel written in the late 19th century.",
+  "blurb": "The Amazing Marriage — Complete\" by George Meredith is a novel written in the late 19th century.",
   "gutenbergID": 4488,
   "bytes": 868244,
   "sha256": "30c6eef1aee277b3973dabcda58247bad2f56b8578d4cfd0a8c3d5746c4ac31f",
@@ -919,8 +919,8 @@
   "category": "history",
   "blurb": "My Life and Loves, Vol.",
   "gutenbergID": 59827,
-  "bytes": 597588,
-  "sha256": "32ca415efada69d15b44afe81cfca01a364683a3840ce942f841a641db65e0cb",
+  "bytes": 597266,
+  "sha256": "8d0704886b02bcd7055a546d0f7d43ed32dd5edc064a716796e8022d1886beb1",
   "downloads": 20662
  },
  {
@@ -930,8 +930,8 @@
   "category": "history",
   "blurb": "Twelve Years a Slave\" by Solomon Northup is a memoir published in 1853.",
   "gutenbergID": 45631,
-  "bytes": 455461,
-  "sha256": "99e6a79377217e37aab921757effd4dc54b0998ade09349f2292101a6cd5227d",
+  "bytes": 454580,
+  "sha256": "0d309b984ffd16e1755bee9e99b26cb4c29bc89e70144340c8ba3581f2878b65",
   "downloads": 20606
  },
  {
@@ -974,8 +974,8 @@
   "category": "fiction",
   "blurb": "Red Nails\" by Robert E.",
   "gutenbergID": 32759,
-  "bytes": 175118,
-  "sha256": "afcf5aff8d05b4e30d73f98bb04ca32a4ab4f0a1d9007787b16f9dd36e0f5d46",
+  "bytes": 174835,
+  "sha256": "aaae145330d689316e43b4adf5bed35618f7d1c84495947124e1370e41e65745",
   "downloads": 20545
  },
  {
@@ -1029,8 +1029,8 @@
   "category": "fiction",
   "blurb": "Barry Locke, half-back\" by Ralph Henry Barbour is a school sports novel written in the early 20th century.",
   "gutenbergID": 78118,
-  "bytes": 371819,
-  "sha256": "e1edf0d8668c18237a2ac6129446218bda23a1aeb466e3249948b9bb1edeb7d5",
+  "bytes": 371537,
+  "sha256": "aaf9ce62106fd8909f1cf5a5dfc02af9eaa208e25f10daec0eecfd0fb07546c1",
   "downloads": 19621
  },
  {
@@ -1112,10 +1112,10 @@
  },
  {
   "slug": "the-notebooks-of-leonardo-da-vinci-complete",
-  "title": "The Notebooks of Leonardo Da Vinci \u2014 Complete",
+  "title": "The Notebooks of Leonardo Da Vinci — Complete",
   "author": "Leonardo, da Vinci",
   "category": "history",
-  "blurb": "The Notebooks of Leonardo Da Vinci \u2014 Complete\" by Leonardo da Vinci is a comprehensive collection of writings and sketches that delve into various aspects of\u2026",
+  "blurb": "The Notebooks of Leonardo Da Vinci — Complete\" by Leonardo da Vinci is a comprehensive collection of writings and sketches that delve into various aspects of…",
   "gutenbergID": 5000,
   "bytes": 1361984,
   "sha256": "401899a2886c673609f987290acae6eb5a59e5f52e446a9be7561dfaa8284842",
@@ -1150,8 +1150,8 @@
   "category": "history",
   "blurb": "The Belle of Bowling Green\" by Amelia E.",
   "gutenbergID": 76576,
-  "bytes": 485850,
-  "sha256": "17c548e70d23424bf0193d9c95caf7d307d074fa67ec7d0f7d231bd09f4d3383",
+  "bytes": 479897,
+  "sha256": "0598c871c508d2e98459ccf8c57818592254813da225e12fdb7edd6eaf02ad76",
   "downloads": 17955
  },
  {
@@ -1293,8 +1293,8 @@
   "category": "fiction",
   "blurb": "Out of Time's Abyss\" by Edgar Rice Burroughs is a science fantasy novel published in 1918.",
   "gutenbergID": 553,
-  "bytes": 198783,
-  "sha256": "43054dcedbd69e6c9acd9e7696e835ccd171f43b1d78a77a137a587da85c4a68",
+  "bytes": 198223,
+  "sha256": "b5ca50868ea6767dd83618d18b2224bdbe3e6c0d06815e97e144000ecd8f57ae",
   "downloads": 16165
  },
  {
@@ -1326,8 +1326,8 @@
   "category": "history",
   "blurb": "Acadia\" by Frederic S.",
   "gutenbergID": 23409,
-  "bytes": 393631,
-  "sha256": "4f54afc57e342e82e623800dd87d31bd3d36f19f58701ac811238b21a34931e2",
+  "bytes": 390375,
+  "sha256": "80af4c733c435eb10856670eb238a8c3b3c56a6e7cfea81960760021adc8a587",
   "downloads": 15883
  },
  {
@@ -1337,8 +1337,8 @@
   "category": "history",
   "blurb": "Vanity Fair\" by William Makepeace Thackeray is a novel published serially from 1847 to 1848.",
   "gutenbergID": 599,
-  "bytes": 1701976,
-  "sha256": "525dcdd6e222eca23e996687e73d34a99c27e8430e45d23226bd0b619d93eb45",
+  "bytes": 1701878,
+  "sha256": "87f8a40b7b5b4f20d8501f856d84277b177295c14e86e8fcc1d847a4fbb637ff",
   "downloads": 15516
  },
  {
@@ -1403,8 +1403,8 @@
   "category": "fiction",
   "blurb": "The Guarded Heights\" by Wadsworth Camp is a novel written in the early 20th century.",
   "gutenbergID": 33733,
-  "bytes": 660442,
-  "sha256": "55efa810cd389b6330776f58ceed4d509b02521cb868471729a46a38a7df456e",
+  "bytes": 660314,
+  "sha256": "b816624d8eba89f61113272f5edb79536bde4ff957ac16be93deb3ac7fedfe60",
   "downloads": 14747
  },
  {
@@ -1425,8 +1425,8 @@
   "category": "history",
   "blurb": "The Expedition to Borneo of H.M.S.",
   "gutenbergID": 22903,
-  "bytes": 957136,
-  "sha256": "30802907e06a49145e64b465eff8c25c67cbf709733ba6fad35ba6ae5f285e29",
+  "bytes": 934677,
+  "sha256": "4fea63a6a2a6d778378cf62a35d7067e1d87833387e228edd1da705bf4236259",
   "downloads": 14637
  },
  {
@@ -1436,8 +1436,8 @@
   "category": "history",
   "blurb": "From Kingdom to Colony\" by Mary Devereux is a historical novel written in the early 20th century.",
   "gutenbergID": 34232,
-  "bytes": 521580,
-  "sha256": "6bbd55758c6af8222a38ce19eecf8cfe6eb2fad2e9012dc624b803162b8f241c",
+  "bytes": 515421,
+  "sha256": "1ae09095d785aadd5d0048c3a9fac086578d30ebc2ce9534c3ca3905034f8a23",
   "downloads": 14525
  },
  {
@@ -1458,8 +1458,8 @@
   "category": "fiction",
   "blurb": "The Mask: A Story of Love and Adventure\" by Arthur Hornblow is a novel written in the early 20th century.",
   "gutenbergID": 20131,
-  "bytes": 344179,
-  "sha256": "7bfb57d56137883461eac857ee9be1a2bd7c5fe7583a773bcbe25ae11bdfa7b2",
+  "bytes": 344120,
+  "sha256": "a0d72037049e6ea96dfaf49db385aa8f7b3fb493e168dbc0d7427aa62c369715",
   "downloads": 14014
  },
  {
@@ -1557,16 +1557,16 @@
   "category": "fiction",
   "blurb": "The Beth Book\" by Sarah Grand is a novel written in the late 19th century.",
   "gutenbergID": 28088,
-  "bytes": 1353716,
-  "sha256": "88b438f753231c4ffff06ef0a13636e3d9e676dd865b0b80eebb6f320795eca9",
+  "bytes": 1352665,
+  "sha256": "fee41f3d1b2c4abe785bdffc54954833d0a9e40b6343fbc617bbb109c93cac75",
   "downloads": 13242
  },
  {
   "slug": "essays-of-michel-de-montaigne-complete",
-  "title": "Essays of Michel de Montaigne \u2014 Complete",
+  "title": "Essays of Michel de Montaigne — Complete",
   "author": "Montaigne, Michel de",
   "category": "essays",
-  "blurb": "Essays of Michel de Montaigne \u2014 Complete\" by Michel de Montaigne is a collection of essays written between approximately 1570 and 1592.",
+  "blurb": "Essays of Michel de Montaigne — Complete\" by Michel de Montaigne is a collection of essays written between approximately 1570 and 1592.",
   "gutenbergID": 3600,
   "bytes": 2881068,
   "sha256": "763a29b3a6f3681805f64a1ee85f3f169a7879ed55523740d3c4127263d9cf8a",
@@ -1601,8 +1601,8 @@
   "category": "history",
   "blurb": "The Life of George Washington, Vol.",
   "gutenbergID": 18591,
-  "bytes": 732997,
-  "sha256": "0175d3bf2511edc67ae6ac88dad34bf3f2f5aca98ea2eacf03d067f391666cbf",
+  "bytes": 732991,
+  "sha256": "eb8f714495e7e98eb93a5d1baa48265ff8f44c674427ecf938a5d47f92257eaa",
   "downloads": 12674
  },
  {
@@ -1612,8 +1612,8 @@
   "category": "fiction",
   "blurb": "The Hawk of Egypt\" by Joan Conquest is a novel written in the early 20th century.",
   "gutenbergID": 15721,
-  "bytes": 428574,
-  "sha256": "232e6756594e1bad937ad0709df211c08d6414b99b846b97795c4a05f94a57bd",
+  "bytes": 427025,
+  "sha256": "665f299313627e0e73efaf11a69d291d206555ed25b6bfc224b000a1a638a6c9",
   "downloads": 12671
  },
  {
@@ -1645,8 +1645,8 @@
   "category": "fiction",
   "blurb": "The dangerous game by William Le Queux is a novel written in the early 20th century.",
   "gutenbergID": 78029,
-  "bytes": 408575,
-  "sha256": "6875795441611a664a42cc06a6dbadaa12213dd5dfaaa06658fe4707aeb19544",
+  "bytes": 407579,
+  "sha256": "76e35981b1c1f733388343f9816336cca6a9f782497bde409bb77c43904fe0a4",
   "downloads": 12191
  },
  {
@@ -1665,7 +1665,7 @@
   "title": "The Swiss family Robinson",
   "author": "Wyss, Johann David",
   "category": "fiction",
-  "blurb": "The Swiss Family Robinson (German: Der Schweizerische Robinson, \"The Swiss Robinson\") is a novel by the Swiss author Johann David Wyss, first published in\u2026",
+  "blurb": "The Swiss Family Robinson (German: Der Schweizerische Robinson, \"The Swiss Robinson\") is a novel by the Swiss author Johann David Wyss, first published in…",
   "gutenbergID": 78017,
   "bytes": 680177,
   "sha256": "271b675832333ae24afb727f8b7846fa623c656e834e29e1ad225753a4d35989",
@@ -1678,8 +1678,8 @@
   "category": "sacred",
   "blurb": "The Chautauqua Girls at Home\" by Pansy is a novel written in the late 19th century.",
   "gutenbergID": 26742,
-  "bytes": 468533,
-  "sha256": "175b2c51b5eba3297ad98e134cdfa90427a2bd0a3456207ee0cfeda91b5fc1b2",
+  "bytes": 466827,
+  "sha256": "6acf185d7f26c20ffd7a25dd1e3b5b4537915a880a4eb067099487c28c12ff44",
   "downloads": 12105
  },
  {
@@ -1689,8 +1689,8 @@
   "category": "philosophy",
   "blurb": "A Budget of Paradoxes, Volume II\" by Augustus De Morgan is a philosophical and mathematical treatise written in the mid-19th century.",
   "gutenbergID": 26408,
-  "bytes": 768359,
-  "sha256": "5ee85f9a5b2ec91f60b1ad9b5b67b35852f128ddbc3ea38acbd3a470726c988b",
+  "bytes": 767963,
+  "sha256": "6f8aea6b8f0d478216cd0edb9d255b5f6d40b9b4ac13e234ff632b45ccc63d51",
   "downloads": 11949
  },
  {
@@ -1698,7 +1698,7 @@
   "title": "The sociable ghost: Being the adventures of a reporter who was invited by the sociable ghost to a grand banquet, ball, and convention under the ground of old Trinity churchyard. A true tale of the things he saw and did not see while he was not there.",
   "author": "Harper, Olive",
   "category": "fiction",
-  "blurb": "The sociable ghost : Being the adventures of a reporter who was invited by the\u2026.",
+  "blurb": "The sociable ghost : Being the adventures of a reporter who was invited by the….",
   "gutenbergID": 76737,
   "bytes": 275152,
   "sha256": "615f73dd96aff4e6dfef62d05a090f57ece54bae54df43ffb31bb1eb6b2dab6b",
@@ -1711,8 +1711,8 @@
   "category": "fiction",
   "blurb": "The Marvellous Land of Snergs is a children's fantasy, written by Edward Wyke-Smith and illustrated by the Punch cartoonist George Morrow.",
   "gutenbergID": 78120,
-  "bytes": 300951,
-  "sha256": "72c5f30621820d9eb31e3300cb2adc6ab505694148bc7dc0455222fb35dd1b97",
+  "bytes": 300394,
+  "sha256": "29475c4027e83f81342768ffa48d4280899945cdf0caf7ae6a47153c44d4de32",
   "downloads": 11923
  },
  {
@@ -1755,8 +1755,8 @@
   "category": "classic",
   "blurb": "The cruise of the Nona\" by Hilaire Belloc is a travel memoir and reflective essay collection written in the early 20th century.",
   "gutenbergID": 78020,
-  "bytes": 617302,
-  "sha256": "f35f765c44d8005493f0a1417afa809229d96f88f5bd5e5740e2e0fc1fa780f9",
+  "bytes": 615128,
+  "sha256": "9360bf61e1de5b5d93e32109105f1023f1817b0688713de9be76c1c83a06326d",
   "downloads": 11891
  },
  {
@@ -1805,10 +1805,10 @@
  },
  {
   "slug": "prraphaelite-diaries-and-letters",
-  "title": "Pr\u00e6raphaelite diaries and letters",
+  "title": "Præraphaelite diaries and letters",
   "author": "Rossetti, Dante Gabriel; Rossetti, Gabriele; Brown, Ford Madox",
   "category": "classic",
-  "blurb": "Pr\u00e6raphaelite diaries and letters\" by Brown, Rossetti, and Rossetti is a collection of diaries and correspondence written in the late 19th century.",
+  "blurb": "Præraphaelite diaries and letters\" by Brown, Rossetti, and Rossetti is a collection of diaries and correspondence written in the late 19th century.",
   "gutenbergID": 78022,
   "bytes": 391435,
   "sha256": "57ddf04404ea052e746fcc6cb6e3ead0cb1161d71b702e98fb8a6a85848b1926",
@@ -1832,8 +1832,8 @@
   "category": "fiction",
   "blurb": "The golden journey of Mr.",
   "gutenbergID": 78127,
-  "bytes": 51578,
-  "sha256": "55d79e889bfa285a47f822852209b1d5c337e62c23a780b802d4056f237f64d5",
+  "bytes": 51335,
+  "sha256": "8bea0a111ae902fd42583240e3a570698f9431ae4876c37fbc773f4188d044a3",
   "downloads": 11736
  },
  {
@@ -1843,8 +1843,8 @@
   "category": "fiction",
   "blurb": "A Silent Witness\" by R.",
   "gutenbergID": 76796,
-  "bytes": 609496,
-  "sha256": "937608e1110240be85f27b37968f53ad1169428e8a0e2f21e15fab285c16edff",
+  "bytes": 605536,
+  "sha256": "d56dad385722bf3f3cece9d2ddb9b05275fb17109d9090ff456843a0ebee5f87",
   "downloads": 11733
  },
  {
@@ -1865,8 +1865,8 @@
   "category": "classic",
   "blurb": "Records of Captain Clapperton's last expedition to Africa, Vol.",
   "gutenbergID": 78091,
-  "bytes": 343841,
-  "sha256": "c317642e9d35c32412941298c3a6be67a178e1b0116fc71e3667a54a54fd88ec",
+  "bytes": 342888,
+  "sha256": "056cd856092c919d46df73c616e521ead3d14b012cffba7e7ad9e704346cd48b",
   "downloads": 11670
  },
  {
@@ -1876,8 +1876,8 @@
   "category": "history",
   "blurb": "The Copper House\" by Julius Regis is a detective novel written in the early 20th century.",
   "gutenbergID": 76903,
-  "bytes": 366214,
-  "sha256": "851ee06a4bf8ce34abc271c89dba05fa482b024c5cd0f208713da9a6b57a1991",
+  "bytes": 365975,
+  "sha256": "8b237853f24dea5f1fb62da080a9cd321294cfea652810e73999d4f9b117304e",
   "downloads": 11659
  },
  {
@@ -1887,8 +1887,8 @@
   "category": "history",
   "blurb": "The conspirators; or, The chevalier d'Harmental\" by Alexandre Dumas and Auguste Maquet is a novel published in 1843.",
   "gutenbergID": 27385,
-  "bytes": 733438,
-  "sha256": "9fb60b96d66e0abe3cc45feee1e119e5f45fb42df3aecd39099b7840004b7554",
+  "bytes": 731085,
+  "sha256": "beb4d6e9ebf74a006450e55eef55e9f3beaaa3525c496833fe855cc81ee91401",
   "downloads": 11650
  },
  {
@@ -1907,10 +1907,10 @@
   "title": "The corsair; or, the little fairy at the bottom of the sea : $b A new Christmas burlesque and pantomime, founded upon the ballet of \"Le corsair\"",
   "author": "Brough, William",
   "category": "drama",
-  "blurb": "The corsair; or, the little fairy at the bottom of the sea : A new Christmas\u2026\" by William Brough is a comic burlesque pantomime from the mid-19th-century\u2026",
+  "blurb": "The corsair; or, the little fairy at the bottom of the sea : A new Christmas…\" by William Brough is a comic burlesque pantomime from the mid-19th-century…",
   "gutenbergID": 76960,
-  "bytes": 54042,
-  "sha256": "1ed6dca332976a76babaa4fa3e7a8edfb6b2ca31b4fdc47207087c9edebba3b7",
+  "bytes": 49871,
+  "sha256": "84ac2daa5b03da27c6bc7ee7a7e9e7f25bdaf5a4f89dcf71ac14aeb9c11c1800",
   "downloads": 11593
  },
  {
@@ -1920,8 +1920,8 @@
   "category": "history",
   "blurb": "The Tapestry Book\" by Helen Churchill Candee is a historical account written in the early 20th century.",
   "gutenbergID": 26151,
-  "bytes": 408016,
-  "sha256": "d4623c46e0f63d9c1582dc2f9e7d454b5e05811a997ce92420151dfb5975c2ec",
+  "bytes": 407616,
+  "sha256": "f716897cdd3ea22d35f95991ab7144be9603b36a6b8f5f4fb0032c4e2a9ce648",
   "downloads": 11547
  },
  {
@@ -1931,8 +1931,8 @@
   "category": "fiction",
   "blurb": "A municipal feud by Ernest Haycox is a Western short story written in the early 20th century.",
   "gutenbergID": 78086,
-  "bytes": 42408,
-  "sha256": "9e4533cc1e42647379ed101790a12085b82d22f52b7c5c4e19716fa0a5461c89",
+  "bytes": 42309,
+  "sha256": "a57db580d8bcb3bba94f39e4a9018c130c0f1c0a0de0f4e3ec36b9314d7ef555",
   "downloads": 11515
  },
  {
@@ -1942,8 +1942,8 @@
   "category": "classic",
   "blurb": "The servant's behaviour book by Emily A.",
   "gutenbergID": 78121,
-  "bytes": 103040,
-  "sha256": "7c81610ac4e61a02453dc86c21e92142fd2d5fafea9a5e61afbf2551b7ee10e5",
+  "bytes": 94533,
+  "sha256": "37bf3a1da12dadc1899897f2d0bc74042c6e248e7c7bd5f804ea784835267f2e",
   "downloads": 11513
  },
  {
@@ -1953,8 +1953,8 @@
   "category": "fiction",
   "blurb": "False face by Ernest Haycox\" is a Western short story written in the early 20th century.",
   "gutenbergID": 76931,
-  "bytes": 34050,
-  "sha256": "0982722fb8e485581dfefa9a9567694ded216abe2268cdfdde4f8ebe160616df",
+  "bytes": 33946,
+  "sha256": "dfb1b0460bb3497b117d83fbc602e8bcec969c17a7c1a325ae48fbb355b8eb59",
   "downloads": 11482
  },
  {
@@ -1997,8 +1997,8 @@
   "category": "fiction",
   "blurb": "Three millions!",
   "gutenbergID": 76553,
-  "bytes": 766912,
-  "sha256": "b91aca84824de21cccaf97ef7126f2aecf1e37ef319e1b904b3ef4e8baddb900",
+  "bytes": 766542,
+  "sha256": "5f318141467267ba7784c44d6aabf052711758eb98c0b49ab6e5cb231d023078",
   "downloads": 11075
  },
  {
@@ -2008,8 +2008,8 @@
   "category": "fiction",
   "blurb": "The adventures of Heine\" by Edgar Wallace is a collection of espionage stories written in the early 20th century.",
   "gutenbergID": 76462,
-  "bytes": 501639,
-  "sha256": "83c2ef6ae38c23b57fa238f712e38e02cdb279c7828a2a600a69281dd6d1f1f5",
+  "bytes": 498572,
+  "sha256": "10cce1dec955de56578bf85bef133b77eec6a66b40db80af55e659f3a9b6c33f",
   "downloads": 11046
  },
  {
@@ -2019,8 +2019,8 @@
   "category": "history",
   "blurb": "Facts About Champagne and Other Sparkling Wines\" by Henry Vizetelly is a scientific publication written in the late 19th century.",
   "gutenbergID": 20889,
-  "bytes": 413271,
-  "sha256": "8026eade94b0ef3dc086776e01a32d92c77a4db306d52558c2bff1d43f3e79a1",
+  "bytes": 412305,
+  "sha256": "298183af511569f463bfe4915b1a1133d6c9e380a5f292d0f48571068bf14edd",
   "downloads": 10940
  },
  {
@@ -2041,8 +2041,8 @@
   "category": "fiction",
   "blurb": "The Girl from Scotland Yard\" by Edgar Wallace is a detective novel written in the early 20th century.",
   "gutenbergID": 76677,
-  "bytes": 353969,
-  "sha256": "be5b56d52ed1fae16e4a121f1b5e520f64534d1b8c3d159758377d400b3de46d",
+  "bytes": 353469,
+  "sha256": "2bf4119fd33bb52f353b5dab3fa528f9f6ec81f87f74a3192796d7d9138d1630",
   "downloads": 10917
  },
  {
@@ -2052,8 +2052,8 @@
   "category": "sacred",
   "blurb": "The Religious Experience of the Roman People\" by W.",
   "gutenbergID": 23349,
-  "bytes": 1101715,
-  "sha256": "b33674c81529832075265d3fab5da71beca6e6e4a6f36f303fc030bbef2f002b",
+  "bytes": 1096297,
+  "sha256": "6d31614a2b60bc16053a8e099618d943e84f355536310d8fbd7c0608c549c8bf",
   "downloads": 10892
  },
  {
@@ -2063,8 +2063,8 @@
   "category": "fiction",
   "blurb": "The Crimson Circle\" by Edgar Wallace is a crime novel written in the early 20th century.",
   "gutenbergID": 76257,
-  "bytes": 370072,
-  "sha256": "7f7d7dd66a058cea7aa4c16be689a8a0003fe4a0d2305e6bc844ba0ee875230f",
+  "bytes": 369051,
+  "sha256": "74be4415c4a98b091622fd8b5d34e8528f454e26a1f076f6891355709161dd68",
   "downloads": 10885
  },
  {
@@ -2074,8 +2074,8 @@
   "category": "fiction",
   "blurb": "Terror Keep\" by Edgar Wallace is a novel written in the early 20th century.",
   "gutenbergID": 75949,
-  "bytes": 306240,
-  "sha256": "31df82d20674ea84acc2b58370b4476a5e30966145dda7139546b4638ae4681d",
+  "bytes": 304257,
+  "sha256": "393d11c45cb09fc8e09e61c119170e44d3877656d5508fc3704b66ed66eae9b1",
   "downloads": 10880
  },
  {
@@ -2091,10 +2091,10 @@
  },
  {
   "slug": "arsene-lupin-intervenes",
-  "title": "Ars\u00e8ne Lupin intervenes",
+  "title": "Arsène Lupin intervenes",
   "author": "Leblanc, Maurice",
   "category": "fiction",
-  "blurb": "Ars\u00e8ne Lupin Intervenes\" by Maurice Leblanc is a novel\u2014more specifically, a work of detective fiction\u2014written in the early 20th century.",
+  "blurb": "Arsène Lupin Intervenes\" by Maurice Leblanc is a novel—more specifically, a work of detective fiction—written in the early 20th century.",
   "gutenbergID": 75896,
   "bytes": 355411,
   "sha256": "758adb8ff9d7def6914597e68d651f4e9c62c5072a6fcaba31018cd2f91de0bc",
@@ -2118,8 +2118,8 @@
   "category": "fiction",
   "blurb": "Lillian's Vow; or, The Mystery of Raleigh House\" by Mrs.",
   "gutenbergID": 76634,
-  "bytes": 342025,
-  "sha256": "b066601b7a57f0aea22879cdcb9702a31f79e508d7c20c2f3a6903ffe8a8e91d",
+  "bytes": 306297,
+  "sha256": "85bb2882ae7df2b12c67c21f7d92606adf2924738f83ccca78046f1cb4e5652b",
   "downloads": 10827
  },
  {
@@ -2129,8 +2129,8 @@
   "category": "fiction",
   "blurb": "The tomb of Ts'in\" by Edgar Wallace is an adventure-thriller novel written in the early 20th century.",
   "gutenbergID": 76418,
-  "bytes": 301366,
-  "sha256": "3ee268ab55c3260741e63b9f26e83b1cdb638abe25a8e71a203625dff1ed5d5c",
+  "bytes": 299903,
+  "sha256": "56c498cd9c6c4383358f022971f8056b806796ff75f30746eb77279707a5aad7",
   "downloads": 10826
  },
  {
@@ -2184,8 +2184,8 @@
   "category": "fiction",
   "blurb": "The blue scarab by R.",
   "gutenbergID": 76116,
-  "bytes": 387709,
-  "sha256": "745d9de3cd59a33df63fd01037ad7c75a5bdabe99283f415c925aa55e70bf9ae",
+  "bytes": 386088,
+  "sha256": "94f3b11d8c41ea917988173992d6212a1eebc17021dfdcaf145ee3d47b8428f2",
   "downloads": 10816
  },
  {
@@ -2195,8 +2195,8 @@
   "category": "philosophy",
   "blurb": "Essays\" by Ralph Waldo Emerson is a collection of philosophical reflections and lectures written in the mid-19th century.",
   "gutenbergID": 16643,
-  "bytes": 509801,
-  "sha256": "13ff1c62b26b581a2ab09874704d89a3b96b9fcd08664d8d04d9d25da67a82c5",
+  "bytes": 495281,
+  "sha256": "e3eb1de3ca262adb6f03040f26375a3b0de9b3fc2785f248c671d799dacb5250",
   "downloads": 10761
  },
  {
@@ -2228,8 +2228,8 @@
   "category": "fiction",
   "blurb": "The Strange Countess\" by Edgar Wallace is a novel written in the early 20th century.",
   "gutenbergID": 75858,
-  "bytes": 352515,
-  "sha256": "8ac2ddef9b4c9e5339ddfa98d055e2b32c935158408060427860fe6c5e96ecdf",
+  "bytes": 350803,
+  "sha256": "f071834a60b1969b626a7513e2ee2f82cc6a90bdfbcfd6597a0de95acf2d214e",
   "downloads": 10616
  },
  {
@@ -2250,8 +2250,8 @@
   "category": "fiction",
   "blurb": " Mistress Anne\" by Temple Bailey is a novel written in the early 20th century.",
   "gutenbergID": 23246,
-  "bytes": 439118,
-  "sha256": "edcece773a5cf0af87d72f9fc7d36d1840664bc9743ae5683181336420628a2f",
+  "bytes": 439060,
+  "sha256": "21472a833a9a041b8d87f8ac2e925da18d01cbff64b9968d73c1f3a85ce2bdd7",
   "downloads": 10579
  },
  {
@@ -2316,8 +2316,8 @@
   "category": "fiction",
   "blurb": "The Rover Boys on a Hunt; or, The Mysterious House in the Woods\" by Arthur M.",
   "gutenbergID": 22012,
-  "bytes": 325966,
-  "sha256": "0188014584dd2065f651b3192241f1f218166f682c118b5b8c043e550fcef6da",
+  "bytes": 320809,
+  "sha256": "5fbfd87c321932e271f49afc13cb024ff0fb400f5bf5896b2721142e607f3b3e",
   "downloads": 10355
  },
  {
@@ -2327,8 +2327,8 @@
   "category": "fiction",
   "blurb": "Fair Margaret: A Portrait\" by F.",
   "gutenbergID": 25838,
-  "bytes": 548369,
-  "sha256": "5cc47556487b18d26da7a1c24185aeb6c4fee622a12f3748d86a2a4cd4149d4d",
+  "bytes": 539270,
+  "sha256": "39c041bac92247fe21570b5100ef12301aa4485b298ec75b87ad8c22364773fc",
   "downloads": 10314
  },
  {
@@ -2338,8 +2338,8 @@
   "category": "fiction",
   "blurb": "The Perpetual Curate\" by Mrs.",
   "gutenbergID": 28006,
-  "bytes": 1068463,
-  "sha256": "d35dc1cf3ca9161b150ddbde7e016945f00df7fb36d4771417e2f152c33531fb",
+  "bytes": 1067737,
+  "sha256": "81b8f2e628dcc9d2caeb6223d81ed6ce102ffe9823976bccf27a41a2c3098c8f",
   "downloads": 10303
  },
  {
@@ -2415,8 +2415,8 @@
   "category": "history",
   "blurb": "Frenzied Finance, Vol.",
   "gutenbergID": 26330,
-  "bytes": 1150352,
-  "sha256": "9758ffc46d0d4ae60f3bbc59a8b157ea1f2b5de4096b7964587f45cd9398df9b",
+  "bytes": 1148814,
+  "sha256": "7c2fb6285df923a94d13b4d299bbe9b92bea32bf412832b41af366b1bf88bdd3",
   "downloads": 9926
  },
  {
@@ -2448,8 +2448,8 @@
   "category": "history",
   "blurb": "Captain Canot; Or, Twenty Years of an African Slaver\" by Canot and Mayer is a historical account written in the mid-19th century.",
   "gutenbergID": 23034,
-  "bytes": 885938,
-  "sha256": "eb390209ea6e20b62dbcaea6fba52d51f5add4b267970dd49779b8b52a6c1686",
+  "bytes": 849571,
+  "sha256": "7c155fa322f2166c0bf4fbbd0c1283d9f1069db3ebad15af6d35b3ac3a45a4f2",
   "downloads": 9843
  },
  {
@@ -2477,9 +2477,9 @@
  {
   "slug": "the-reign-of-greed",
   "title": "The Reign of Greed",
-  "author": "Rizal, Jos\u00e9",
+  "author": "Rizal, José",
   "category": "history",
-  "blurb": "The Reign of Greed\" by Jos\u00e9 Rizal is a novel written in 1891.",
+  "blurb": "The Reign of Greed\" by José Rizal is a novel written in 1891.",
   "gutenbergID": 10676,
   "bytes": 674587,
   "sha256": "6da0c20dd6c7b9c15e30642ec7a85998f9b50dc1902b387cb388b0a183316f52",
@@ -2536,8 +2536,8 @@
   "category": "fiction",
   "blurb": "In the Mayor's Parlour\" by J.",
   "gutenbergID": 25424,
-  "bytes": 413293,
-  "sha256": "45045ac5f679ffae53e8c2a258f50012cc3241d035365ec912e8cc331a2451c6",
+  "bytes": 410116,
+  "sha256": "bc9df8f6bb7a097098f20aea26aa84d989a012c2842fecac551a438df7514d4a",
   "downloads": 9583
  },
  {
@@ -2624,8 +2624,8 @@
   "category": "history",
   "blurb": "A Little Girl of Long Ago; Or, Hannah Ann\" by Amanda M.",
   "gutenbergID": 23781,
-  "bytes": 505738,
-  "sha256": "2cb68040342ca45f4003ef5997951e1d573e06b8ff20bb5bab11a2517aaed975",
+  "bytes": 505129,
+  "sha256": "27ee820a7461aa83835806e078e6688bab3e9d82402baa45be48e8e3619cd66d",
   "downloads": 9265
  },
  {
@@ -2707,10 +2707,10 @@
  },
  {
   "slug": "the-wandering-jew-complete",
-  "title": "The Wandering Jew \u2014 Complete",
-  "author": "Sue, Eug\u00e8ne",
+  "title": "The Wandering Jew — Complete",
+  "author": "Sue, Eugène",
   "category": "history",
-  "blurb": "The Wandering Jew \u2014 Complete\" by Eug\u00e8ne Sue is a novel published in 1844.",
+  "blurb": "The Wandering Jew — Complete\" by Eugène Sue is a novel published in 1844.",
   "gutenbergID": 3350,
   "bytes": 2991175,
   "sha256": "af43acff6710b6645c18d177d000323d6e97be5acefb9c7a680f53f7abd5a2da",
@@ -2734,8 +2734,8 @@
   "category": "fiction",
   "blurb": "George at the Fort; Or, Life Among the Soldiers\" by Harry Castlemon is a novel written in the late 19th century.",
   "gutenbergID": 21664,
-  "bytes": 380808,
-  "sha256": "968bd97a9f5fc7f343b55be64692c7e826c6c5aa98a118fb2476137711126c47",
+  "bytes": 380710,
+  "sha256": "7c318e2fade7adacbbdedb8e080fb93df15b17623799882d04d0b8765654db47",
   "downloads": 8928
  },
  {
@@ -2762,10 +2762,10 @@
  },
  {
   "slug": "archological-essays-vol-1",
-  "title": "Arch\u00e6ological Essays, Vol. 1",
+  "title": "Archæological Essays, Vol. 1",
   "author": "Simpson, James Young",
   "category": "history",
-  "blurb": "Arch\u00e6ological Essays, Vol.",
+  "blurb": "Archæological Essays, Vol.",
   "gutenbergID": 27354,
   "bytes": 522161,
   "sha256": "dfbeb5a4179e0fcf713e3df42f27bf1f90fbff56f53b58e242a9d31af74ceb0e",
@@ -2789,8 +2789,8 @@
   "category": "fiction",
   "blurb": "From the Car Behind\" by Eleanor M.",
   "gutenbergID": 27337,
-  "bytes": 340348,
-  "sha256": "be442b94575d7269bccfff663c053b6b1452601fd8527d40786dc753fb619f9e",
+  "bytes": 328779,
+  "sha256": "8ad9e953139fc70f11ab93b19c72fe991a34148a20b21d0f3af5cde2b7a37cf0",
   "downloads": 8821
  },
  {
@@ -2811,8 +2811,8 @@
   "category": "fiction",
   "blurb": "Fair Harbor\" by Joseph C.",
   "gutenbergID": 22745,
-  "bytes": 700297,
-  "sha256": "8175b70f674bf4ade8c672ca68ca4900c90b364749be99875506be9787a5d6d4",
+  "bytes": 697459,
+  "sha256": "ffe4c8cebe35ab6d212bfa7a22259ecd4e4b99699bb78411a59721b3dbad144a",
   "downloads": 8752
  },
  {
@@ -2877,8 +2877,8 @@
   "category": "fiction",
   "blurb": "Sally of Missouri\" by Rose E.",
   "gutenbergID": 23391,
-  "bytes": 305431,
-  "sha256": "c2d3381c77cafcc5dfb2a8e4337ccdf81918d5b06003334b26d50a4389bc6f7a",
+  "bytes": 301366,
+  "sha256": "9197a304242f61416618cfc6a4b5bd2eb37b90f7c46f527cde74868882617d8b",
   "downloads": 8593
  },
  {
@@ -2921,8 +2921,8 @@
   "category": "fiction",
   "blurb": "Shorty McCabe on the Job\" by Sewell Ford is a novel written in the early 20th century.",
   "gutenbergID": 21005,
-  "bytes": 407928,
-  "sha256": "20e108461a27842a8fb6fe8df67fe4c3723fd5ff9a2ed35f934cf4beed896a59",
+  "bytes": 395725,
+  "sha256": "2391f7e1f6237ec13f91a9d2cb65b757e075845a7a45742cc3326771980074e9",
   "downloads": 8520
  },
  {
@@ -2954,8 +2954,8 @@
   "category": "fiction",
   "blurb": "The Convert\" by Elizabeth Robins is a novel written in the early 20th century.",
   "gutenbergID": 26420,
-  "bytes": 629237,
-  "sha256": "aa05e8d6bd3d9163535431dd54d773f489784d891332913eec21c3046b6df340",
+  "bytes": 627120,
+  "sha256": "92fdb7cce72a6b29c675896512ceba47b9128d9f379551fd6381af0395252647",
   "downloads": 8474
  },
  {
@@ -2965,8 +2965,8 @@
   "category": "fiction",
   "blurb": "The Strange Case of Mortimer Fenley\" by Louis Tracy is a novel written in the early 20th century.",
   "gutenbergID": 26447,
-  "bytes": 422271,
-  "sha256": "2fba7220b2eb792ec0265fdeefd0c1ee48e06f638699a127bb97a28f5aca27b9",
+  "bytes": 421902,
+  "sha256": "eccd5b009bf3e22e34a91727ab6837ba3e16646a2c5ea55a11c867e5c87867a1",
   "downloads": 8473
  },
  {
@@ -2974,10 +2974,10 @@
   "title": "Nights With Uncle Remus: Myths and Legends of the Old Plantation",
   "author": "Harris, Joel Chandler",
   "category": "fiction",
-  "blurb": "Nights With Uncle Remus: Myths and Legends of the Old Plantation\" by Joel Chandler Harris is a collection of folk tales and legends written in the late 19th\u2026",
+  "blurb": "Nights With Uncle Remus: Myths and Legends of the Old Plantation\" by Joel Chandler Harris is a collection of folk tales and legends written in the late 19th…",
   "gutenbergID": 26429,
-  "bytes": 613646,
-  "sha256": "d6db5e402d7a243282b90ed9ab163bd884c9725c03f822b529128550fd61b4a9",
+  "bytes": 613351,
+  "sha256": "17a38e54e926f0be39142562cb4f13b049152e6ea69688174c65961e9ddc0dcf",
   "downloads": 8455
  },
  {
@@ -2987,8 +2987,8 @@
   "category": "fiction",
   "blurb": "The Little Colonel: Maid of Honor\" by Annie F.",
   "gutenbergID": 21248,
-  "bytes": 359612,
-  "sha256": "fd62e5346acd2df20866fde377ed8a9e2f6f8b65cfc9db808f5909bf59f572b8",
+  "bytes": 336749,
+  "sha256": "c86eaccd93823acf06b9e550b81313bcb4cbf6c6ab4d31a77a9cc9d03168e70d",
   "downloads": 8447
  },
  {
@@ -2998,8 +2998,8 @@
   "category": "fiction",
   "blurb": "Left Guard Gilbert\" by Ralph Henry Barbour is a boys' sports novel written in the early 20th century.",
   "gutenbergID": 26149,
-  "bytes": 344271,
-  "sha256": "b16202cbe66abd5924d07da7a5d0c34dd26dcbd5053406c957ed047520758965",
+  "bytes": 343416,
+  "sha256": "7465b0739977f2723e82960aecfec5c615e88a0452125202a1f53d1235038619",
   "downloads": 8426
  },
  {
@@ -3020,8 +3020,8 @@
   "category": "history",
   "blurb": "The Border Watch: A Story of the Great Chief's Last Stand\" by Joseph A.",
   "gutenbergID": 25186,
-  "bytes": 651483,
-  "sha256": "048bdf69591092e1cb88cd75af29434a6438cd378bb885352b84fe181cda4072",
+  "bytes": 649498,
+  "sha256": "edbe5064324030130ddc2381f0e8b9f8c59dd1f05ed08c1b8cdd0cb910884abd",
   "downloads": 8395
  },
  {
@@ -3053,8 +3053,8 @@
   "category": "history",
   "blurb": "Camp-fire and Wigwam\" by Edward Sylvester Ellis is a historical adventure novel written in the late 19th century.",
   "gutenbergID": 25966,
-  "bytes": 403660,
-  "sha256": "a49817f8bc42de2b6638ac8fe8b391193ee441ba405120f2fecc42915c4a10a1",
+  "bytes": 398537,
+  "sha256": "d446cc03427e355b599b6e8fbdf273112248594698088566b00fb8157842287c",
   "downloads": 8371
  },
  {
@@ -3097,8 +3097,8 @@
   "category": "fiction",
   "blurb": "A Modern Tomboy: A Story for Girls\" by L.",
   "gutenbergID": 22164,
-  "bytes": 496591,
-  "sha256": "73bb049238b8460f6b431db2333471e3632e3c92a4b9244f018e600b63cfbe5b",
+  "bytes": 487639,
+  "sha256": "dda775f5e91f841d0c4a45632324d0967dd900c53c77035312a902df9515184f",
   "downloads": 8323
  },
  {
@@ -3161,7 +3161,7 @@
   "title": "The Causes of the Corruption of the Traditional Text of the Holy Gospels: Being the Sequel to The Traditional Text of the Holy Gospels",
   "author": "Burgon, John William",
   "category": "sacred",
-  "blurb": "The Causes of the Corruption of the Traditional Text of the Holy Gospels\" by John William Burgon is a scholarly examination of textual corruption in the\u2026",
+  "blurb": "The Causes of the Corruption of the Traditional Text of the Holy Gospels\" by John William Burgon is a scholarly examination of textual corruption in the…",
   "gutenbergID": 21112,
   "bytes": 576174,
   "sha256": "fbda4756688970ef2421440e9171ae6d0de8456dc1f2b9a5c65c278848a4de6e",
@@ -3207,8 +3207,8 @@
   "category": "fiction",
   "blurb": "The Opal Serpent\" by Fergus Hume is a novel written in the early 20th century.",
   "gutenbergID": 24769,
-  "bytes": 486101,
-  "sha256": "1dd0c9d0867719776496985d7e0313968693d6808e27dd2d53d384499be5c1ce",
+  "bytes": 484180,
+  "sha256": "83d266f193fdb2738cb1167e17d940f304c83844e85ce6b9b2366415623d8f79",
   "downloads": 8040
  },
  {
@@ -3284,8 +3284,8 @@
   "category": "fiction",
   "blurb": "Odd Numbers\" by Sewell Ford is a comedic novel written in the early 20th century.",
   "gutenbergID": 26528,
-  "bytes": 377182,
-  "sha256": "4730337a0c2568a093f893b98ff4c9fc1081915b28171e62ca7f07eae1ccbf95",
+  "bytes": 364651,
+  "sha256": "a4d94149443b97a6e2a7583ebc465aa80456b2013382d2398c864645fdb620f8",
   "downloads": 7900
  },
  {
@@ -3328,8 +3328,8 @@
   "category": "fiction",
   "blurb": "The Little Colonel's Christmas Vacation\" by Annie Fellows Johnston is a novel written in the early 20th century.",
   "gutenbergID": 26215,
-  "bytes": 394079,
-  "sha256": "a5a1bdd752034dbe5670017a92e1a9e0c185982fba126762bbe90bf03f0b17d7",
+  "bytes": 379617,
+  "sha256": "8af20099115746aa0d9d0f7d58495f59b6702491b1c2c8a8a548473ae21af30d",
   "downloads": 7795
  },
  {
@@ -3383,8 +3383,8 @@
   "category": "fiction",
   "blurb": "Flora Lyndsay; or, Passages in an Eventful Life, Vol.",
   "gutenbergID": 27373,
-  "bytes": 368217,
-  "sha256": "0d79d461457dd97f3d25c2362c1b8456d89290e51244c1105a722459dc0b7d46",
+  "bytes": 366436,
+  "sha256": "ce02ae0e0686e2024941c4a819bc2dfc793718b3413433ec6af428d798b6f204",
   "downloads": 7732
  },
  {
@@ -3471,8 +3471,8 @@
   "category": "fiction",
   "blurb": "Just Patty\" by Jean Webster is a novel written in the early 20th century.",
   "gutenbergID": 21048,
-  "bytes": 284512,
-  "sha256": "dd00533d6a1962dfe933a3f99f23e98956c675d8970a55e160ec214d91eb7abe",
+  "bytes": 283440,
+  "sha256": "1a02514df754f7d660f4d388815a0f34e86ca967642c85263c2f982f73f37a65",
   "downloads": 7644
  },
  {
@@ -3482,8 +3482,8 @@
   "category": "fiction",
   "blurb": "The Works of Guy de Maupassant, Vol.",
   "gutenbergID": 21327,
-  "bytes": 576384,
-  "sha256": "12c810e34c04844b103f73bf758b3c270c5bb7ecbdf0d261678d1ed358919fc3",
+  "bytes": 575850,
+  "sha256": "99582f1f16011364c9e3f5c520eb9659c6386a9d02c0136478ac5acfecb4a40e",
   "downloads": 7619
  },
  {
@@ -3493,8 +3493,8 @@
   "category": "fiction",
   "blurb": "Betty Leicester: A Story for Girls\" by Sarah Orne Jewett is a novel written in the late 19th century.",
   "gutenbergID": 27923,
-  "bytes": 303346,
-  "sha256": "aaa461c1b4e7ae8cbd972569fe78c1bad688c1b669393375256dd66da02a0046",
+  "bytes": 302572,
+  "sha256": "4a534cda78d8e644a2c5537b1f655544685d1741084c1d734b82a9bc3e36776e",
   "downloads": 7594
  },
  {
@@ -3515,8 +3515,8 @@
   "category": "history",
   "blurb": "Memoirs of the Jacobites of 1715 and 1745.",
   "gutenbergID": 20947,
-  "bytes": 581124,
-  "sha256": "886de2ce44372a0f0f3468f881d8baa8c53635856ec449a5844333065f248b9a",
+  "bytes": 578709,
+  "sha256": "fba3915ccd735bcc39a548efe9d40127f25175b5c27dddfeccb776f9e3c960e3",
   "downloads": 7589
  },
  {
@@ -3526,8 +3526,8 @@
   "category": "fiction",
   "blurb": "The Slave of Silence\" by Fred M.",
   "gutenbergID": 27395,
-  "bytes": 467984,
-  "sha256": "1d68135f2c3c23b9a3dc3a96e77c16bf11edebdf11f923b114210bc6e6bd4474",
+  "bytes": 465485,
+  "sha256": "2c52d4e9290b615b8ec923cc84ec19d163db43ca7224f2a7fbb1672d184dd532",
   "downloads": 7583
  },
  {
@@ -3537,8 +3537,8 @@
   "category": "fiction",
   "blurb": "Frank Merriwell's Pursuit\" by Burt L.",
   "gutenbergID": 22874,
-  "bytes": 373873,
-  "sha256": "65ad2fb7fe5d4cfec18fcd041fd19d83535bf56e9bfee434e6aa951867724049",
+  "bytes": 367734,
+  "sha256": "46d1104976aa49efa41b2bf5bc5e7f8955cca0366f41a41351133397c0725275",
   "downloads": 7530
  },
  {
@@ -3548,8 +3548,8 @@
   "category": "history",
   "blurb": "Birds of the Rockies\" by Leander S.",
   "gutenbergID": 25973,
-  "bytes": 390346,
-  "sha256": "c1a89c49d057bce7ff6ead777af4c02198bbab4744cac55018989f3f117e7945",
+  "bytes": 390092,
+  "sha256": "070b1cc78ed294ae2fcae64ad66dbe461efc41a2cc053d95b72f3e3bf6a66b31",
   "downloads": 7518
  },
  {
@@ -3570,8 +3570,8 @@
   "category": "fiction",
   "blurb": "Nights With Uncle Remus\" by Joel Chandler Harris is a collection of folk tales written in the late 19th century.",
   "gutenbergID": 24430,
-  "bytes": 559345,
-  "sha256": "2b186050566b793d1162e2a1bacb59e3a3ca440d58ed5c14e322b8527784b63e",
+  "bytes": 559116,
+  "sha256": "731201ea5f78a2f14276d7776850ab0679329f9c89b019f0aa2195c204303c19",
   "downloads": 7494
  },
  {
@@ -3588,9 +3588,9 @@
  {
   "slug": "the-forbidden-trail",
   "title": "The Forbidden Trail",
-  "author": "Morrow, Honor\u00e9",
+  "author": "Morrow, Honoré",
   "category": "fiction",
-  "blurb": "The Forbidden Trail\" by Honor\u00e9 Willsie is a novel written in the early 20th century.",
+  "blurb": "The Forbidden Trail\" by Honoré Willsie is a novel written in the early 20th century.",
   "gutenbergID": 22284,
   "bytes": 544734,
   "sha256": "d066fc72e2222991d4ad71dc56ecac3a8b18b2167564bfbdc99d43f94369a83e",
@@ -3647,8 +3647,8 @@
   "category": "fiction",
   "blurb": "Glory of Youth\" by Temple Bailey is a novel written in the early 20th century.",
   "gutenbergID": 22292,
-  "bytes": 338677,
-  "sha256": "bdda60d20c27464b0e55c6457829377a1ee20e71ccced61e13a65a9d1f3cdbc2",
+  "bytes": 332250,
+  "sha256": "e494c428edc32acd80ac7d715a0cc2d0cc954a2d1213d7bd900fd900b48c3afa",
   "downloads": 7411
  },
  {
@@ -3720,9 +3720,9 @@
  {
   "slug": "a-hungarian-nabob",
   "title": "A Hungarian Nabob",
-  "author": "J\u00f3kai, M\u00f3r",
+  "author": "Jókai, Mór",
   "category": "fiction",
-  "blurb": "A Hungarian Nabob\" by M\u00f3r J\u00f3kai is a novel written in the late 19th century.",
+  "blurb": "A Hungarian Nabob\" by Mór Jókai is a novel written in the late 19th century.",
   "gutenbergID": 20978,
   "bytes": 579132,
   "sha256": "496b2a2e666e525c101fb110dc34cfaf198523d3c1efce14633e42e9626c1be2",
@@ -3790,8 +3790,8 @@
   "category": "fiction",
   "blurb": "Girl Scouts in the Adirondacks\" by Lillian Elizabeth Roy is a children's adventure novel written in the early 20th century.",
   "gutenbergID": 26345,
-  "bytes": 284434,
-  "sha256": "efd700a179c256b285c95ff8a88da4ab6d42bd98250bb4a97694d3c85256853d",
+  "bytes": 284134,
+  "sha256": "46d6450567007490779de692389162d305886724b133ae8dca3ad0d022f7e04d",
   "downloads": 7205
  },
  {
@@ -3823,8 +3823,8 @@
   "category": "fiction",
   "blurb": "Tales of Folk and Fairies\" by Katharine Pyle is a collection of folk tales and fairy stories written in the early 20th century.",
   "gutenbergID": 25913,
-  "bytes": 273608,
-  "sha256": "d0644685baae7ac7ed251496527a02adf9ad4a2a0d7dc658e3f105fd016b3f7c",
+  "bytes": 273333,
+  "sha256": "eed1a87928dbb5d1a95770f2311b59a924684ef41122e1b92152f2bc946c3ca1",
   "downloads": 7175
  },
  {
@@ -3867,8 +3867,8 @@
   "category": "sacred",
   "blurb": "The Man of the Desert\" by Grace Livingston Hill is a novel written in the early 20th century.",
   "gutenbergID": 21633,
-  "bytes": 321042,
-  "sha256": "df91f77594d46dfdd8fd0d92928be27060a0cedc366ece56517eb4d48c6370df",
+  "bytes": 320661,
+  "sha256": "27af49f158dabf4d4cd6890eed1de925189f2105803c12683bcdcc618950facc",
   "downloads": 7110
  },
  {
@@ -3878,8 +3878,8 @@
   "category": "classic",
   "blurb": "The Teacher\" by Jacob Abbott is a pedagogical manual written in the early 19th century.",
   "gutenbergID": 22251,
-  "bytes": 634777,
-  "sha256": "1f3f61bcfa92cab78589eb99ef2f28a41f2e9240a99a916b12abc3b82a84fcfe",
+  "bytes": 633989,
+  "sha256": "e060ded2c6d210f84d316cd66a7a0b3cbd02382ae461c639552382d826ec7ce7",
   "downloads": 7102
  },
  {
@@ -3909,7 +3909,7 @@
   "title": "Andersonville: A Story of Rebel Military Prisons",
   "author": "McElroy, John",
   "category": "history",
-  "blurb": "Andersonville: A Story of Rebel Military Prisons\" by John McElroy is a historical account written in the late 19th century that recounts the experiences of a\u2026",
+  "blurb": "Andersonville: A Story of Rebel Military Prisons\" by John McElroy is a historical account written in the late 19th century that recounts the experiences of a…",
   "gutenbergID": 3072,
   "bytes": 1078321,
   "sha256": "7331a49df0898d599702ea97158942070735c3d4065671c2c9cfca240437a001",
@@ -3953,7 +3953,7 @@
   "title": "A Voice in the Wilderness",
   "author": "Hill, Grace Livingston",
   "category": "sacred",
-  "blurb": "A Voice in the Wilderness\" by Grace Livingston Hill is a novel written in the early 20th century.\" The story follows a young woman named Margaret Earle as she\u2026",
+  "blurb": "A Voice in the Wilderness\" by Grace Livingston Hill is a novel written in the early 20th century.\" The story follows a young woman named Margaret Earle as she…",
   "gutenbergID": 21219,
   "bytes": 552252,
   "sha256": "defc95dcc8c2e1f8a2cea1ce141ca67c23ac6decb48124af4195285e6c058f97",
@@ -3966,8 +3966,8 @@
   "category": "fiction",
   "blurb": "A Little Country Girl\" by Susan Coolidge is a novel written in the late 19th century.",
   "gutenbergID": 27162,
-  "bytes": 270885,
-  "sha256": "c1344a6bb64d1e5b0b5ecdbec718753f025ddfdaffe15c5d4993cd61959b5496",
+  "bytes": 270591,
+  "sha256": "1ce3170f15c0233b91e920e6bd7f5ea41b3b6231eec3fb94ff17762d866c296f",
   "downloads": 6974
  },
  {
@@ -3999,8 +3999,8 @@
   "category": "fiction",
   "blurb": "The Dew of Their Youth\" by S.",
   "gutenbergID": 23736,
-  "bytes": 546065,
-  "sha256": "0c6f11a239ee92b6568e94fe3e98eb8d9ada21791e007d10899c924e3c8fef8f",
+  "bytes": 545802,
+  "sha256": "4a566633f569f6983360b69ae3ffdbb2b3a0e4f94dcbfe9df3a1f2748066ecf2",
   "downloads": 6798
  },
  {
@@ -4010,8 +4010,8 @@
   "category": "history",
   "blurb": "Crossing the Plains, Days of '57\" by Wm.",
   "gutenbergID": 26858,
-  "bytes": 145063,
-  "sha256": "e11bb45fcefc84993d1f55bd7a4f7e1ecc0afc3eb606ffd44fd6d894cdefa06c",
+  "bytes": 144210,
+  "sha256": "6bedf97a7a49664b61ea6a1a4fc064e19cba8968f9781875e972659e84756438",
   "downloads": 6789
  },
  {
@@ -4032,8 +4032,8 @@
   "category": "classic",
   "blurb": "Wild Nature Won By Kindness\" by Mrs.",
   "gutenbergID": 21111,
-  "bytes": 244962,
-  "sha256": "a4138dde154a4d4bfa113e41c5d152dc67f77c104644d70eb887273c8aa10167",
+  "bytes": 244026,
+  "sha256": "40abf8348e96cae7651d9cfcfc427c2d419b0bf1db2a8c1d0752a07f36fef29e",
   "downloads": 6759
  },
  {
@@ -4065,8 +4065,8 @@
   "category": "fiction",
   "blurb": "Seek and Find; or, The Adventures of a Smart Boy\" by Oliver Optic is a novel written in the mid-19th century.",
   "gutenbergID": 27666,
-  "bytes": 320375,
-  "sha256": "acab37e4688817337af037cfd239123899d35f233a872653609d7fe6a3d72075",
+  "bytes": 320192,
+  "sha256": "a19f6d64dc40ec5835fb33bca083b31b61fd5b9fa503232ccac9299094f0267c",
   "downloads": 6716
  },
  {
@@ -4120,8 +4120,8 @@
   "category": "history",
   "blurb": "Uncle Sam's Boys as Lieutenants; or, Serving Old Glory as Line Officers\" by H.",
   "gutenbergID": 26381,
-  "bytes": 272794,
-  "sha256": "a4401b02146b1acba912c0d54d68eabc4bed9d960312c3fb63eb33f2783a098d",
+  "bytes": 261554,
+  "sha256": "eb61e279c448e98c2d935233e066277bb354edb3e9257b3e6bfc9f76429052ea",
   "downloads": 6651
  },
  {
@@ -4164,8 +4164,8 @@
   "category": "fiction",
   "blurb": "Dave Darrin on Mediterranean Service; or, With Dan Dalzell on European Duty\" by H.",
   "gutenbergID": 22431,
-  "bytes": 281733,
-  "sha256": "747596dfb0ab91c8588232dd4e1a116a955f50c64f2810981abbd14fa355b71e",
+  "bytes": 269276,
+  "sha256": "c82f55a5f829c4955e0368a8b0f306bad49838660c20f0772e9df0a068541fa5",
   "downloads": 6592
  },
  {
@@ -4175,8 +4175,8 @@
   "category": "fiction",
   "blurb": "The Ocean Wireless Boys and the Naval Code\" by Captain Wilbur Lawton is a fictional adventure novel written in the early 20th century.",
   "gutenbergID": 26778,
-  "bytes": 250376,
-  "sha256": "a87e851ebf70813c90c24675c7da50b9c8dce4ec010ea78cac7e721dd9696dfa",
+  "bytes": 238573,
+  "sha256": "664544b6f8ac13a74f3d47a6957f7ad293dcda43664534fa16ed0b7ba63902cb",
   "downloads": 6553
  },
  {
@@ -4219,8 +4219,8 @@
   "category": "fiction",
   "blurb": "Five Hundred Dollars; or, Jacob Marlowe's Secret\" by Horatio Alger, Jr.",
   "gutenbergID": 21270,
-  "bytes": 288242,
-  "sha256": "cf0fce4c9849202f774fc4fc4f4a9633568b3af75759163d94d67422f6b53efa",
+  "bytes": 287210,
+  "sha256": "1081607583d036d2cea3102ff11eec9eec82de257d8d15a80a2f753e9e108027",
   "downloads": 6506
  },
  {
@@ -4241,8 +4241,8 @@
   "category": "history",
   "blurb": "The Royal Pawn of Venice\" by Mrs.",
   "gutenbergID": 24784,
-  "bytes": 513821,
-  "sha256": "19f90bfe64c0e2a543dad90fde0af0dc72079a6c20774f8b368f9e0021861f01",
+  "bytes": 512924,
+  "sha256": "9a951eed92ccd955702daddc9ca9d8011e37bed49b06b83ee4dbdb527c5343c1",
   "downloads": 6489
  },
  {
@@ -4250,7 +4250,7 @@
   "title": "Labrador Days: Tales of the Sea Toilers",
   "author": "Grenfell, Wilfred Thomason, Sir",
   "category": "fiction",
-  "blurb": "Labrador Days\" by Sir Wilfred Thomason Grenfell is a collection of tales focused on the fishermen and communities of Labrador, written in the early 20th\u2026",
+  "blurb": "Labrador Days\" by Sir Wilfred Thomason Grenfell is a collection of tales focused on the fishermen and communities of Labrador, written in the early 20th…",
   "gutenbergID": 24832,
   "bytes": 232084,
   "sha256": "2ad861903412cf1ba6ddfaa885996be9d6060c6a1b0a77b750d7d25a6dd13778",
@@ -4269,7 +4269,7 @@
  },
  {
   "slug": "indian-poetry-containing-the-indian-song-of-songs-from-the-s",
-  "title": "Indian Poetry: Containing \"The Indian Song of Songs,\" from the Sanskrit of the G\u00eeta Govinda of Jayadeva, Two books from \"The Iliad Of India\" (Mah\u00e1bh\u00e1rata), \"Proverbial Wisdom\" from the Shlokas of the Hitopadesa, and other Oriental Poems.",
+  "title": "Indian Poetry: Containing \"The Indian Song of Songs,\" from the Sanskrit of the Gîta Govinda of Jayadeva, Two books from \"The Iliad Of India\" (Mahábhárata), \"Proverbial Wisdom\" from the Shlokas of the Hitopadesa, and other Oriental Poems.",
   "author": "Arnold, Edwin, Sir",
   "category": "poetry",
   "blurb": "Indian Poetry\" by Sir Edwin Arnold is a collection of translations and adaptations of classic Indian works, likely written in the late 19th century.",
@@ -4307,8 +4307,8 @@
   "category": "fiction",
   "blurb": "A Village of Vagabonds\" by F.",
   "gutenbergID": 26678,
-  "bytes": 356651,
-  "sha256": "ae1cb1c48f1646be7d351c7f6900fac4b2f245dd630cc415374e701b11776a22",
+  "bytes": 349707,
+  "sha256": "fa8eedb27be4268def21854495a98dbba756e98704a04f76ce545c5330c9495b",
   "downloads": 6338
  },
  {
@@ -4340,8 +4340,8 @@
   "category": "history",
   "blurb": "Under the Rebel's Reign\" by Charles Neufeld is a novel written in the early 20th century.",
   "gutenbergID": 23829,
-  "bytes": 447890,
-  "sha256": "f2bfe219276a3a7318b39ed0c4d6649539bba67d52fedc650b807c9689e02d86",
+  "bytes": 438231,
+  "sha256": "d1b9a51686444c078d2d6c043bad753426b4c96b0ee5d8fcdea4ca36e504432c",
   "downloads": 6260
  },
  {
@@ -4351,8 +4351,8 @@
   "category": "fiction",
   "blurb": "Dave Porter and His Rivals; or, The Chums and Foes of Oak Hall\" by Edward Stratemeyer is a novel written in the early 20th century.",
   "gutenbergID": 26160,
-  "bytes": 337316,
-  "sha256": "92f5f81a3228d0116991a941efcf7c9ca44f6393103680fbd4c1e07f276b6646",
+  "bytes": 335953,
+  "sha256": "208c0f0fce2fdd2ba1da726ea853fcc011ca2aa2b9b2f27ebbd25d848bc144e5",
   "downloads": 6254
  },
  {
@@ -4362,8 +4362,8 @@
   "category": "fiction",
   "blurb": "The Big Bow Mystery\" by Israel Zangwill is a murder mystery novel written in the late 19th century.",
   "gutenbergID": 28164,
-  "bytes": 241413,
-  "sha256": "e14b70dd22eb2281943e8b785cd0b482ce984bd48fbc97171d37fc26671c77eb",
+  "bytes": 236332,
+  "sha256": "f099461fa3a4f8b519676e983be3dc6af8d5b9a5885919840040a660ca0d54b9",
   "downloads": 6246
  },
  {
@@ -4373,8 +4373,8 @@
   "category": "fiction",
   "blurb": "Boy Scouts in the North Sea; Or, The Mystery of a Sub\" by G.",
   "gutenbergID": 25798,
-  "bytes": 263250,
-  "sha256": "c9a8142befb5a3e19b1a6c364f032056232410f6ff0d570cc1cf62c1c5b34db4",
+  "bytes": 257122,
+  "sha256": "761b867c198ad1fcd5ed811ea96f864a6b77df7c15f934da7f8f062d6279fb80",
   "downloads": 6179
  },
  {
@@ -4404,10 +4404,10 @@
   "title": "Shakespeare, Ben Jonson, Beaumont and Fletcher",
   "author": "Coleridge, Samuel Taylor",
   "category": "drama",
-  "blurb": "Shakespeare, Ben Jonson, Beaumont and Fletcher\" by Samuel Taylor Coleridge is a critical examination of the works of these renowned playwrights, written in the\u2026",
+  "blurb": "Shakespeare, Ben Jonson, Beaumont and Fletcher\" by Samuel Taylor Coleridge is a critical examination of the works of these renowned playwrights, written in the…",
   "gutenbergID": 25585,
-  "bytes": 414258,
-  "sha256": "c779e9ddebc296c50ec9d94d4186926e78e74c6bd041114f9e5e6e5f9ec28b85",
+  "bytes": 413885,
+  "sha256": "48f426ebb0ab953f04ab2a81921fb00c791ae39474641dc5e170d8af0849a519",
   "downloads": 6130
  },
  {
@@ -4450,8 +4450,8 @@
   "category": "fiction",
   "blurb": "The Grammar School Boys of Gridley; or, Dick & Co.",
   "gutenbergID": 22307,
-  "bytes": 274643,
-  "sha256": "75403d6111c273d81cbb2a1df5a64714ad643d152fe75358a3293b08e1ab04a6",
+  "bytes": 262524,
+  "sha256": "50f4a52bf5a707bdf267d51337f5c21802c721d897cd1e4b5b89da70cd3aa00e",
   "downloads": 6093
  },
  {
@@ -4472,8 +4472,8 @@
   "category": "fiction",
   "blurb": "The Sunbridge Girls at Six Star Ranch\" by Eleanor H.",
   "gutenbergID": 25578,
-  "bytes": 416319,
-  "sha256": "de30c73e09d3b259bb75eb55477493ddcad68fa5b4584ad89be7e8ff1e75d575",
+  "bytes": 407404,
+  "sha256": "f60cd740f570f05f4f0288c0adbf5d7ed444b6a16180693de372f8700e6d8e81",
   "downloads": 6063
  },
  {
@@ -4538,8 +4538,8 @@
   "category": "history",
   "blurb": "Footprints in the Forest\" by Edward Sylvester Ellis is a historical adventure novel written in the late 19th century.",
   "gutenbergID": 25980,
-  "bytes": 379708,
-  "sha256": "f8f2cbbf113195fa80979b1a85bde4105eb35d8b72e4844e7c884a3af8727b40",
+  "bytes": 374585,
+  "sha256": "fd1e19faaa1d61d1a8b1d740b6422630e8cc17a84a8a7ce5142187e933b82819",
   "downloads": 5937
  },
  {
@@ -4549,8 +4549,8 @@
   "category": "fiction",
   "blurb": "The Rogue Elephant\" by Elliott Whitney is a fictional adventure novel written in the early 20th century.",
   "gutenbergID": 25450,
-  "bytes": 249399,
-  "sha256": "ba804e4e1c8bcfe02483dbf0e5261b2edfef900db86d990e39b188ec45bf560b",
+  "bytes": 248661,
+  "sha256": "97f21426919e968f419f93fc06e39b7e53dfe0d5b9eddbed82adad7a47abfa04",
   "downloads": 5926
  },
  {
@@ -4637,16 +4637,16 @@
   "category": "fiction",
   "blurb": "The Young Oarsmen of Lakeview\" by Capt.",
   "gutenbergID": 26218,
-  "bytes": 274892,
-  "sha256": "b4667b3f2273803c51a1c84f9fb3ce1c69e219b6c848b7d1b25eb3cdbdf97bfe",
+  "bytes": 262130,
+  "sha256": "4b4dece35d9fc25f5806c22529e2f522d0e4e867cb8a004355a4e511564dbebe",
   "downloads": 5782
  },
  {
   "slug": "la-chanson-de-roland-translated-from-the-seventh-edition-of-",
-  "title": "La Chanson de Roland : Translated from the Seventh Edition of L\u00e9on Gautier",
+  "title": "La Chanson de Roland : Translated from the Seventh Edition of Léon Gautier",
   "author": "",
   "category": "poetry",
-  "blurb": "La Chanson de Roland: Translated from the Seventh Edition of L\u00e9on Gautier\" is an epic poem written in the early medieval period, likely composed before the\u2026",
+  "blurb": "La Chanson de Roland: Translated from the Seventh Edition of Léon Gautier\" is an epic poem written in the early medieval period, likely composed before the…",
   "gutenbergID": 23819,
   "bytes": 181606,
   "sha256": "074a8c4bf88d3409c06dfbe19de845ac6e6c7fae0ffe471d04e122b021768539",
@@ -4703,8 +4703,8 @@
   "category": "fiction",
   "blurb": "A Master of Craft\" by W.",
   "gutenbergID": 21929,
-  "bytes": 379235,
-  "sha256": "961e6717996e7345851eb28411d36cce6ef68a119aa095dc1a7abf9d790ce290",
+  "bytes": 379091,
+  "sha256": "6b82ecdfbd0667273455fd14faec7319b35f1dcebb7385a1c39cd4b031d9d20b",
   "downloads": 5651
  },
  {
@@ -4725,8 +4725,8 @@
   "category": "fiction",
   "blurb": "The Herapath Property\" by J.",
   "gutenbergID": 25388,
-  "bytes": 422953,
-  "sha256": "5e05b41de2364018dfd97d90a0e83aaf6c84653431881eb8e39c967351a615ff",
+  "bytes": 418313,
+  "sha256": "6d27751251f81dde40d704529dada88231eb5d3d598a05451e38d613617d15c4",
   "downloads": 5626
  },
  {
@@ -4857,8 +4857,8 @@
   "category": "fiction",
   "blurb": "The Sleeping Beauty\" by C.",
   "gutenbergID": 25451,
-  "bytes": 61737,
-  "sha256": "e2768045e6162386d3539cd2a5961dcf91581655e4f86b7975c66dc9b512b753",
+  "bytes": 61521,
+  "sha256": "d491e7f586c8c15e4818762c43c313467b0934380cd65e6e0f862d744ae86da8",
   "downloads": 5475
  },
  {
@@ -4879,8 +4879,8 @@
   "category": "fiction",
   "blurb": "Ting-a-ling\" by Frank R.",
   "gutenbergID": 20836,
-  "bytes": 194967,
-  "sha256": "f8c9ce649f6377fc65c728561a81e965b77bf605693c09e21b954834a4977758",
+  "bytes": 194786,
+  "sha256": "26a719951d337383139182c431532b9b92ba38e2fd92db591ed866562c24355e",
   "downloads": 5447
  },
  {
@@ -5020,7 +5020,7 @@
   "title": "The Trail of the Goldseekers: A Record of Travel in Prose and Verse",
   "author": "Garland, Hamlin",
   "category": "poetry",
-  "blurb": "The Trail of the Goldseekers: A Record of Travel in Prose and Verse\" by Hamlin Garland is a combination of a travel narrative and poetry written in the late\u2026",
+  "blurb": "The Trail of the Goldseekers: A Record of Travel in Prose and Verse\" by Hamlin Garland is a combination of a travel narrative and poetry written in the late…",
   "gutenbergID": 28551,
   "bytes": 303607,
   "sha256": "4b03adbe91f563676f655e74816f6ca7261095bf6c200b8c80ccdda5fc13c462",
@@ -5088,8 +5088,8 @@
   "category": "fiction",
   "blurb": "The Range Boss\" by Charles Alden Seltzer is a novel written in the early 20th century.",
   "gutenbergID": 25754,
-  "bytes": 378326,
-  "sha256": "143789904284e66f1020daba658426ea7d0cb3fe9de0e11bb68b67809f47636a",
+  "bytes": 358355,
+  "sha256": "ada449bc530808a5ebe3b39a476f8c39be59d8fbc483eb6c8f8e6889788faa8b",
   "downloads": 5220
  },
  {
@@ -5132,8 +5132,8 @@
   "category": "fiction",
   "blurb": "A Stable for Nightmares; or, Weird Tales\" by J.",
   "gutenbergID": 26451,
-  "bytes": 330463,
-  "sha256": "792edeb18061ddad6c0fa67894477904d45c0b6770e02b8fb1bee82dc47231e7",
+  "bytes": 328729,
+  "sha256": "0c28d8586b61a89079661c006ae7271eb786745e792e02b715e15a4aa0bb4e45",
   "downloads": 5183
  },
  {
@@ -5176,8 +5176,8 @@
   "category": "essays",
   "blurb": "Microcosmography\" by John Earle is a collection of essays and character sketches written in the early 17th century.",
   "gutenbergID": 26425,
-  "bytes": 443713,
-  "sha256": "c0172abc7ebbc8cfac8620f38703d5c7f18ba0898e392abc1f23c5912e819b90",
+  "bytes": 442425,
+  "sha256": "08987b7bc84c8bb7379d071c349fa6e38f7291f6a4452136e981ec7e1fb5336f",
   "downloads": 5149
  },
  {
@@ -5187,8 +5187,8 @@
   "category": "history",
   "blurb": "Old Fort Snelling, 1819-1858\" by Marcus Lee Hansen is a historical account written in the early 20th century.",
   "gutenbergID": 22719,
-  "bytes": 435334,
-  "sha256": "095ea5b44bb9233be4014dc8eda1af8220b6cf25ec5d83f58fcaafbf8684f701",
+  "bytes": 433929,
+  "sha256": "5387aecf0510ae8552f08f452742de57eeffa2e0e12194f9d90a210f823754f7",
   "downloads": 5145
  },
  {
@@ -5198,8 +5198,8 @@
   "category": "fiction",
   "blurb": "The Copper Princess: A Story of Lake Superior Mines\" by Kirk Munroe is a novel written in the late 19th century.",
   "gutenbergID": 26993,
-  "bytes": 324611,
-  "sha256": "42327cfc4bea4a523fc4a06204e51ceb309bda54547f218c8e93f65ef960a1bb",
+  "bytes": 320189,
+  "sha256": "38d0b46ea3cd1d99cb23e7227ad53b2ff7bd77ed704222a35d867d6a61747f9a",
   "downloads": 5144
  },
  {
@@ -5328,7 +5328,7 @@
   "title": "Our Mutual Friend",
   "author": "Dickens, Charles",
   "category": "fiction",
-  "blurb": "Our Mutual Friend\" by Charles Dickens is a novel published in 1864\u20131865.",
+  "blurb": "Our Mutual Friend\" by Charles Dickens is a novel published in 1864–1865.",
   "gutenbergID": 883,
   "bytes": 1853812,
   "sha256": "6766de8efa295208697775b6f717dbeafd1fd9f6d1f7acb2044f0bbeaf4bf33a",
@@ -5370,9 +5370,9 @@
  {
   "slug": "an-eagle-flight-a-filipino-novel-adapted-from-noli-me-tanger",
   "title": "An Eagle Flight: A Filipino Novel Adapted from Noli Me Tangere",
-  "author": "Rizal, Jos\u00e9",
+  "author": "Rizal, José",
   "category": "history",
-  "blurb": "An Eagle Flight: A Filipino Novel Adapted from Noli Me Tangere\" by Jos\u00e9 Rizal is a historical novel written in the late 19th century.",
+  "blurb": "An Eagle Flight: A Filipino Novel Adapted from Noli Me Tangere\" by José Rizal is a historical novel written in the late 19th century.",
   "gutenbergID": 27594,
   "bytes": 388447,
   "sha256": "3a7290c41ac75383a5bf815eedf08cde2cfd2ba5bebca90cd1b52e2c9272f3ba",
@@ -5418,8 +5418,8 @@
   "category": "fiction",
   "blurb": "Helen and Arthur; or, Miss Thusa's Spinning Wheel\" by Caroline Lee Hentz is a novel written in the mid-19th century.",
   "gutenbergID": 23106,
-  "bytes": 543987,
-  "sha256": "0fce670114aa71a2f55a55e3ee1960a6514707fd95d23cffca05b6e0104124e3",
+  "bytes": 473921,
+  "sha256": "daf1c8a63f07f5952269e3b9685b8fa80be79f28af5830196d3fd84895890c5b",
   "downloads": 4961
  },
  {
@@ -5451,8 +5451,8 @@
   "category": "history",
   "blurb": "Uncle Sam's Boys in the Philippines; or, Following the Flag against the Moros\" by H.",
   "gutenbergID": 23447,
-  "bytes": 285727,
-  "sha256": "cdfb5c27f7457ce8d516f0ce071a5101ee9acd68cdb5f4350c831b55e47341c9",
+  "bytes": 273745,
+  "sha256": "fa79494e7c6aca6ba0921ad141858b1fc31e19ca5be8ea59208c348dc9527490",
   "downloads": 4944
  },
  {
@@ -5504,10 +5504,10 @@
   "title": "The Form of Perfect Living and Other Prose Treatises",
   "author": "Rolle, Richard, of Hampole",
   "category": "sacred",
-  "blurb": "The Form of Perfect Living and Other Prose Treatises\" by Richard Rolle of Hampole is a collection of spiritual and religious writings composed in the 14th\u2026",
+  "blurb": "The Form of Perfect Living and Other Prose Treatises\" by Richard Rolle of Hampole is a collection of spiritual and religious writings composed in the 14th…",
   "gutenbergID": 25856,
-  "bytes": 171233,
-  "sha256": "b3006ed48feee33e483f5c17aa397b313ebce2cf7512631790386d2c82cfabac",
+  "bytes": 170267,
+  "sha256": "6f907787d9c54d2a112ebf417353007b6521d14e54abf13a280b2b076108e08b",
   "downloads": 4862
  },
  {
@@ -5546,9 +5546,9 @@
  {
   "slug": "the-philippines-a-century-hence",
   "title": "The Philippines a Century Hence",
-  "author": "Rizal, Jos\u00e9",
+  "author": "Rizal, José",
   "category": "history",
-  "blurb": "The Philippines a Century Hence\" by Jos\u00e9 Rizal is a political and social commentary written in the late 19th century.",
+  "blurb": "The Philippines a Century Hence\" by José Rizal is a political and social commentary written in the late 19th century.",
   "gutenbergID": 35899,
   "bytes": 93219,
   "sha256": "d7cdf04f95808a5ec968fdfe915cf0254deead60eb184f2baf6bcaa2550c4f08",
@@ -5572,8 +5572,8 @@
   "category": "fiction",
   "blurb": "Uncle Sam's Boys as Sergeants; or, Handling Their First Real Commands\" by H.",
   "gutenbergID": 27679,
-  "bytes": 276873,
-  "sha256": "d8a7196d45740e0efcf39c03c533c2a793814764f76a0fb571864d612e0da69d",
+  "bytes": 264348,
+  "sha256": "86ce273d60abb00b0b8a9378f9e2de23970b69b002ccbf1b1acf10decb7b0035",
   "downloads": 4738
  },
  {
@@ -5583,8 +5583,8 @@
   "category": "fiction",
   "blurb": "Nine Little Goslings\" by Susan Coolidge is a children's novel written in the late 19th century.",
   "gutenbergID": 27678,
-  "bytes": 266375,
-  "sha256": "c396280fb8d99a7117685a80690815cf59c0d80ef38574368a957e267e51fe03",
+  "bytes": 266123,
+  "sha256": "c56c5d284fb4f64918e6f63bd8a79bc5962be63efe4c555e54fadf9bfe13f0f6",
   "downloads": 4735
  },
  {
@@ -5627,8 +5627,8 @@
   "category": "fiction",
   "blurb": "Colonial Born: A Tale of the Queensland Bush\" by G.",
   "gutenbergID": 25750,
-  "bytes": 439559,
-  "sha256": "9340d3ab92c6c02279498bf6e348789331e8e1b3a84088f4dd91a8eb42ee7c14",
+  "bytes": 433335,
+  "sha256": "ea5dfc06e192109109c6788e15589f070fed957c4434ab3dee396aa789abd5d7",
   "downloads": 4678
  },
  {
@@ -5682,8 +5682,8 @@
   "category": "fiction",
   "blurb": "Boy Scouts on Hudson Bay; Or, The Disappearing Fleet\" by G.",
   "gutenbergID": 22674,
-  "bytes": 309594,
-  "sha256": "c02ab21935a1cdf3a6822ce307661140fde49b24ec81309c22bc6eaeb4f5889d",
+  "bytes": 305931,
+  "sha256": "a6fe8de1b9b8f2c8abfb931b0656ca4badaeb8c0f21b2b7e893a2b1b2f43333f",
   "downloads": 4567
  },
  {
@@ -5726,8 +5726,8 @@
   "category": "fiction",
   "blurb": "Uncle Sam's Boys in the Ranks; or, Two Recruits in the United States Army\" by H.",
   "gutenbergID": 27680,
-  "bytes": 266587,
-  "sha256": "1e3e949ccb77e4d1f21005fbac611dd4fd26252de2057efab498d54badee8daf",
+  "bytes": 254132,
+  "sha256": "f6c36545efc868bbcbd4b42b9e664cd9464732d0276a93f6a3a956bb0881c1fa",
   "downloads": 4514
  },
  {
@@ -5748,8 +5748,8 @@
   "category": "fiction",
   "blurb": "Boy Scouts in the Canal Zone; Or, The Plot Against Uncle Sam\" by G.",
   "gutenbergID": 26540,
-  "bytes": 264180,
-  "sha256": "871d396e5455859f6cbd9035641753ec2d5010a8a01c691d299af65c798bc893",
+  "bytes": 260661,
+  "sha256": "b39ab850fbbbd48eddcc72d36d0d66fe7e6e9d78e8f68846eb0bb4811b7803e4",
   "downloads": 4488
  },
  {
@@ -5768,7 +5768,7 @@
   "title": "Outdoor Sketching: Four Talks Given before the Art Institute of Chicago; The Scammon Lectures, 1914",
   "author": "Smith, Francis Hopkinson",
   "category": "classic",
-  "blurb": "Outdoor Sketching\" by Francis Hopkinson Smith is a collection of lectures on painting techniques delivered at the Art Institute of Chicago in the early 20th\u2026",
+  "blurb": "Outdoor Sketching\" by Francis Hopkinson Smith is a collection of lectures on painting techniques delivered at the Art Institute of Chicago in the early 20th…",
   "gutenbergID": 27340,
   "bytes": 123360,
   "sha256": "ff84f67f553615ed0b40b0bf7363baccac18292e9d889bc38df8d5e7ce0776bd",
@@ -5781,8 +5781,8 @@
   "category": "history",
   "blurb": "Rollo's Museum\" by Jacob Abbott is a children's novel written in the early 19th century.",
   "gutenbergID": 25548,
-  "bytes": 172792,
-  "sha256": "a0366cc3f198971592440236e33a448c9090900d4e463e56728620e78ff613da",
+  "bytes": 172237,
+  "sha256": "092a3dc1e1eb590be09728de6af58ee38e2d4673f849638f7d3ac116987fde7e",
   "downloads": 4454
  },
  {
@@ -5801,10 +5801,10 @@
   "title": "The Boy Scout Treasure Hunters; Or, The Lost Treasure of Buffalo Hollow",
   "author": "Lerrigo, Charles Henry",
   "category": "fiction",
-  "blurb": "The Boy Scout Treasure Hunters; Or, The Lost Treasure of Buffalo Hollow\" by Charles Henry Lerrigo is a fictional adventure novel written in the early 20th\u2026",
+  "blurb": "The Boy Scout Treasure Hunters; Or, The Lost Treasure of Buffalo Hollow\" by Charles Henry Lerrigo is a fictional adventure novel written in the early 20th…",
   "gutenbergID": 22644,
-  "bytes": 260798,
-  "sha256": "6ab13387dd001201eac582385a1778ebd442106d0c323af72ebaff1b45153e3a",
+  "bytes": 256284,
+  "sha256": "d0171da67811e892dcb13fabd5838cdd96c98155b9bc2b195806bac59a4e2921",
   "downloads": 4441
  },
  {
@@ -5814,8 +5814,8 @@
   "category": "sacred",
   "blurb": "The Grey Friars in Oxford\" by A.",
   "gutenbergID": 42587,
-  "bytes": 985822,
-  "sha256": "656da32f60538e65492b3cfc776ba31ec6d83dc5d5d947f14c3b34b05c14ba99",
+  "bytes": 985511,
+  "sha256": "6c5af88fc15c585f8bc9b452deca0dee4652b0bfd4f9c16694b460cba997c2b2",
   "downloads": 4427
  }
 ]

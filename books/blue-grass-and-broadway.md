@@ -1342,28 +1342,3 @@ With a groan, but an answering flame, Mr. Vandeford replied:
 "It's a fatal drag--. Yes. Some day we'll come back and try to put across another one!"
 ## THE END
 * * * * *
-Transcriber's note
-The following changes have been made to the text:
-Page 12: "marischino" changed to "maraschino".
-Page 14: "plenty ruffles" changed to "plenty of ruffles".
-Page 14: "nee" changed to "nee".
-Page 29: "heatrical" changed to "theatrical".
-Page 37: "mocking bird" changed to "mockingbird".
-Page 40: "Highcliffe" changed to "Highcliff".
-Page 42: "Vanderford" changed to "Vandeford".
-Page 57: "Madamoiselle" changed to "Mademoiselle".
-Page 58: "Madamoiselle" changed to "Mademoiselle".
-Page 61: "atinkle" changed to "atwinkle".
-Page 67: "Highcliffe" changed to "Highcliff".
-Page 90: "coemployer's" changed to "co-employer's".
-Page 114: "Fou get Gerald" changed to "You get Gerald".
-Pages 118-119: "ear of his coproducer" changed to "ear of his co-producer".
-Page 125: "Lindenberger" changed to "Lindenberg".
-Page 145: "I'd going to" changed to "I'm going to".
-Page 193: "She's geting along" changed to "She's getting along".
-Page 220: "the he Christian" changed to "the Christian".
-Page 236: "touseled" changed to "tousled"
-Page 237: "manila envelop" changed to "manila envelope".
-Page 245: "Vanderford" changed to "Vandeford".
-Page 307: "tryout" changed to "try-out".
-Page 373: "Esquimo" changed to "Eskimo".

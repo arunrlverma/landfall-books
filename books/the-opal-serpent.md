@@ -2385,22 +2385,3 @@ Mrs. Tawsey snorted. "His frantic par," she said, "ah, well, when I meet 'im, if
 Sylvia's heart was too full to say anything. She lay in Paul's strong arms, her cheek against his. There she would remain for the rest of her life, protected from storm and tempest. And as they sat in silence, the chimes of an ancient grandfather's clock, Deborah's chief treasure, rang out twice, thrice and again. Paul laughed softly.
 "It's like wedding-bells," he whispered, and his future wife sighed a sigh of heart-felt joy.
 THE END
-## THE BEST NOVELS BY FERGUS HUME
-The Mystery of a Hansom Cab $1.25
-The Sealed Message 1.25
-The Sacred Herb 1.25
-Claude Duval of Ninety-five 1.25
-The Rainbow Feather 1.25
-The Pagan's Cup 1.25
-A Coin of Edward VII 1.25
-The Yellow Holly 1.25
-The Red Window 1.25
-The Mandarin's Fan 1.25
-The Secret Passage 1.25
-The Opal Serpent 1.25
-Lady Jim of Curzon Street 1.50
-Transcriber's Note
-In this the ASCII version, accents have been dropped.
-The advert ("The Best Novels by Fergus Hume") was originally at the front of the book, but has been moved to the end.
-The following typographical corrections have been made:
-(page 8) "furthur" changed to "further" (page 11) "Notebook" changed to "Note-book" (page 33) "lookout" changed to "look-out" (page 49) "eyeglass" changed to "eye-glass" (page 59) "hand-bag" changed to "handbag" (pages 71, 85) "agoin'" changed to "a-goin'" (page 71) "It" changed to "If" in "If we come to" (page 84) quotation mark added after "look--look--" (page 109) "Deborrah" changed to "Deborah" (page 111) quotation mark added before "How dare you" (page 113) "pou" changed to "you" ("before you became an heiress") (page 132) "is" changed to "it" ("that is was picked up") (page 140) "mid-night" changed to "midnight" (page 163) "schoolfellow" changed to "school-fellow" (page 173) "non-plussed" changed to "nonplussed" (page 180) "handbills" changed to "hand-bills" (page 188) "beliving" changed to "believing" (pages 203, 204) "bed-post" changed to "bedpost" (page 214) "sipte" changed to "spite" (page 211) used single quotation marks for the inscription (page 225) quotation mark added before "On no condition" (page 243) quotation mark added after "seem to win," (page 264) quotation mark added before "for I" (page 269) quotation mark added after "certificate." (page 276) question mark added after "lawyer you are" (page 303) "pining" changed to "pinning" (page 315) "slience" changed to "silence"

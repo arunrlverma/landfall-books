@@ -2361,23 +2361,3 @@ This little conceit kept him amused all the way to the scaffold. They slipped th
 “I hope this rope won’t break,” said Derrick Yale.
 It was the last message from the Crimson Circle.
 ## THE END
-TRANSCRIBER’S NOTES
-Minor spelling inconsistencies (e.g. court-house/court house, fireplace/fire-place, jailor/jailer, etc.) have been preserved.
-Alterations to the text:
-Fix a couple quotation mark pairings.
-[Chapter I]
-Change “The _dèbris_ of the dead autumn whirled in fantastic circles” to _débris_.
-[Chapter III]
-(in her even tone. “_something_ which you haven’t realised.) to _Something_.
-[Chapter IX]
-(“_Mr_ Beardmore,” she said in a low voice, “you are just being) to _Mr._
-[Chapter XXXI]
-(“Good morning, Miss Drummond,”) change the second comma to a period.
-[Chapter XXXII]
-“which was found afterwards to contain the poison,” change comma to a period.
-[Chapter XXXV]
-“and realising the absurdity of his protest, laughed,” change the second comma to a period.
-[Chapter XLIII]
-(as the procession formed. “and profit by his example.) change the first period to a comma.
-“Never drink, Drink was my ruin! If it were not for drink” change the first comma to a period.
-[End of text]

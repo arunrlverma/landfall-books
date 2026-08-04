@@ -1685,8 +1685,3 @@ The Major smiled.
 “Yes.” The other refilled his pipe slowly. “Yes, and I like the youngster’s style. He’s got real football spirit. Handles himself pretty, too. Of course, he’s young yet, and light; give him another twenty pounds――”
 “Give him another year,” said the coach, softly, “and then watch him! Barry Locke has the stuff they used to make knights of, and crusaders; the stuff that nowadays makes football heroes. I wish I had a few more like him, Jonah. He――” the Major gently tapped his pipe against an andiron――“he’s the right sort.”
 * * * * *
-Transcriber’s Notes:
-――Text in italics is enclosed by underscores (_italics_).
-――Punctuation and spelling inaccuracies were silently corrected.
-――Archaic and variable spelling has been preserved.
-――Variations in hyphenation and compound words have been preserved.
