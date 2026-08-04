@@ -1052,28 +1052,3 @@ The sea is the consolation of this our day, as it has been the consolation of th
 But far more than this is there in the sea. It presents, upon the greatest scale we mortals can bear, those not mortal powers which brought us into being. It is not only the symbol or the mirror, but especially is it the messenger of the Divine.
 There, sailing the sea, we play every part of life: control, direction, effort, fate; and there can we test ourselves and know our state. All that which concerns the sea is profound and final. The sea provides visions, darknesses, revelations. The sea puts ever before us those twin faces of reality: greatness and certitude; greatness stretched almost to the edge of infinity (greatness in extent, greatness in changes not to be numbered), and the certitude of a level remaining forever and standing upon the deeps. The sea has taken me to itself whenever I sought it and has given me relief from men. It has rendered remote the cares and the wastes of the land; for of all creatures that move and breathe upon the earth, we of mankind are the fullest of sorrow. But the sea shall comfort us, and perpetually show us new things and assure us. It is the common sacrament of this world. May it be to others what it has been to me.
 THE END
-The Cruise of the Nona
-## HILAIRE BELLOC
-A good many years ago, a unique book entitled “The Path to Rome,” by Hilaire Belloc, was published, which has taken an enduring place in our literature. On the thread of a narrative of a walking tour through France and Italy Mr. Belloc strung memories and reflections which made the book as stimulating as it was delightful.
-In “The Cruise of the Nona” he employs much the same device as a vehicle for his riper thought and richer experience. “I propose to write a book,” says Mr. Belloc, “called ‘The Cruise of the Nona.’ The ‘Nona’ is the name of my boat, a nine-ton boat in which I have done a great deal of sailing during the last twenty years. The book would consist mainly in reminiscences, judgments, stories, and all the rest that comes into a man’s mind when he is thinking upon the past and upon his own acquired knowledge.”
-On the surface, “The Cruise of the Nona” is a breezy record of an adventurous cruise; underneath the surface, it is one of the wisest and most pregnant studies of modern life in many phases, particularly in its War and post-War phases, that have seen the light in many years.
-## HOUGHTON MIFFLIN COMPANY
-Transcriber’s Notes
-1. Italic text in the original is delimited by underscores.
-2. Blackletter text in the original is delimited by both underscores and equals signs.
-3. Hyphenated words were silently joined across lines and pages when the intended word was clear.
-4. The following table notes the other material changes made to the printed text, in order to correct apparent printing errors (punctuation, spelling, quotation marks, repeated words), and to standardize spelling and hyphenation for identical words to the more frequent usage across the text. Changes are denoted in [brackets].
-=Page= =Text= =Operation=
-9 believe it[.] Added.
-34 see[’,/,’] Replaced.
-36 warping[-/ ]ropes Replaced.
-45 north[-]west Removed.
-85 subject[s] Added.
-188 north[-]eastern Removed.
-192 off[-]shore Removed.
-269 politic[i]an Added.
-277 north[-]easterly Removed.
-280 north[-]easterly Removed.
-281 north[-]east Removed.
-293 north[-]east Removed.
-310 off[-]shore Removed.

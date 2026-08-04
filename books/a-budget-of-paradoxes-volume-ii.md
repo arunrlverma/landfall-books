@@ -2972,11 +2972,6 @@ Zodiac, II, 136.
 Zytphen, II, _335_.
 * * * * *
 Notes
-Transcriber's note: References to Notes in Volume I are shown as in the printed book, with the resequenced footnote numbers in the Project Gutenberg Edition (EText-No. 23100) added thus .
-[1] See Vol. I, page 255, note 6 .
-[2] "I have no need for this hypothesis."
-[3] "Ah, it is a beautiful hypothesis; it explains many things."
-[4] "What we know is very slight; what we don't know is immense."
 [5] Brewster relates (_Life of Sir Isaac Newton_, Vol. II, p. 407) that, a short time before his death, Newton remarked: "I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me."
 [6] See Vol. I, p. 292, note 1 .
 [7] "What is all that!"

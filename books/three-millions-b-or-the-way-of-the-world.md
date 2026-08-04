@@ -5178,10 +5178,3 @@ Master John Hungerford, Miss Mary Hungerford, and Master Eugene Hungerford Birch
 “I was cast out, despised, loathed.”
 “But you did not deserve it.”
 “=IT WAS THE WAY OF THE WORLD.=”
-TRANSCRIBER’S NOTES:
-Italicized text is surrounded by underscores: _italics_.
-Emboldened text is surrounded by equals signs: =bold=.
-Perceived typographical errors have been corrected.
-Inconsistencies in hyphenation have been standardized.
-Archaic or variant spelling has been retained.
-New original cover art included with this eBook is granted to the public domain.

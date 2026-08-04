@@ -1912,11 +1912,3 @@ Also the Dean sings an "Amen" to his praises of Irma, but neither of the Kirkpat
 ## THE END
 Richard Clay & Sons, Limited, London and Bungay.
 ------------------------------------------------------------------------
-Transcriber's note: block relocated from front matter:
-## BY THE SAME AUTHOR
-ROSE OF THE WILDERNESS 6/-
-PRINCESS PENNILESS 6/-
-DEEP MOAT GRANGE 6d.
-THE CHERRY RIBBAND net 1/-
-LAD'S LOVE 6d.
-------------------------------------------------------------------------

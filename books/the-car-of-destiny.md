@@ -2454,10 +2454,3 @@ Monica looked at me. She was very pale; but there was heaven in her eyes.
 “_Viva el Rey!_” shouted Dick; and the crowd, though they had not heard or understood what passed, took up the cry with all their hearts—
 “_Viva el Rey!_”
 THE END
----------------------------------------------------
-THE McCLURE PRESS, NEW YORK
-1 Love and oranges
-How similar are they.
-For however sweet their taste,
-They are always a little bitter.
-LEONARD WILLIAMS’ _Translation_.

@@ -1791,4 +1791,3 @@ SIX LITTLE BUNKERS AT MAMMY JUNE'S
 SIX LITTLE BUNKERS AT FARMER JOEL'S
 SIX LITTLE BUNKERS AT MILLER NED'S
 SIX LITTLE BUNKERS AT INDIAN JOHN'S
-+-----------------------------------------------------+ |Transcriber's Note: | | | |The word catalogue appears in the main text, but is | |catalog in the advertisements at the end of the book.| |Raquette Lake is also shown as Racquette Lake. | +-----------------------------------------------------+

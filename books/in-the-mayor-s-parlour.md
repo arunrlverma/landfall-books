@@ -2128,38 +2128,3 @@ Hawthwaite looked round.
 "We've got at the truth at last about your cousin," continued Hawthwaite, with a significant look. "It's been a case of one thing leading to another. And two things running side by side. If we hadn't cornered Krevin Crood we'd never have had his revelations about the Town Trustees. Talk about your Local Government Board inquiry!--why, five minutes of Krevin's tongue-work did more than half a dozen inquiries. I tell you, sir, the old system's dead--the Crood gang was smashed to pieces in that court this morning! Somehow, it's that that interests me most, Mr. Brent. But--business!" He turned to the plain-clothes man, and nodded towards the door. "Fetch those servants in here," he said. "They've got to know."
 Brent went away then, carrying certain secrets with him. He put them away in a mental vault and sealed them down. Let Hawthwaite do his own work, he would give him no help. He forsaw his own future work. Wallingford, dead though he was, had won his victory and in his death had slain the old wicked system. Now there was building and reconstruction to be done, and it was his job to do it. He saw far ahead as he trod the sunlit streets of the old town. He would marry Queenie and they would settle into the slow-moving life of Hathelsborough, and he and men who thought with him would slowly build up a new and healthy state of things on the ruins of the old. So thinking he turned mechanically towards Mrs. Appleyard's house, in search of Queenie. Queenie, said Mrs. Appleyard, was in the garden behind. Brent went through the house, and out into the garden's shade. There he found Queenie. She sat in a summer-house, and she was shelling peas for dinner.
 THE END.
-## NEW FICTION
-THE MOON ROCK. By A. J. REES, author of "The Hand in the Dark," etc. 8_s._ 6_d._ net.
-A mystery story conceived almost on the lines of a Greek tragedy. Told with great technical skill, the plot works to a denouement which though inevitable is unexpected by the reader.
-FIGURES OF EARTH. By JAMES BRANCH CABELL, author of "Jurgen," etc. 8_s._ 6_d._ net.
-A brilliant fantasy, delicate, humorous and highly imaginative.
-THE KINGDOM ROUND THE CORNER. By CONINGSBY DAWSON. 7_s._ 6_d._ net.
-An absorbing story which has had a big success as a serial in Nash's Magazine.
-A SOUL'S COMEDY. By GEORGE STEVENSON, author of "Topham's Folly," "A Little World Apart," etc. 7_s._ 6_d._ net.
-Quite equal to this Author's usual good and careful work. The scene is laid in Yorkshire.
-THE SECRET ADVERSARY. By AGATHA CHRISTIE, author of "The Mysterious Affair at Styles." 7_s._ 6_d._ net.
-A most exciting mystery story which has been appearing serially in the "Times Weekly."
-A CUCKOO IN THE NEST. By BEN TRAVERS, author of "The Dippers." 7_s._ 6_d._ net.
-A farcical comedy, full of incident and humorous characters.
-HEAVEN AND CHARING CROSS. By ALICE HERBERT, author of "Garden Oats." 7_s._ 6_d._ net.
-A really brilliant novel which should attract attention.
-NARCISSUS IN THE WAY. By G. V. MCFADDEN, author of "The Honest Lawyer," etc. 8_s._ 6_d._ net.
-SCARLET PATCHES. By VIOLETTE ROBERTS. 7_s._ 6_d._ net.
-A novel of the realistic romantic type--a precise emotional and detailed history of a girl's life from the age of ten to her thirtieth year.
-THE LUCK OF THE TOWN. By MARION FOX, author of "Apes Face," "The Bountiful Hour," etc. 7_s._ 6_d._ net.
-Miss Fox is an able writer, with a powerful and vivid imagination.--_Morning Post._
-SNAGS AND SHALLOWS. By C. C. LOWIS, author of "Four Blind Mice." 7_s._ 6_d._ net.
-A clever novel of English life in Burmah. Brightly written, full of movement and clever in characterization.
-HIS INHERITANCE. By C. E. SHAW. 7_s._ 6_d._ net.
-A South African story picturing the life of an Englishman on the Veldt.
-THE SENTRY AND OTHER STORIES. By NIKOLAI LYESKOV. Translated by A. E. CHAMOT. 6_s._ net.
-This is the first introduction of Lyeskov, the famous Russian writer, and contemporary of Turgenev and Tolstoy to English readers. His powerful realism should attract the many readers interested in Tchehov, Turgenev and Dostoievsky.
-THE PASSIONATE PURITAN. By JANE MANDER, author of "The Story of a New Zealand River." 7_s._ 6_d._ net.
-A vivid, human and realistic tale of life at an isolated lumber camp in New Zealand.
-ANNA COLQUHOUN. By KATHARINE BURDEKIN. 7_s._ 6_d._ net.
-A new Australian Author of promise. The study of a remarkable woman, a musical genius--wayward, passionate, unconventional.
-THE AMATEUR'S DERBY. By HARDING COX, author of "Chasing and Racing." 7_s._ 6_d._ net.
-A racing novel told by an author who literally knows the ropes, having himself been a well-known amateur jockey.
-JOHN LANE THE BODLEY HEAD LTD, VIGO ST., W.1.
-## TRANSCRIBER'S NOTE
-Minor changes have been made to correct typesetters errors, and inconsistent spelling and punctuation; otherwise, every effort has been made to be true to the original book.

@@ -2747,25 +2747,3 @@ Yeast powder, purchase of, 88
 Yellowstone Expedition, 20;
 failure of, 21
 Yellowstone River, fort at mouth of, 19
-Transcriber's Notes:
-Note: There are a number of inconsistencies in spelling and hyphenation which are left as in the original, as they were copied directly from various sources, such as personal journals.
-Page 12, para, 3: Treaty of Ghent, 1914, changed to 1814.
-Page 13: 'Menominees' spelled as in original.
-Page 98: 'inteligence' spelled as in original.
-Page 101: 'great numbers of Dear--Our' spelled as in original.
-Page 113: 'afraid to die. the Murderer' as in original. Note: This writer/source doesn't capitalize normally.
-Page 128: Chippeways spelled as in original.
-Page 129: 'liveing' spelled as in original.
-Page 134: 'Chippeways' spelled as in original.
-Page 143: 'Societties' spelled as in original.
-Page 156: 'revival among the the soldiers, and' (Removed extra 'the').
-Page 170: 'a-head' spelled as in original.
-Page 172: 'The Sioux have winter & summer houses. The latter are conical made....' apparently refers to winter, even though the phrase is 'winter & summer'.
-Page 177: 'Menomonies' spelled as in original.
-Page 191: Falstrom also spelled Faustram on same page.
-Footnote 8: 'tradeing' spelled as in original.
-Footnote 8: 'visit us. he' as in original.
-Footnote 8: 'Mandens' spelled as in original.
-Footnote 27: 'massacreing' spelled as in original.
-Footnote 183: Part of year missing from original. Changed from '18 ' to '18__'.
-Index: Warfare, history of: Siuox changed to Sioux.

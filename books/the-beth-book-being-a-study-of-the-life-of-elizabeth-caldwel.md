@@ -4778,21 +4778,3 @@ The harvesters were not at work that morning, and she had not seen a soul since 
 "A bowshot from her bower-eaves, He rode between the barley-sheaves."
 "The barley-sheaves!" suddenly Beth's heart throbbed and fluttered and stood still. The words had come to her as the interpretation of an augury, the fulfilment of a promise. It seemed as if she ought to have known it from the first, known that he would come like that at last, that he had been coming, coming, coming through all the years. As he drew near, the rider looked up at her, the sun shone on his face, he raised his hat. In dumb emotion, not knowing what she did, Beth reached out her hands towards him as if to welcome him. He was not the Knight of her dark days, however, this son of the morning, but the Knight of her long winter vigil--Arthur Brock.
 * * * * *
-Transcriber's note:
-The following have been changed, as they appear to be typesetter's errors. All other colloquialisms, non-standard spelling, grammar and punctuation have been left as they appear in the original book.
-Page 2
-"I had quite forgotten the whisky," she said to the maid-of [hyphen added] all-work,
-Page 34
-"What does she do it for? [added "]
-Page 220
-Do I separate myself from Count Bartahlinski [changed to Bartahlinsky]?
-Page 290
-Miss Bey had had great experience of girls, and her sharp manner, which was mainly acquired in the effort to maintain displine, [changed to "discipline"] somewhat belied her kindly nature.
-Page 395
-"I calcalute [changed to calculate?] that they come to just three hundred pounds,"
-Page 468
-If we were to die now, in six months it would be as though we had never bee [added n]
-Page 469
-I never knew such a woman tiil [changed to till?] I met you;
-Page 522
-bordered on either side with great trees, oak and elm, chestnut and beech, and a high hawthorn hedge just whitening into blosom. [changed to blossom]

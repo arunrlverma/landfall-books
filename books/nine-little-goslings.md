@@ -970,8 +970,3 @@ By MARY P. W. SMITH,
 Author of "Jolly Good Times; or, Child-Life on a Farm," "Jolly Good Times at School," "Their Canoe Trip," "The Browns." With illustrations. 16mo. Cloth. Price, $1.25.
 ROBERTS BROTHERS, PUBLISHERS, _Boston_.
 * * * * *
-Transcriber's Notes:
-Varied hyphenation was retained when there was an equal number of each, as in doorway and door-way.
-Obvious punctuation errors corrected.
-Page 33, "o" changed to "of" (The game of)
-Page 158, "what" changed to "when" (said so when)

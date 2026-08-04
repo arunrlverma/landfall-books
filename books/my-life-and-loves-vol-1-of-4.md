@@ -1769,4 +1769,3 @@ Frank Harris.
 _The Catskills Mts., this 25th day of August 1922._
 --------------
 ------------------------------------------------------------------------
-● Transcriber’s Notes: ○ Missing or obscured punctuation was silently corrected. ○ Typographical errors were silently corrected. ○ Inconsistent spelling and hyphenation were made consistent only when a predominant form was found in this book. ○ Text that was in italics is enclosed by underscores (_italics_).

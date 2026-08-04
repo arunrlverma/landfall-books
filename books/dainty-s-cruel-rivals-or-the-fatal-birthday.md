@@ -1728,11 +1728,3 @@ In vain were her frightened denials; he laughed them all to scorn.
 So at dawn they went away--as far as they could on their scanty means--and the veil of a merciful oblivion fell over their future fate as scheming adventuresses to the end of their days.
 Love and Dainty did not punish their arch-enemies, but they did not fail to reward all who had befriended them in their days of adversity. Mamma Chase lived with them at Ellsworth, Ailsa Scott spent all her summers there, and Doctor Platt remained the beloved friend of the family to the last day of his life.
 ## THE END.
-Transcriber's Note: The following typographical errors present in the original edition have been corrected.
-In Chapter I, a comma was added after "added Olive, eagerly", and "tete-a-tete journey" was changed to "tete-a-tete journey".
-In Chapter III, "tete-a-tete drive" was changed to "tete-a-tete drive".
-In Chapter XVI, "frighten his timid bethrothed" was changed to "frighten his timid betrothed".
-In Chapter XX, "eyes flashing with a strang fire" was changed to "eyes flashing with a strange fire".
-In Chapter XXI, "Calm, oh. calm" was changed to "Calm, oh, calm".
-In Chapter XXIX, "stay tonight, and tomorrow I must try to go home" was changed to "stay to-night, and to-morrow I must try to go home".
-In Chapter XXXVIII, "for only today Miss White had called" was changed to "for only to-day Miss White had called".

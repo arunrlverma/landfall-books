@@ -132,4 +132,3 @@ There was a call from the porch; a woman’s urgent command. “Bill!”
 Bill grinned. “Reckon she’s been tryin’ to clear me, too. Tried to foller Sam this afternoon, but got lost and ran plump into me.”
 “Still mad, is she?” asked Budd.
 Bill passed him a wink and elbowed his way out of the room.
-[Transcriber’s Note: This story appeared in the February 13, 1926 issue of _Western Story Magazine_.]

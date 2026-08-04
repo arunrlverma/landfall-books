@@ -746,5 +746,3 @@ The old blaze came back in his eyes, and this time she did not resist as he caug
 "It's a long way to the coast," she said presently, withdrawing her lips from his.
 "What matter?" he laughed. "There's nothing we can't conquer. We'll have our feet on a ship's deck before the Stygians open their ports for the trading season. And then we'll show the world what plundering means!"
 [THE END]
-Transcriber's Note:
-This etext was produced from _Weird Tales_ July, August-September and October 1936. Extensive research did not uncover any evidence that the U.S. copyright on this publication was renewed. Minor spelling and typographical errors have been corrected without note.

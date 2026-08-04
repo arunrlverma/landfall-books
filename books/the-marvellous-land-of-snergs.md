@@ -1216,7 +1216,3 @@ There is little more to tell now. It is possible that Joe and Sylvia may be sent
 Tiger is doing well, though he had a touch of distemper last August. But nothing serious.
 Lack of space prevents me from going into details of costs, etc., of the S.R.S.C., which is to be regretted as I am sure they would prove of absorbing interest to my more serious readers. I will therefore merely state that the Society is flourishing and on a sound financial basis, and that Miss Watkyns and the other ladies have an immense amount of work to do, which keeps them fit, sundry improvements of buildings and extensions having been put in hand at Watkyns Bay. The children go on happily year after year, slowly increasing in numbers as fresh cases arrive, and they splash about in the sea and play their various games and roam the woods and fleet the time carelessly as they did in the golden world.
 PRINTED IN GREAT BRITAIN BY THE EDINBURGH PRESS, 9 AND 11 YOUNG STREET, EDINBURGH
-TRANSCRIBER’S NOTES
-- Clear typos and wrong punctuation were corrected.
-- In the chapter “_Dinner with a Witch_” there is a passage that’s says “There’s about ten thousand of the real ones to one of the others.” Based on context, the intention may have been “There’s about ten thousand of the spurious ones to one of the others.” but the original has been retained.
-- This book has several illustrations, some in the middle of paragraphs. To improve readability, these have been moved to either before or after the paragraph they occur.

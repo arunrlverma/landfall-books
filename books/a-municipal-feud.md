@@ -186,4 +186,3 @@ This reasoning seemed to be both devious and open to certain errors of logic. Bu
 “South.”
 “It sounds reasonable,” muttered Indigo. They rose and went outside. Starlight had come and the bosom of the prairie was filled with peace. “Human nature,” said Joe Breedlove, sadly, “is plumb immutable.”
 “I could say it in shorter words,” replied Indigo, “but they couldn’t sound no worse. Le’s ride.”
-[Transcriber’s note: This story appeared in the May 10, 1928 issue of _Short Stories_ magazine.]

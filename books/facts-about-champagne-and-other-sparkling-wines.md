@@ -476,24 +476,6 @@ Dissolve a couple of ounces of sugar in a gill of dry sherry, add the thin peel 
 With half a pint of lemon water ice mix a bottle of iced sparkling moselle, add a few drops of elder-flower water and a bottle of iced Apollinaris water. Instead of the lemon ice half the quantity of pine-apple ice may be used with the juice of half a lemon, and the elder-flower water may be dispensed with.
 ## THE PRINCIPAL SPARKLING WINE BRANDS.
 *** _In this list whenever a manufacturer has various qualities the higher qualities are always placed first._
-[Transcriber's Note:
-In the original text the tables were laid out in four columns: _Firms and Wholesale Agents._ _Brands._ [Impress of Cork Design] _Qualities._ _On side of Corks._ For this e-text, the table has been changed to a list format, with the columns represented by levels of indentation. The "Brands" are indicated by the bracketed word [Cork]; the "Side of Cork" text--if any--is given in the same line as its associated Quality.
-The book included an errata sheet for the tables. It is shown here immediately after the tables themselves. The changes and corrections listed have _not_ been made in the text.]
-+CHAMPAGNES.+
-_Firms and Wholesale Agents._
-_Brands._
-_Qualities._ / _On side of Corks._
-AYALA & CO., Ay
-Ayala, 7, Little Tower Street, London
-Rinck & Unger, 50, Park Place, New York
-[Cork]
-Carte Blanche / Extra.
-Carte Noire / Première.
-[Cork]
-Second
-BINET FILS & CO., Reims
-Rutherford & Browne, Old Trinity House, 5, Water Lane, London.
-[Cork]
 Extra
 First
 Second / Binet fils & Cie. [_all varieties_]

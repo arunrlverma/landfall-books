@@ -972,27 +972,3 @@ I do hereby certify the foregoing to be a true and correct copy of the original 
 (Signed,) ADE. BARBIN, Recorder.
 ## THE END
 * * * * *
-[Transcriber's Notes:
-The transcriber made these changes to the text:
-1. p. xi., Chalenged --> Challenged
-2. p. xiii., Coversation --> Conversation
-3. p. xvi, expresssion --> expression
-4. p. 53, hight --> height
-5. p. 58, susually --> usually
-6. p. 86, She's not for sale. --> She's not for sale."
-7. p. 97, looded --> looked
-8. p, 103, capenter --> carpenter
-9. p. 106, aligators --> alligators
-10. p. 112, Chenyville --> Cheneyville
-11. p. 135, gripe --> grip
-12. p. 138, loose --> lose
-13. p. 149, listing --> listening
-14. p. 156, an one --> a one
-15. p. 224, maintin --> maintain
-16. p. 244, LEW CHEENEY --> LEW CHENEY
-17. p. 274, priviliges --> privileges
-18. p. 296, 'bringing down his hand emphatically on the table,' -->
-bringing down his hand emphatically on the table,
-19. p. 314, reppresented --> represented
-20. p. 316, offer- --> offered
-End of Transcriber's Notes]

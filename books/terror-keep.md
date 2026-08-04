@@ -1771,37 +1771,3 @@ He nodded dumbly.
 And for the first time in his life Mr. J. G. Reeder, who had had so many experiences, mainly unpleasant, felt the soft lips of a woman against his.
 “Dear me!” said Mr. Reeder breathlessly, a few seconds later. “That was rather nice.”
 ## THE END
-TRANSCRIBER’S NOTES
-The Doubleday, Doran, & Co. (1929, New York) was consulted for some of the changes listed below.
-Minor spelling inconsistencies (_e.g._ frock-coat/frock coat, search-party/search party, etc.) have been preserved.
-Some differences between this and the Doubleday edition:
-[Chapter V]
-(He had conveyed this information at least four times, but Mr. Ravini was one of those curious people who like to treat old facts as new sensations.) for _Ravini_ read _Lew Steyne_.
-[Chapter VIII]
-(“Let up!” gasped Sweizer in Italian. “You’re choking me, Reeder.”) for _Italian_ read _French_.
-(He was less amused when he was charged with smashing the Bank of Lens) for _Lens_ read _Lena_.
-[Chapter XIII]
-(“Who are you talking about?” demanded Simpson…) for _Who_ read _Whom_.
-[Chapter XVIII]
-(“It’s strange I didn’t see this ladder when I saw the well before,” he said, and then remembered that he had only opened one half of the flap.) for _flap_ read _trap_.
-Alterations to the text:
-Add ToC.
-Merge disjointed contractions.
-[Chapter I]
-Change “A gentle wind carried the fragrance of the _pinks_ to her” to _pines_.
-Change (“I think-) to (“I think----”).
-[Chapter V]
-“five minutes later he was on the Southern _express_” to _Express_.
-[Chapter VIII]
-(“Know who I am--I’ll bet you do! Thought you’d got rid of me, didn’t you?) add question mark after _am_.
-“and gazed at them for a long _itme_” to _time_.
-[Chapter XI]
-(“Only two? You’ve never met me before?”) change question mark to an exclamation mark.
-(“Deduct from the velocity… and tell me how deep this hole is?”) change the question mark to a period.
-[Chapter XVII]
-“The stockings that _he_ had knotted about her waist were still wet” to _she_.
-[Chapter XVIII]
-“to realise that he _way_ lying half buried in a heap of debris” to _was_.
-[Chapter XIX]
-(“They are letters… in the big flat box that is locked”) add comma after _big_.
-[End of text]

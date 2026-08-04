@@ -965,9 +965,3 @@ _Sold by all Booksellers. Mailed, postpaid, by the Publishers,_
 ROBERTS BROTHERS,
 ## BOSTON.
 * * * * *
-Transcriber's Notes:
-Obvious punctuation errors repaired.
-Page 7, "Canonicut" changed to "Conanicut" (beyond Conanicut and)
-Page 171, "Our" changed to "our" (our own insignificance)
-Page 260, "smoothe" changed to "smooth" (smooth the tangled)
-Page 286, "Mas" changed to "Mass." (Boston, Mass.)

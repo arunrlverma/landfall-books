@@ -699,15 +699,3 @@ Papa was reading already; he always read in the cars himself, but he never liked
 "I am afraid you won't wish to come down to the hospitalities of lodgings this winter," said Mr. Leicester. "Perhaps we had better look for a comfortable house of our own near the Duncans."
 "Oh, we're sure to have the best of good times!" said Betty cheerfully, as if there were danger of his being low-spirited. "We must wait about all that, papa, dear, until we are in London."
 * * * * *
-Transcriber's Notes:
-Page 10, "fee" changed to "feel" (You don't feel)
-Page 10, "grand-aunts" changed to "grandaunts" to match rest of usage (my grandaunts this summer)
-Page 36, "upstairs" changed to "up-stairs" to match rest of usage (Now run up-stairs)
-Page 124, "something'" changed to "somethin'" (somethin' else that)
-Page 124, single quotation mark changed to double (from our house,")
-Page 128, period added (Betty herself would.)
-Page 134, opening quotation mark added ("But your Aunt Mary)
-Page 154, period changed to a comma (a darlin' gal,")
-Page 159, "grand-niece" changed to "grandniece" to match rest of usage (my grandniece, sometimes)
-Page 163, period added (answered Betty humbly.)
-Page 287, single quotation mark changed to double (lodgings this winter,")

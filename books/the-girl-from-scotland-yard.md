@@ -2249,13 +2249,3 @@ Lucretia, looking through the half-opened door, saw the brown head of her mistre
 Lucretia sneered.
 “My stars!” she said, addressing nobody in particular. “These women!”
 ## THE END
-TRANSCRIBER’S NOTES
-Minor spelling inconsistencies (e.g. drawing-room/drawing room, motor-car/motor car, etc.) have been preserved.
-Alterations to the text:
-Abandon the use of drop-caps.
-Punctuation: fix some quotation mark pairings/nestings, and some missing/invisible periods.
-[Chapter XXI]
-Change “The back was _undoubted y_ a door” to _undoubtedly_.
-[Chapter XXIV]
-“When she found she _couldn t_ stop… court _wh le_ the judge” to _couldn’t_ and _while_, respectively.
-[End of text]

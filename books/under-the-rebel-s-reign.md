@@ -1428,12 +1428,6 @@ Again the lash fell, with another cut added--again he writhed in pain, pain that
 Again the fiendish inquisitor asked his question, and again our hero replied in the negative. Four more frightful cuts of the inexorable kourbash fell on his rapidly-scarring back. The torture he endured was frightful, not a single blow from the raw-hide thong but was timed to produce the utmost effect; his back was waled in large ridges, and with a fiendish cruelty the inhuman executioner with unfailing aim had smote and re-smote him in the same place. Already he could feel that the skin had burst, and it came almost as a relief as he felt the flow of blood down his back. Again and again the malignant man in the chair asked his question. Again and again the answer came from our hero, followed quickly by the increased number of lashes from his executioner.
 The terrible punishment was beginning to tell; already George had passed from the defiant stage to one of patient endurance. As the torture continued his body began to feel numbed, and he became light-headed; he caught himself counting in a foolish manner the number of strokes he had received, and as each one fell, he would add two or three according to whether he felt it more or less than its predecessor. Once he even laughed as the man struck him on a part of his body that was clothed, with the effect that the executioner, enraged at the levity, redoubled his merciless attack.
 The light-headed stage passed off and was replaced by a feeling of horrible despair. He wondered when these monsters would have vented their spite sufficiently; he wondered if he would be alive at the end of the castigation, or if they would flay the flesh from his body. He thought of the ignominious ending it would be to his brief career with the fighting line.
-(Transcriber's note: Illustration not available.)
-His head was buried in his arms, and he was becoming indifferent to how frequently the kourbash fell on his shoulders. Had he but known it, it was the beginning of unconsciousness; he uttered no sound, he cared nothing for what was going on; he no longer, as the blows were rained on him, shut his teeth to bear the pain--it was not necessary, he was already beyond crying out. All sense of feeling had left him.
-Now and again he could hear, as if a long way off, the voice of the inquisitor repeating his question, but it had no meaning for him, the words were blurred and indistinct to his mental faculties, and he made no attempt to answer.
-Presently the blows ceased to fall; his body lost all feeling as his legs became cramped, and he fell into unconsciousness. Suddenly he was aroused from his torpor by angry voices. Far away they sounded, but still they penetrated to his dulled and aching brain. He could hear a high-pitched, shrill, screaming sound that struck on his almost senseless nerves with a shock.
-Vaguely he became aware that his flogging had ceased, and that something had gone wrong with his persecutors.
-With a supreme effort he roused himself, but he was too weak and feeble to be able to grasp the meaning of what he heard, and quickly sank down to full length again, as he felt a warm touch on his hands.
 CHAPTER XXIV
 ## A FRIEND INDEED
 The oblivion into which our hero had fallen did not last long, the suspension of brain-power was but passing and soon gave place to dreams. With that extraordinary irony of reduced mental power these dreams were of the most beautiful description; all the agony he had suffered had passed away, and he dreamt that he was in a gorgeous garden on the banks of his beloved Danube; all around him the most beautiful fountains played, and people were wandering about terraces and lawns dressed in lovely white flowing robes. Many of the faces he saw about him were those of the friends of his earlier associations, and they smiled and bowed to him as they passed by where he was reclining. No one seemed to speak, and a silence too peaceful and delightful for words reigned everywhere.
@@ -1913,56 +1907,3 @@ And so, after months of hardships and failures, George Helmar had at last found 
 After a few weeks' interval he received what he wanted--a long letter in return. The item of news which pleased him most was that telling of the safe recovery of Landauer, his opponent in the duel.
 "Thank God!" he exclaimed fervently. "My prayer was answered."
 THE END
-R. Clay & Sons, Ltd., London & Bungay.
-## FINE ART GIFT BOOKS
-* * * * *
-Wonders of the Bird World. By Dr. R. BOWDLER SHARPE. With numerous Illustrations by A. T. Elwes.
-Large crown 8vo, cloth boards, 6s.
-"One of the most delightful and fascinating books that ever delighted a bird-loving reader."--Daily News.
-"Dr. Sharpe is as learned as man need wish to be, and as
-entertaining as the most brilliant of
-conversationalists."--Country Life.
-Sintram and His Companions, and Undine. By De la MOTTE FOUQUE. With Introduction by Charlotte M. Yonge. Illustrated by Gordon Browne, R.I.
-Large crown 8vo, printed on superfine paper, art linen boards, gilt top, 6s.
-"The anonymous translation is the good old standard one, vastly superior to subsequent versions."--Times.
-"Certain to engage the sympathies of an entirely new set of readers."--Daily Telegraph.
-"Nothing could be more attractive than the form in which this excellent edition is sent forth."--Record.
-Stories from the Faerie Queene. By MARY MACLEOD. With Introduction by J. W. Hales, Professor of English Literature, King's College, London, etc., etc. With numerous Illustrations by A. G. Walker, Sculptor.
-Large crown 8vo, printed on superfine paper, cloth boards, gilt top, 6s.
-"Miss Mary Macleod has performed a dangerous and difficult task with taste and discretion. It can have been no light labour to set forth in simple, equable prose the linked sweetness, long drawn out, of Spenser's Faerie Queene, and the latter-day child may well feel much the same gratitude to her as those of another generation must have felt towards Charles and Mary Lamb, Nathaniel Hawthorne, and Kingsley."--Pall Mall Gazette.
-"The book is beautifully produced, and ought to satisfy the most fastidious and exacting taste."--Leeds Mercury.
-Sweetheart Travellers. A Child's Book FOR Children, FOR Women, AND FOR Men. By S. R. CROCKETT. With numerous Illustrations by Gordon Browne, R.I., and W. H. C. Groome. Large 8vo, printed on superfine paper, cloth boards, gilt top, 6s.
-A LARGE-PAPER EDITION, numbered and signed by Author and Artists, net, 31s. 6d.
-"Had any one ever been disinclined to believe in Mr. Crockett's genius, he must have recanted and repented in sackcloth and ashes after enjoying _Sweetheart Travellers_. It is the rarest of all rarities, and veritably a child's book for children, as well as for women and men. It is seldom, indeed, that the reviewer has the opportunity of bestowing unstinted praise, with the feeling that the laudation is, nevertheless, inadequate. _Sweetheart Travellers_ is instinct with drollery; it continually strikes the softest notes of tenderest pathos, like some sweet, old-fashioned nursery melody, and it must make the most hardened bachelor feel something of the pleasures he has missed in living mateless and childless."--Times.
-"A more delightful book for young, old, and middle aged it is scarcely possible to conceive."--Truth.
-The Surprising Adventures of Sir Toady Lion, with those of General Napoleon Smith. An Improving History for OLD BOYS, YOUNG BOYS, GOOD BOYS, BAD BOYS, BIG BOYS, LITTLE BOYS, COW-BOYS, and TOMBOYS. By S.R. CROCKETT. Illustrated by Gordon Browne, R.I.
-Large crown 8vo, cloth boards, gilt top, 6s.
-"It is distinctly the best Christmas book of the season."--Daily Mail.
-"When we say it is one of the most delightful stories about children we have ever read, we are still short of the mark."--Daily Chronicle.
-"In every way excellently got up."--Christian.
-"In this excellent book for children, which the elders will enjoy, Mr. Crockett comes right away from kailyard into a kingdom of obstreperous fancy, and is purely, delightfully funny, and not too Scotch. The wit of this feat of fancy, which cannot be described, and does not belong to any order of juvenile literature, unless we take Mr. Crockett as the founder of one, is over the heads of children in many instances, but they do not know it.... Mr. Gordon Browne's illustrations are as good a treat as the story; they realize every thought and intention of the writer, and are full of a sly and characteristic drollery all the artist's own."--The World.
-Fairy Tales from Grimm. With Introduction by S. Baring-Gould, M. A. Illustrated by Gordon Browne, R. I.
-Large crown 8vo, printed on superfine paper, fancy cloth boards, gilt top, 6s.
-"No more acceptable edition of some of Grimm's Stories has been published."--Standard.
-"Altogether delightful. The illustrations are full of charm and sympathy."--Saturday Review.
-"A fairy book beyond reproach."--Graphic.
-Prince Boohoo and Little Smuts. By the Rev. HARRY JONES, M. A., Prebendary of St. Paul's Cathedral. With numerous Illustrations by Gordon Browne, R. I.
-Large crown 8vo, printed on superfine paper, bound in fancy cloth boards, gilt top, 6s.
-"Really good nonsense, not at all copied from Mr. Lewis Carroll. Admirably fresh and inspired by a quite delightful _insouciance_."--Spectator.
-"Will charm the more qualified critical reader by its mingled gravity and whimsicality. It is not all sugar-plums; there are nice little bits of satire in which the Rev. Harry Jones is easily recognizable."--The World.
-National Rhymes of the Nursery. With Introduction by George Saintsbury, and numerous Illustrations by Gordon Browne, R. I.
-Large crown 8vo, printed on superfine paper, bound in art linen boards, with gilt top, 6s.
-Second Edition, with additions both to the Rhymes and Illustrations, now ready.
-"The prettiest and most complete collection of the kind that we have seen."--Westminster Gazette.
-"It is impossible to praise the volume too highly."--Black and White.
-"Every conceivable nursery rhyme is herein gathered together, beautifully illustrated. The collection is certainly the most perfect that has ever been made."--School Guardian.
-Stories from Froissart. By HENRY NEWBOLT, Author of "Admirals All," etc. With Illustrations by Gordon Browne, R. I.
-Large crown 8vo, cloth boards, gilt top, 6s.
-"No better book could be chosen to teach a boy some of the noblest years in our 'rough-and-tumble island story,' and it could hardly have been presented in a better form."--St. James's Gazette.
-Under the Rebel's Reign, a Story of Egyptian Revolt. By CHARLES NEUFELD, Author of "A Prisoner of the Khaleefa." With numerous Illustrations by Charles M. Sheldon.
-Large crown 8vo, fancy cloth boards, 6s.
-In the present volume Mr. Neufeld has attempted to give a picture of the exciting times during the Rebellion of Arabi Pasha. Starting from his University, the hero, George Helmar, goes out into the world to make a place in it for himself. From the commencement he meets with adventures: along the Danube and in Constantinople. He arrives in Alexandria just as Arabi's antagonism towards the Khedive has ripened into open revolt. He ultimately reaches Alexandria just after the bombardment, and gets engaged as interpreter to the British forces. He is taken prisoner whilst out on patrol, escapes, is recaptured, and finally escapes again in time to reach Tel-el-Kebir with important news which saves Cairo from destruction. The book is full of exciting and thrilling incidents and situations, many of which have been experienced by Mr. Neufeld himself.
-The White Stone. By H. C. MacIlwaine, Author of "Dinkinbar," "Fate the Fiddler," etc. With numerous Illustrations by G. D. Rowlandson.
-Large crown 8vo, cloth boards, gilt top, 6s.
-Mr. MacIlwaine, the popular author of two novels dealing with Australian life, has produced an excellent book about a bush-born boy, the son of English parents who migrated to Australia at the time of the gold fever. After living some years in the bush they send their only son to the old country to be educated. The rough lad comes to England at the age of thirteen to find himself far behind other boys in learning, but after a while a match for them in other respects. The precipitate return of the boy and mother to Australia, in consequence of the receipt of a telegram and a paragraph in an Australian paper, leads to Rowley's famous ride on his father's old horse. The interest in Colonial life is awakened in the first chapter, and it is evident that both in the life in England and Australia the author has had living models before him.
-WELLS GARDNER, DARTON AND CO., 3 Paternoster Buildings, E. C.

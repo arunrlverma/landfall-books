@@ -3241,4 +3241,3 @@ After a while the song was done, and other songs were sung; but it was not long 
 ## GOOD NIGHT
 ---------------------------------------------------------------------- FOOTNOTE:
 [87] Dorcas. ----------------------------------------------------------------------
-+--------------------------------------------+ |Transcriber's Note: | | | |Punctuation and inconsistencies in language | |and dialect found in the original book have | |been retained. In a later edition, "uch ti!"| |on Page 159 appears as "Ki!". | +--------------------------------------------+

@@ -3204,5 +3204,3 @@ THE COURAGE OF MARGE O'DOONE
 BACK TO GOD'S COUNTRY
 _Ask for Complete free list of G. & D. Popular Copyrighted Fiction_
 * * * * *
-Transcriber's Notes:
-Obvious punctuation errors repaired.

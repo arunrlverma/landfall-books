@@ -2301,10 +2301,3 @@ And the unhappy man stood there, vanquished and overcome by her last words, whic
 [18] The second person singular is used in French--as in German--amongst relations and intimate friends, and to servants.--TRANSLATOR.
 [19] A youth of extraordinary beauty, page to the Emperor Hadrian (A.D. 117-138), and the object of his extravagant affection. He was drowned in the Nile, whether accidentally, or whether he drowned himself to escape from the life he was leading, is uncertain.--TRANSLATOR.
 * * * * *
-Transcriber's Notes:
-Missing full stops have been added for ease of reading.
-Discrepancies in spelling have been standardized across stories.
-Unusual spellings have been retained.
-The book is titled "Illustrated", but there are no illustrations for this edition.
-The Short Story "The Accursed Bread" has a subsection marked "II", but there is no subsection "I".
-The Table of Contents in the book lists the story, "Love" at Page 263, however the text shows it starting on page 262. The Table of Contents has been adjusted accordingly.

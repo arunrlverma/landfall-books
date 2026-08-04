@@ -2258,6 +2258,3 @@ May be had wherever books are sold. Ask for Grosset and Dunlap's list.
 =54-40 OR FIGHT=
 =THE MISSISSIPPI BUBBLE=
 =THE PURCHASE PRICE=
-## TRANSCRIBER'S NOTES:
-1. Minor changes have been made to correct typesetters' errors; otherwise, every effort has been made to remain faithful to the author's words and intent.
-2. In the advertising pages at the end of the book, many of the book titles were underlined; for this e-text, this has been noted with a "=" at the beginning and end of the underlined text.
