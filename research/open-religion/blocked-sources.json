@@ -1,0 +1,114 @@
+[
+  {
+    "Recommended treatment": "Do not ingest; pursue direct license/partnership.",
+    "Reference URL": "https://84000.co/",
+    "Source / content class": "84000 translations",
+    "Terms or risk": "CC BY-NC-ND",
+    "Why it is not production-safe": "Commercial app use and derivative reading-level versions prohibited without permission."
+  },
+  {
+    "Recommended treatment": "Request license or exclude.",
+    "Reference URL": "https://www.bdkamerica.org/",
+    "Source / content class": "BDK English Tripiṭaka PDFs",
+    "Terms or risk": "All rights reserved / permission-controlled",
+    "Why it is not production-safe": "Free download is not redistribution permission."
+  },
+  {
+    "Recommended treatment": "Find historic edition elsewhere and independently clear.",
+    "Reference URL": "https://www.ccel.org/about/copyright.html",
+    "Source / content class": "CCEL PDFs/formatted files",
+    "Terms or risk": "Often NC and no-modification",
+    "Why it is not production-safe": "Platform file can be protected even when old work is PD."
+  },
+  {
+    "Recommended treatment": "Use only explicitly compatible files; otherwise discovery only.",
+    "Reference URL": "https://gretil.sub.uni-goettingen.de/gretil.html",
+    "Source / content class": "GRETIL bulk corpus",
+    "Terms or risk": "Scholarly/reference and source-specific terms",
+    "Why it is not production-safe": "No blanket commercial grant."
+  },
+  {
+    "Recommended treatment": "Source ancient editions independently or license.",
+    "Reference URL": "https://ctext.org/",
+    "Source / content class": "Chinese Text Project bulk text",
+    "Terms or risk": "Site copyright; CC BY-NC-SA / BY-SA datasets",
+    "Why it is not production-safe": "Not a no-rights commercial corpus."
+  },
+  {
+    "Recommended treatment": "Bibliographic verification only until independently cleared.",
+    "Reference URL": "https://archive.org/about/terms.php",
+    "Source / content class": "Internet Archive scans",
+    "Terms or risk": "Unknown/item-specific",
+    "Why it is not production-safe": "Availability is not clearance."
+  },
+  {
+    "Recommended treatment": "Partner or use cleared historical editions with dating.",
+    "Reference URL": "https://www.bahai.org/library/",
+    "Source / content class": "Current Bahá’í official translations",
+    "Terms or risk": "Permission-controlled",
+    "Why it is not production-safe": "Current official revisions/translations are not blanket PD."
+  },
+  {
+    "Recommended treatment": "Use dated historical editions or obtain permission.",
+    "Reference URL": "https://www.churchofjesuschrist.org/legal/terms-of-use",
+    "Source / content class": "Current Church of Jesus Christ scripture",
+    "Terms or risk": "Personal/noncommercial site terms",
+    "Why it is not production-safe": "Current official text/site presentation require permission."
+  },
+  {
+    "Recommended treatment": "License translation-by-translation; keep Tanzil Arabic verbatim.",
+    "Reference URL": "https://tanzil.net/docs/terms_of_use",
+    "Source / content class": "Modern Quran translations",
+    "Terms or risk": "Usually copyrighted",
+    "Why it is not production-safe": "Online availability does not grant reuse."
+  },
+  {
+    "Recommended treatment": "Mark immutable; allow verbatim display/search/audio/citation only.",
+    "Reference URL": "https://tanzil.net/docs/terms_of_use",
+    "Source / content class": "Tanzil inside rewrite pipeline",
+    "Terms or risk": "CC BY, no changes",
+    "Why it is not production-safe": "Reading-level rewrite conflicts with no-change condition."
+  },
+  {
+    "Recommended treatment": "Prefer WEB/OEB; geo-manage KJV after counsel review.",
+    "Reference URL": "https://www.cambridge.org/bibles/about/rights-and-permissions",
+    "Source / content class": "KJV as worldwide-unrestricted default",
+    "Terms or risk": "Territory-specific Crown issues",
+    "Why it is not production-safe": "U.S. PD does not create worldwide guarantee."
+  },
+  {
+    "Recommended treatment": "Seek licensed modern translation and Sikh editorial partnership.",
+    "Reference URL": "https://www.sikhcoalition.org/",
+    "Source / content class": "Modern Sikh scripture translations",
+    "Terms or risk": "Often unclear/copyrighted",
+    "Why it is not production-safe": "Historic accessible version may be unsuitable."
+  },
+  {
+    "Recommended treatment": "Use cleared historic translation or license modern one.",
+    "Reference URL": "https://www.copyright.gov/",
+    "Source / content class": "Modern Hindu scripture translations",
+    "Terms or risk": "Usually copyrighted",
+    "Why it is not production-safe": "Ancient Sanskrit source does not free modern English translation."
+  },
+  {
+    "Recommended treatment": "License or use cleared historic translations with modern context.",
+    "Reference URL": "https://84000.co/",
+    "Source / content class": "Modern Tibetan/Mahayana translations",
+    "Terms or risk": "Often NC/ND or reserved",
+    "Why it is not production-safe": "Free-to-read frequently prohibits commercial derivatives."
+  },
+  {
+    "Recommended treatment": "Require community approval and cultural-protocol review.",
+    "Reference URL": "https://localcontexts.org/labels/traditional-knowledge-labels/",
+    "Source / content class": "Indigenous sacred/secret material",
+    "Terms or risk": "May be legally PD but culturally restricted",
+    "Why it is not production-safe": "Copyright alone does not answer authority/consent/ceremonial restrictions."
+  },
+  {
+    "Recommended treatment": "Quarantine until edition, rights holder, territory, and uses are documented.",
+    "Reference URL": "https://www.copyright.gov/",
+    "Source / content class": "Any free PDF without explicit rights",
+    "Terms or risk": "Unknown",
+    "Why it is not production-safe": "Price/access do not confer reproduction or derivative rights."
+  }
+]
