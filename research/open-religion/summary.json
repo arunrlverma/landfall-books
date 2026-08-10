@@ -1,5 +1,5 @@
 {
-  "automaticallyImportedRule": "Exact Tier-A source artifacts only",
+  "automaticallyImportedRule": "Nine exact Tier-A artifacts plus nineteen reviewed Tier-B Gutenberg candidates; all require human review before merge",
   "gutenbergDiscoveryRows": 4159,
   "gutenbergRightsScreens": {
     "B — conservative age candidate": 1723,
@@ -18,7 +18,7 @@
     "D": 1,
     "X/C": 1
   },
-  "releaseCandidateBooks": 57,
+  "releaseCandidateBooks": 28,
   "sourceWorkbook": "made_landfall_open_religion_library_research.xlsx",
   "sourceWorkbookDate": "2026-08-09"
 }

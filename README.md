@@ -26,15 +26,19 @@ the catalog hashes.
 
 ## Open Religion Library
 
-`tools/import_open_religion.py` converts the research workbook into a guarded
-content collection. It imports only exact Tier-A source artifacts carrying an
-explicit CC0 or public-domain dedication. Tier B/C/D rows remain research; Tier
-X and blocked sources can never enter the catalog through this importer.
+`tools/import_open_religion.py` converts the research workbook into a guarded,
+deduplicated content collection. It imports exact Tier-A source artifacts plus
+a fixed, reviewed allowlist of Tier-B Project Gutenberg candidates. Tier-B
+records are fail-closed (`releaseAllowed: false`) until a person approves the
+exact edition and territories. Tier C/D/X and blocked sources cannot enter the
+catalog through this importer.
 
-The current release candidate contains 57 books: 44 released Open English Bible
-books, three complete World English Bible editions, and ten SuttaCentral
-translations. Every entry records the immutable upstream commit or archive
-checksum and remains marked `humanReviewRequiredBeforeMerge` until reviewed.
+The current review wave contains 28 distinct books: nine non-overlapping
+SuttaCentral collections and nineteen standalone Project Gutenberg works. It
+deliberately excludes additional Bible editions and the SuttaCentral
+Dhammapada, which would duplicate books already available in Landfall. Every
+entry records immutable source checksums and remains marked
+`humanReviewRequiredBeforeMerge` until reviewed.
 
 Run the importer against pinned local source checkouts, then run the quality
 gate:
@@ -42,9 +46,9 @@ gate:
 ```bash
 python3 tools/import_open_religion.py \
   --workbook-json /path/to/workbook-data.json \
-  --oeb-source /path/to/Open-English-Bible \
   --suttacentral-editions /path/to/suttacentral-editions \
-  --web-zip-dir /path/to/world-english-bible-zips \
+  --curated-gutenberg-dir /path/to/reviewed-gutenberg-output \
+  --bundled-manifest /path/to/landfall/Classics/manifest.json \
   --write
 python3 tools/editorial_quality.py
 ```

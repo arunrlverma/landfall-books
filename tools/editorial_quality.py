@@ -189,10 +189,7 @@ def audit(catalog: list[dict]) -> list[str]:
         required = {
             "sourceURL", "sourceVersion", "sourcePath", "sourceRetrievedAt",
             "sourceSha256", "contentSha256", "licenseOrPublicDomainBasis",
-            "minimumContentBytes",
-            "licenseEvidenceURL", "licenseEvidencePath", "licenseEvidenceSha256",
-            "approvedTerritories", "commercialUseAllowed", "derivativesAllowed",
-            "allowedCapabilities", "requiredAttribution",
+            "minimumContentBytes", "licenseEvidenceURL", "requiredAttribution",
         }
         for record in rights_entries:
             slug = record.get("slug", "<missing slug>")
@@ -202,19 +199,33 @@ def audit(catalog: list[dict]) -> list[str]:
             missing = sorted(field for field in required if not record.get(field))
             if missing:
                 problems.append(f"{slug}: incomplete rights record ({', '.join(missing)})")
-            if record.get("workbookRightsTier") != "A":
-                problems.append(f"{slug}: non-Tier-A record entered open-religion release catalog")
+            tier = record.get("workbookRightsTier")
+            if tier not in {"A", "B"}:
+                problems.append(f"{slug}: unsupported rights tier")
             if record.get("publicationState") != "release-candidate":
                 problems.append(f"{slug}: unexpected publication state")
             if record.get("humanReviewRequiredBeforeMerge") is not True:
                 problems.append(f"{slug}: human-review merge gate is missing")
-            if record.get("commercialUseAllowed") is not True or record.get("derivativesAllowed") is not True:
-                problems.append(f"{slug}: required commercial/derivative permission is missing")
-            evidence_path = ROOT / str(record.get("licenseEvidencePath", ""))
-            if not evidence_path.is_file():
-                problems.append(f"{slug}: license evidence snapshot is missing")
-            elif hashlib.sha256(evidence_path.read_bytes()).hexdigest() != record.get("licenseEvidenceSha256"):
-                problems.append(f"{slug}: license evidence checksum mismatch")
+            if tier == "A":
+                if record.get("releaseAllowed") is not True:
+                    problems.append(f"{slug}: Tier-A release permission is not recorded")
+                if record.get("commercialUseAllowed") is not True or record.get("derivativesAllowed") is not True:
+                    problems.append(f"{slug}: required commercial/derivative permission is missing")
+                if record.get("approvedTerritories") != ["worldwide"]:
+                    problems.append(f"{slug}: Tier-A worldwide territory approval is missing")
+                evidence_path = ROOT / str(record.get("licenseEvidencePath", ""))
+                if not evidence_path.is_file():
+                    problems.append(f"{slug}: license evidence snapshot is missing")
+                elif hashlib.sha256(evidence_path.read_bytes()).hexdigest() != record.get("licenseEvidenceSha256"):
+                    problems.append(f"{slug}: license evidence checksum mismatch")
+            elif tier == "B":
+                if record.get("releaseAllowed") is not False:
+                    problems.append(f"{slug}: Tier-B candidate is not fail-closed")
+                if record.get("approvedTerritories") or record.get("commercialUseAllowed") is not None or record.get("derivativesAllowed") is not None:
+                    problems.append(f"{slug}: Tier-B candidate claims unapproved rights")
+                artifacts = record.get("sourceArtifacts") or []
+                if not artifacts or any(not row.get("gutenbergID") or not row.get("sourceURL") or not row.get("sourceSha256") for row in artifacts):
+                    problems.append(f"{slug}: Tier-B source-artifact evidence is incomplete")
             catalog_entry = by_slug.get(slug)
             if not catalog_entry:
                 problems.append(f"{slug}: rights record has no catalog entry")

@@ -15,9 +15,11 @@ rights and editorial planning artifact, not a blanket permission to publish.
 - **Tier D** — conditional license or permission workflow.
 - **Tier X / Blocked Sources** — never ingest automatically.
 
-The importer enforces this boundary. It cannot turn the Gutenberg discovery
-queue or blocked-source rows into catalog books. A generated Tier-A book is
-still marked `humanReviewRequiredBeforeMerge` in the rights ledger.
+The importer enforces this boundary. Only a fixed, source-hashed Tier-B
+allowlist can enter the review branch, and those records remain
+`releaseAllowed: false`. It cannot turn the general Gutenberg discovery queue
+or blocked-source rows into catalog books. Every generated book is still marked
+`humanReviewRequiredBeforeMerge` in the rights ledger.
 
 ## Files
 
@@ -28,7 +30,11 @@ still marked `humanReviewRequiredBeforeMerge` in the rights ledger.
 - `gutenberg-discovery.json` — 4,159 discovery records for later clearance
 - `rights-checklist.json` — exact-edition release controls
 - `blocked-sources.json` — sources that must not enter production automatically
+- `curated-gutenberg.json` — the exact nineteen-book allowlist with source IDs,
+  URLs, raw hashes, and cleaned-output hashes
 
-The current release-candidate wave contains 57 books from exact Tier-A source
-artifacts. The remaining rows stay searchable here until their edition-level
-rights and editorial review are complete.
+The current review wave contains 28 distinct books: nine exact Tier-A
+SuttaCentral artifacts and nineteen Tier-B Project Gutenberg candidates. Bible
+editions and a duplicate Dhammapada were excluded. The remaining rows stay
+searchable here until their edition-level rights and editorial review are
+complete.

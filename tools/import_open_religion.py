@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Build Landfall's rights-first open religion collection.
+"""Build Landfall's deduplicated, rights-first open religion collection.
 
-This importer deliberately publishes only workbook Tier-A sources with an
-explicit public-domain dedication or CC0 grant.  The broader workbook research
-is retained as structured JSON, but B/C/D/X rows never enter ``catalog.json``.
+The release-candidate collection combines exact Tier-A source artifacts with a
+small, reviewed Tier-B Project Gutenberg set. Tier-B candidates remain blocked
+from release until a human completes the territory and edition review.
 
-The command is deterministic: identical pinned source trees and ZIP archives
+The command is deterministic: identical pinned source trees and reviewed files
 produce identical Markdown, catalog entries, provenance, and checksums.
 """
 from __future__ import annotations
@@ -16,8 +16,6 @@ import hashlib
 import json
 import re
 import unicodedata
-import zipfile
-from datetime import date
 from html.parser import HTMLParser
 from pathlib import Path
 from typing import Iterable
@@ -30,37 +28,11 @@ RESEARCH = ROOT / "research" / "open-religion"
 RIGHTS = ROOT / "rights" / "open-religion.json"
 COLLECTION = ROOT / "collections" / "open-religion.json"
 
-OEB_COMMIT = "1965127de5c3c103af3fdbc9288c1abec5f39994"
 SUTTACENTRAL_COMMIT = "9783fcb047598d2957c41b6f1c30f5532d0537a7"
 RETRIEVED_AT = "2026-08-09"
 
-WEB_EDITIONS = {
-    "eng-web": {
-        "title": "World English Bible — Ecumenical Edition",
-        "slug": "world-english-bible-ecumenical-edition",
-        "zip": "eng-web_readaloud.zip",
-        "url": "https://ebible.org/find/show.php?id=eng-web",
-        "blurb": "A complete modern-English ecumenical Bible edition dedicated to the public domain.",
-    },
-    "engwebp": {
-        "title": "World English Bible — Protestant Edition",
-        "slug": "world-english-bible-protestant-edition",
-        "zip": "engwebp_readaloud.zip",
-        "url": "https://ebible.org/find/show.php?id=engwebp",
-        "blurb": "A complete modern-English Protestant Bible edition dedicated to the public domain.",
-    },
-    "eng-web-c": {
-        "title": "World English Bible — Catholic Edition",
-        "slug": "world-english-bible-catholic-edition",
-        "zip": "eng-web-c_readaloud.zip",
-        "url": "https://ebible.org/find/show.php?id=eng-web-c",
-        "blurb": "A complete modern-English Catholic Bible edition dedicated to the public domain.",
-    },
-}
-
 SUTTACENTRAL_EDITIONS = {
     "an": ("Numbered Discourses", "numbered-discourses-suttacentral"),
-    "dhp": ("Sayings of the Dhamma", "sayings-of-the-dhamma-suttacentral"),
     "dn": ("Long Discourses", "long-discourses-suttacentral"),
     "iti": ("So It Was Said", "so-it-was-said-suttacentral"),
     "mn": ("Middle Discourses", "middle-discourses-suttacentral"),
@@ -89,11 +61,6 @@ def normalized_text_snapshot(data: bytes) -> bytes:
     return ("\n".join(line.rstrip() for line in text.splitlines()) + "\n").encode("utf-8")
 
 
-def slugify(value: str) -> str:
-    ascii_value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode()
-    return re.sub(r"[^a-z0-9]+", "-", ascii_value.lower()).strip("-")
-
-
 def workbook_rows(workbook: dict, sheet: str) -> list[dict]:
     values = workbook[sheet]["values"]
     headers = [str(value) if value is not None else "" for value in values[0]]
@@ -116,86 +83,6 @@ def compact_blank_lines(lines: Iterable[str]) -> str:
     while out and not out[-1]:
         out.pop()
     return "\n".join(out) + "\n"
-
-
-INLINE_USFM = re.compile(r"\\(?:wj|add|nd|pn|qt|bk|it|bd|bdit|em|sc|k|no|sup)\*?")
-FOOTNOTE_USFM = re.compile(r"\\(?:f|x)\s.*?\\(?:f|x)\*", re.DOTALL)
-
-
-def clean_usfm_text(text: str) -> str:
-    text = FOOTNOTE_USFM.sub("", text)
-    text = INLINE_USFM.sub("", text)
-    text = re.sub(r"\\[a-zA-Z0-9]+\*?", "", text)
-    return re.sub(r"\s+", " ", text).strip()
-
-
-def oeb_markdown(path: Path) -> tuple[str, str]:
-    title = re.sub(r"^\d+-", "", path.stem)
-    lines = [f"# {title}", "by the Open English Bible project", ""]
-    paragraph: list[str] = []
-
-    def flush() -> None:
-        if paragraph:
-            lines.append(" ".join(paragraph))
-            lines.append("")
-            paragraph.clear()
-
-    for raw in path.read_text(encoding="utf-8-sig").splitlines():
-        if not raw.startswith("\\"):
-            cleaned = clean_usfm_text(raw)
-            if cleaned:
-                paragraph.append(cleaned)
-            continue
-        marker, _, payload = raw[1:].partition(" ")
-        payload = clean_usfm_text(payload)
-        marker = marker.rstrip("*")
-        if marker in {"id", "ide", "h", "toc1", "toc2", "rem", "periph", "mt", "mt1", "mt2", "mt3"}:
-            continue
-        if marker == "c":
-            flush()
-            lines.extend([f"## Chapter {payload}", ""])
-        elif marker in {"s", "s2", "ms"} and payload:
-            flush()
-            lines.extend([f"### {payload}", ""])
-        elif marker == "v":
-            _, _, verse = payload.partition(" ")
-            verse = clean_usfm_text(verse)
-            if verse:
-                paragraph.append(verse)
-        elif marker in {"p", "m", "pi", "nb", "b"}:
-            flush()
-            if payload:
-                paragraph.append(payload)
-        elif marker.startswith("q") or marker == "d":
-            flush()
-            if payload:
-                lines.extend([payload, ""])
-        elif payload:
-            paragraph.append(payload)
-    flush()
-    return title, compact_blank_lines(lines)
-
-
-def web_markdown(edition: dict, path: Path) -> str:
-    lines = [f"# {edition['title']}", "by Michael Paul Johnson et al.", ""]
-    current_book: str | None = None
-    with zipfile.ZipFile(path) as archive:
-        chapter_files = sorted(
-            name for name in archive.namelist()
-            if name.endswith("_read.txt") and "_000_000_000_" not in name
-        )
-        for name in chapter_files:
-            raw = archive.read(name).decode("utf-8-sig").replace("\r\n", "\n")
-            rows = [row.strip() for row in raw.splitlines() if row.strip()]
-            if len(rows) < 3:
-                continue
-            book = rows[0].rstrip(".")
-            chapter = rows[1].rstrip(".")
-            if book != current_book:
-                lines.extend([f"## {book}", ""])
-                current_book = book
-            lines.extend([f"### {chapter}", "", " ".join(rows[2:]), ""])
-    return compact_blank_lines(lines)
 
 
 class MainMatterParser(HTMLParser):
@@ -311,6 +198,7 @@ def rights_entry(
         "tradition": tradition,
         "workbookRightsTier": "A",
         "publicationState": "release-candidate",
+        "releaseAllowed": True,
         "humanReviewRequiredBeforeMerge": True,
         "sourceName": source_name,
         "sourceURL": source_url,
@@ -336,8 +224,55 @@ def rights_entry(
     }
 
 
+def normalized_title(value: str) -> str:
+    value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode().lower()
+    value = re.sub(r"\b(?:the|a|an)\b", " ", value)
+    return re.sub(r"[^a-z0-9]+", " ", value).strip()
+
+
+def curated_gutenberg_rights(entry: dict, record: dict) -> dict:
+    artifacts = [
+        {"gutenbergID": pgid, "sourceURL": url, "sourceSha256": digest}
+        for pgid, url, digest in zip(
+            record["gutenbergIDs"], record["sourceURLs"], record["sourceSha256s"]
+        )
+    ]
+    return {
+        "slug": entry["slug"],
+        "title": entry["title"],
+        "tradition": "Cross-tradition",
+        "workbookRightsTier": "B",
+        "publicationState": "release-candidate",
+        "releaseAllowed": False,
+        "humanReviewRequiredBeforeMerge": True,
+        "sourceName": "Project Gutenberg / Gutendex",
+        "sourceURL": artifacts[0]["sourceURL"],
+        "sourceVersion": "Gutendex live metadata checked 2026-08-09",
+        "sourcePath": ", ".join(str(row["gutenbergID"]) for row in artifacts),
+        "sourceRetrievedAt": RETRIEVED_AT,
+        "sourceSha256": artifacts[0]["sourceSha256"],
+        "sourceArtifacts": artifacts,
+        "contentSha256": entry["sha256"],
+        "minimumContentBytes": 25_000,
+        "licenseOrPublicDomainBasis": (
+            "Workbook Tier-B conservative life-plus-70 contributor screen and current "
+            "Gutendex copyright=false signal; exact edition and release territories require human review."
+        ),
+        "licenseEvidenceURL": "https://www.gutenberg.org/policy/permission.html",
+        "licenseEvidencePath": None,
+        "licenseEvidenceSha256": None,
+        "approvedTerritories": [],
+        "commercialUseAllowed": None,
+        "derivativesAllowed": None,
+        "allowedCapabilities": [],
+        "requiredAttribution": "Project Gutenberg source IDs and immutable source hashes are preserved in this ledger.",
+        "trademarkConstraint": "Do not represent modified files as official Project Gutenberg editions.",
+    }
+
+
 def build(args: argparse.Namespace) -> tuple[list[dict], list[dict]]:
     workbook = json.loads(args.workbook_json.read_text(encoding="utf-8"))
+    curated_manifest = json.loads((args.curated_gutenberg_dir / "manifest.json").read_text(encoding="utf-8"))
     research = {
         "tradition-matrix.json": workbook_rows(workbook, "Tradition Matrix"),
         "source-registry.json": workbook_rows(workbook, "Source Registry"),
@@ -345,6 +280,7 @@ def build(args: argparse.Namespace) -> tuple[list[dict], list[dict]]:
         "gutenberg-discovery.json": workbook_rows(workbook, "PG Discovery"),
         "rights-checklist.json": workbook_rows(workbook, "Rights Checklist"),
         "blocked-sources.json": workbook_rows(workbook, "Blocked Sources"),
+        "curated-gutenberg.json": curated_manifest,
     }
     launch_tiers = Counter(str(row.get("Rights tier") or "Unknown") for row in research["launch-library.json"])
     pg_screens = Counter(str(row.get("Rights screen") or "Unknown") for row in research["gutenberg-discovery.json"])
@@ -355,74 +291,15 @@ def build(args: argparse.Namespace) -> tuple[list[dict], list[dict]]:
         "launchRightsTiers": dict(sorted(launch_tiers.items())),
         "gutenbergDiscoveryRows": len(research["gutenberg-discovery.json"]),
         "gutenbergRightsScreens": dict(sorted(pg_screens.items())),
-        "automaticallyImportedRule": "Exact Tier-A source artifacts only",
-        "releaseCandidateBooks": 57,
+        "automaticallyImportedRule": "Nine exact Tier-A artifacts plus nineteen reviewed Tier-B Gutenberg candidates; all require human review before merge",
+        "releaseCandidateBooks": 28,
     }
 
     generated: list[tuple[dict, bytes]] = []
     rights: list[dict] = []
     license_evidence_files: dict[str, bytes] = {
-        "rights/evidence/open-english-bible-license.txt": normalized_text_snapshot((args.oeb_source / "LICENSE").read_bytes()),
         "rights/evidence/suttacentral-editions-license.txt": normalized_text_snapshot((args.suttacentral_editions / "LICENSE").read_bytes()),
     }
-
-    usfm_dir = args.oeb_source / "artifacts" / "us-release" / "usfm"
-    for source in sorted(usfm_dir.glob("*.usfm")):
-        if source.name.startswith("00-"):
-            continue
-        title, markdown = oeb_markdown(source)
-        slug = f"open-english-bible-{slugify(title)}"
-        data = markdown.encode("utf-8")
-        entry = catalog_entry(
-            slug, f"{title} — Open English Bible", "Open English Bible project",
-            f"{title} in the current Open English Bible release, an unrestricted modern-English translation.", data,
-        )
-        generated.append((entry, data))
-        rights.append(rights_entry(
-            entry,
-            tradition="Christianity",
-            source_name="Open English Bible",
-            source_url="https://github.com/openenglishbible/Open-English-Bible",
-            source_version=OEB_COMMIT,
-            source_path=f"artifacts/us-release/usfm/{source.name}",
-            source_sha256=sha256_path(source),
-            license_basis="CC0 1.0 Universal public-domain dedication",
-            license_evidence_url="https://github.com/openenglishbible/Open-English-Bible/blob/master/LICENSE",
-            license_evidence_path="rights/evidence/open-english-bible-license.txt",
-            license_evidence_sha256=sha256_bytes(license_evidence_files["rights/evidence/open-english-bible-license.txt"]),
-            minimum_content_bytes=1_000,
-            attribution="Open English Bible project; source and version preserved in this ledger.",
-        ))
-
-    for edition in WEB_EDITIONS.values():
-        source = args.web_zip_dir / edition["zip"]
-        with zipfile.ZipFile(source) as archive:
-            copyright_evidence = archive.read("copr.htm")
-        evidence_path = f"rights/evidence/{edition['slug']}-copyright.html"
-        copyright_evidence = normalized_text_snapshot(copyright_evidence)
-        license_evidence_files[evidence_path] = copyright_evidence
-        data = web_markdown(edition, source).encode("utf-8")
-        entry = catalog_entry(
-            edition["slug"], edition["title"], "Johnson, Michael Paul; contributors",
-            edition["blurb"], data,
-        )
-        generated.append((entry, data))
-        rights.append(rights_entry(
-            entry,
-            tradition="Christianity",
-            source_name="World English Bible",
-            source_url=edition["url"],
-            source_version="readaloud archive dated 2026-08-07",
-            source_path=edition["zip"],
-            source_sha256=sha256_path(source),
-            license_basis="Public-domain dedication",
-            license_evidence_url="https://ebible.org/eng-web/copyright.htm",
-            license_evidence_path=evidence_path,
-            license_evidence_sha256=sha256_bytes(copyright_evidence),
-            minimum_content_bytes=3_000_000,
-            attribution="World English Bible; Michael Paul Johnson and contributors.",
-            trademark="Modified editions must not be represented as an unmodified World English Bible edition.",
-        ))
 
     for code, (title, slug) in SUTTACENTRAL_EDITIONS.items():
         candidates = list((args.suttacentral_editions / "en" / "sujato" / code / "html").glob("*.html"))
@@ -450,16 +327,64 @@ def build(args: argparse.Namespace) -> tuple[list[dict], list[dict]]:
             attribution="Translated by Bhikkhu Sujato; generated by SuttaCentral Editions from published Bilara data.",
         ))
 
+    for record in curated_manifest:
+        source = args.curated_gutenberg_dir / "books" / f"{record['slug']}.md"
+        data = source.read_bytes()
+        if len(data) != record["bytes"] or sha256_bytes(data) != record["sha256"]:
+            raise ValueError(f"{record['slug']}: curated Gutenberg manifest checksum mismatch")
+        summary = next(iter(record.get("summaries") or []), "")
+        blurb = summary or f"A reviewed public-domain candidate sourced from Project Gutenberg: {record['title']}."
+        entry = catalog_entry(record["slug"], record["title"], record["author"], blurb, data)
+        entry["category"] = record["category"]
+        if len(record["gutenbergIDs"]) == 1:
+            entry["gutenbergID"] = record["gutenbergIDs"][0]
+        else:
+            entry["gutenbergIDs"] = record["gutenbergIDs"]
+        generated.append((entry, data))
+        rights.append(curated_gutenberg_rights(entry, record))
+
     slugs = [entry["slug"] for entry, _ in generated]
     if len(slugs) != len(set(slugs)):
         raise ValueError("generated slugs are not unique")
-    if len(generated) != 57:
-        raise ValueError(f"expected 57 release candidates, generated {len(generated)}")
+    if len(generated) != 28:
+        raise ValueError(f"expected 28 distinct release candidates, generated {len(generated)}")
+
+    previous_collection = json.loads(COLLECTION.read_text(encoding="utf-8")) if COLLECTION.exists() else {"slugs": []}
+    previous_slugs = set(previous_collection.get("slugs", []))
+    catalog = json.loads(CATALOG.read_text(encoding="utf-8"))
+    retained = [entry for entry in catalog if entry["slug"] not in previous_slugs]
+    bundled = json.loads(args.bundled_manifest.read_text(encoding="utf-8"))
+    occupied_titles = {normalized_title(entry["title"]): entry["title"] for entry in [*retained, *bundled]}
+    occupied_ids = {
+        int(value)
+        for entry in [*retained, *bundled]
+        for value in ([entry.get("gutenbergID")] if entry.get("gutenbergID") else entry.get("gutenbergIDs", []))
+    }
+    for entry, _ in generated:
+        title_key = normalized_title(entry["title"])
+        if title_key in occupied_titles:
+            raise ValueError(f"{entry['title']}: duplicates existing title {occupied_titles[title_key]}")
+        ids = ([entry.get("gutenbergID")] if entry.get("gutenbergID") else entry.get("gutenbergIDs", []))
+        overlap = occupied_ids.intersection(ids)
+        if overlap:
+            raise ValueError(f"{entry['title']}: duplicates existing Gutenberg ID(s) {sorted(overlap)}")
+        occupied_titles[title_key] = entry["title"]
+        occupied_ids.update(ids)
 
     if args.write:
         RESEARCH.mkdir(parents=True, exist_ok=True)
         (ROOT / "rights").mkdir(exist_ok=True)
         (ROOT / "collections").mkdir(exist_ok=True)
+        stale_evidence = [
+            "rights/evidence/open-english-bible-license.txt",
+            "rights/evidence/world-english-bible-catholic-edition-copyright.html",
+            "rights/evidence/world-english-bible-ecumenical-edition-copyright.html",
+            "rights/evidence/world-english-bible-protestant-edition-copyright.html",
+        ]
+        for relative_path in stale_evidence:
+            target = ROOT / relative_path
+            if target.exists():
+                target.unlink()
         for relative_path, evidence in license_evidence_files.items():
             target = ROOT / relative_path
             target.parent.mkdir(parents=True, exist_ok=True)
@@ -469,16 +394,20 @@ def build(args: argparse.Namespace) -> tuple[list[dict], list[dict]]:
         for entry, data in generated:
             (BOOKS / f"{entry['slug']}.md").write_bytes(data)
 
-        catalog = json.loads(CATALOG.read_text(encoding="utf-8"))
         replacement = {entry["slug"]: entry for entry, _ in generated}
-        catalog = [entry for entry in catalog if entry["slug"] not in replacement]
+        stale_slugs = previous_slugs - set(replacement)
+        for slug in stale_slugs:
+            stale = BOOKS / f"{slug}.md"
+            if stale.exists():
+                stale.unlink()
+        catalog = [entry for entry in catalog if entry["slug"] not in previous_slugs and entry["slug"] not in replacement]
         catalog.extend(entry for entry, _ in generated)
         CATALOG.write_text(json.dumps(catalog, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
         RIGHTS.write_text(json_text({
             "schemaVersion": 1,
             "generatedAt": RETRIEVED_AT,
-            "policy": "Only exact Tier-A source artifacts enter the release-candidate catalog; human review is required before merge.",
+            "policy": "Tier-A artifacts and explicitly blocked Tier-B candidates enter this review branch; human rights and editorial review is required before merge, and Tier-B releaseAllowed remains false.",
             "entries": sorted(rights, key=lambda row: row["slug"]),
         }), encoding="utf-8")
         COLLECTION.write_text(json_text({
@@ -494,13 +423,13 @@ def build(args: argparse.Namespace) -> tuple[list[dict], list[dict]]:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--workbook-json", type=Path, required=True)
-    parser.add_argument("--oeb-source", type=Path, required=True)
     parser.add_argument("--suttacentral-editions", type=Path, required=True)
-    parser.add_argument("--web-zip-dir", type=Path, required=True)
+    parser.add_argument("--curated-gutenberg-dir", type=Path, required=True)
+    parser.add_argument("--bundled-manifest", type=Path, required=True)
     parser.add_argument("--write", action="store_true")
     args = parser.parse_args()
     entries, _ = build(args)
-    print(f"PASS: generated {len(entries)} rights-verified release candidates")
+    print(f"PASS: generated {len(entries)} guarded release candidates")
     return 0
 
 
