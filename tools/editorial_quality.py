@@ -17,6 +17,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 BOOKS = ROOT / "books"
 CATALOG = ROOT / "catalog.json"
+OPEN_RELIGION_RIGHTS = ROOT / "rights" / "open-religion.json"
 
 TRANSCRIBER = re.compile(r"transcriber[’']s? notes?", re.I)
 RAW_HTML = re.compile(r"</?(?:i|b|em|strong|p|div|span)(?:\s[^>]*)?>", re.I)
@@ -179,6 +180,62 @@ def audit(catalog: list[dict]) -> list[str]:
                 problems.append(f"{slug}: reviewed end marker is missing")
             elif any(line.strip() for line in lines[endings[-1] + 1 :]):
                 problems.append(f"{slug}: publisher material remains after the end")
+
+    if OPEN_RELIGION_RIGHTS.exists():
+        rights_payload = json.loads(OPEN_RELIGION_RIGHTS.read_text(encoding="utf-8"))
+        rights_entries = rights_payload.get("entries", [])
+        by_slug = {entry["slug"]: entry for entry in catalog}
+        seen: set[str] = set()
+        required = {
+            "sourceURL", "sourceVersion", "sourcePath", "sourceRetrievedAt",
+            "sourceSha256", "contentSha256", "licenseOrPublicDomainBasis",
+            "minimumContentBytes", "licenseEvidenceURL", "requiredAttribution",
+        }
+        for record in rights_entries:
+            slug = record.get("slug", "<missing slug>")
+            if slug in seen:
+                problems.append(f"{slug}: duplicate open-religion rights record")
+            seen.add(slug)
+            missing = sorted(field for field in required if not record.get(field))
+            if missing:
+                problems.append(f"{slug}: incomplete rights record ({', '.join(missing)})")
+            tier = record.get("workbookRightsTier")
+            if tier not in {"A", "B"}:
+                problems.append(f"{slug}: unsupported rights tier")
+            if record.get("publicationState") != "release-candidate":
+                problems.append(f"{slug}: unexpected publication state")
+            if record.get("humanReviewRequiredBeforeMerge") is not True:
+                problems.append(f"{slug}: human-review merge gate is missing")
+            if tier == "A":
+                if record.get("releaseAllowed") is not True:
+                    problems.append(f"{slug}: Tier-A release permission is not recorded")
+                if record.get("commercialUseAllowed") is not True or record.get("derivativesAllowed") is not True:
+                    problems.append(f"{slug}: required commercial/derivative permission is missing")
+                if record.get("approvedTerritories") != ["worldwide"]:
+                    problems.append(f"{slug}: Tier-A worldwide territory approval is missing")
+                evidence_path = ROOT / str(record.get("licenseEvidencePath", ""))
+                if not evidence_path.is_file():
+                    problems.append(f"{slug}: license evidence snapshot is missing")
+                elif hashlib.sha256(evidence_path.read_bytes()).hexdigest() != record.get("licenseEvidenceSha256"):
+                    problems.append(f"{slug}: license evidence checksum mismatch")
+            elif tier == "B":
+                if record.get("releaseAllowed") is not False:
+                    problems.append(f"{slug}: Tier-B candidate is not fail-closed")
+                if record.get("approvedTerritories") or record.get("commercialUseAllowed") is not None or record.get("derivativesAllowed") is not None:
+                    problems.append(f"{slug}: Tier-B candidate claims unapproved rights")
+                artifacts = record.get("sourceArtifacts") or []
+                if not artifacts or any(not row.get("gutenbergID") or not row.get("sourceURL") or not row.get("sourceSha256") for row in artifacts):
+                    problems.append(f"{slug}: Tier-B source-artifact evidence is incomplete")
+            catalog_entry = by_slug.get(slug)
+            if not catalog_entry:
+                problems.append(f"{slug}: rights record has no catalog entry")
+            elif record.get("contentSha256") != catalog_entry.get("sha256"):
+                problems.append(f"{slug}: rights/content checksum mismatch")
+            elif catalog_entry.get("bytes", 0) < record.get("minimumContentBytes", 0):
+                problems.append(f"{slug}: generated content is unexpectedly small")
+        release_slugs = {entry["slug"] for entry in catalog if entry.get("collection") == "open-religion"}
+        if release_slugs != seen:
+            problems.append("open-religion: catalog and rights ledger slug sets differ")
     return problems
 
 

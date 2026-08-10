@@ -1,0 +1,24 @@
+{
+  "automaticallyImportedRule": "Nine exact Tier-A artifacts plus nineteen reviewed Tier-B Gutenberg candidates; all require human review before merge",
+  "gutenbergDiscoveryRows": 4159,
+  "gutenbergRightsScreens": {
+    "B — conservative age candidate": 1723,
+    "C — later contributor; territory review": 1085,
+    "Unknown — incomplete contributor dates": 285,
+    "Unknown — no contributor metadata": 98,
+    "Unknown — no death dates": 968
+  },
+  "launchLibraryRows": 222,
+  "launchRightsTiers": {
+    "A": 18,
+    "A/B": 1,
+    "B": 145,
+    "B/C": 18,
+    "C": 38,
+    "D": 1,
+    "X/C": 1
+  },
+  "releaseCandidateBooks": 28,
+  "sourceWorkbook": "made_landfall_open_religion_library_research.xlsx",
+  "sourceWorkbookDate": "2026-08-09"
+}

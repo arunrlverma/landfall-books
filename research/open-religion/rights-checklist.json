@@ -1,0 +1,275 @@
+[
+  {
+    "Control": "Identify exact edition",
+    "Evidence to capture": "Title, subtitle, publisher, city, year, edition, volume, scan source",
+    "Gate": "Required",
+    "Step": "1",
+    "Why it matters": "Never clear only by generic title."
+  },
+  {
+    "Control": "Separate protectable layers",
+    "Evidence to capture": "Original; translation; intro; notes; index; art; cover; typography; database/transcription",
+    "Gate": "Required",
+    "Step": "2",
+    "Why it matters": "Ancient scripture may contain a protected modern edition."
+  },
+  {
+    "Control": "Record all contributors",
+    "Evidence to capture": "Authors, translators, editors, illustrators, compilers, revisers, organizations",
+    "Gate": "Required",
+    "Step": "3",
+    "Why it matters": "Missing metadata triggers manual review."
+  },
+  {
+    "Control": "Establish territorial basis",
+    "Evidence to capture": "CC0/dedication, publication term, life-plus-N, permission, or conditional license",
+    "Gate": "Required",
+    "Step": "4",
+    "Why it matters": "Do not infer worldwide from a U.S. repository."
+  },
+  {
+    "Control": "Confirm commercial reuse",
+    "Evidence to capture": "Yes / no / conditional",
+    "Gate": "Required",
+    "Step": "5",
+    "Why it matters": "NC licenses conflict with a paid/ad-supported app."
+  },
+  {
+    "Control": "Confirm derivative rights",
+    "Evidence to capture": "Rewrite, summarize, simplify, translate, normalize, segment, annotate, speech",
+    "Gate": "Required",
+    "Step": "6",
+    "Why it matters": "ND/no-change conflicts with Landfall transformations."
+  },
+  {
+    "Control": "Capture attribution/notices",
+    "Evidence to capture": "Exact credit, source link, license, change notice",
+    "Gate": "As applicable",
+    "Step": "7",
+    "Why it matters": "Generate from structured data."
+  },
+  {
+    "Control": "Check trademarks/edition names",
+    "Evidence to capture": "Translation name, publisher marks, logos, pack name",
+    "Gate": "Required",
+    "Step": "8",
+    "Why it matters": "PD text can still carry trademark constraints."
+  },
+  {
+    "Control": "Check moral rights/integrity",
+    "Evidence to capture": "Attribution and integrity rules by territory",
+    "Gate": "Counsel review",
+    "Step": "9",
+    "Why it matters": "CC0 cannot eliminate every right everywhere."
+  },
+  {
+    "Control": "Check cultural protocols",
+    "Evidence to capture": "Community authority; sacred/secret; seasonal; gender; commercialization",
+    "Gate": "Traditional knowledge",
+    "Step": "10",
+    "Why it matters": "Use community approval, not copyright alone."
+  },
+  {
+    "Control": "Assess textual quality",
+    "Evidence to capture": "Accuracy, completeness, OCR, obsolete scholarship, sectarian/colonial framing",
+    "Gate": "Required",
+    "Step": "11",
+    "Why it matters": "Legally clean can still be unsuitable."
+  },
+  {
+    "Control": "Capture provenance",
+    "Evidence to capture": "Source URL, retrieval date, scan, transcription lineage, checksum",
+    "Gate": "Required",
+    "Step": "12",
+    "Why it matters": "Supports audit/replacement."
+  },
+  {
+    "Control": "Archive evidence",
+    "Evidence to capture": "License snapshot, ebook header, record, counsel note, permission email",
+    "Gate": "Required",
+    "Step": "13",
+    "Why it matters": "Links and terms change."
+  },
+  {
+    "Control": "Assign tier",
+    "Evidence to capture": "A / B / C / D / X",
+    "Gate": "Required",
+    "Step": "14",
+    "Why it matters": "Definitions on Start Here."
+  },
+  {
+    "Control": "Set territory controls",
+    "Evidence to capture": "Worldwide, allowlist, blocklist",
+    "Gate": "B/C/D",
+    "Step": "15",
+    "Why it matters": "Enforce in content delivery."
+  },
+  {
+    "Control": "Set capability controls",
+    "Evidence to capture": "Display, audio, search, quote, summarize, simplify, translate, train",
+    "Gate": "Required",
+    "Step": "16",
+    "Why it matters": "Enforce per edition."
+  },
+  {
+    "Control": "Set reviewers/dates",
+    "Evidence to capture": "Legal, tradition editor, cultural reviewer, next review",
+    "Gate": "Required",
+    "Step": "17",
+    "Why it matters": "Rights and quality approvals are separate."
+  },
+  {
+    "Control": "Approve release",
+    "Evidence to capture": "Legal; editorial; cultural where needed; QA",
+    "Gate": "Required",
+    "Step": "18",
+    "Why it matters": "No item ships without all applicable gates."
+  },
+  {
+    "Control": null,
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "RECOMMENDED RIGHTS-MANIFEST FIELDS",
+    "Why it matters": null
+  },
+  {
+    "Control": "Internal immutable ID",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "work_id",
+    "Why it matters": null
+  },
+  {
+    "Control": "Exact edition title",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "title",
+    "Why it matters": null
+  },
+  {
+    "Control": "Tradition, denomination/school, and role",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "tradition_and_school",
+    "Why it matters": null
+  },
+  {
+    "Control": "Original author/attributed source",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "original_author",
+    "Why it matters": null
+  },
+  {
+    "Control": "All edition contributors",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "translator_editor_illustrator",
+    "Why it matters": null
+  },
+  {
+    "Control": "Bibliographic identity",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "publisher_place_year_edition",
+    "Why it matters": null
+  },
+  {
+    "Control": "Provenance",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "source_url_and_retrieval_date",
+    "Why it matters": null
+  },
+  {
+    "Control": "Immutable evidence",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "source_file_sha256",
+    "Why it matters": null
+  },
+  {
+    "Control": "CC0, dedication, term analysis, permission, or conditional license",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "license_or_pd_basis",
+    "Why it matters": null
+  },
+  {
+    "Control": "Archived evidence",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "license_snapshot_uri",
+    "Why it matters": null
+  },
+  {
+    "Control": "Worldwide or allowlist",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "approved_territories",
+    "Why it matters": null
+  },
+  {
+    "Control": "Boolean/condition",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "commercial_allowed",
+    "Why it matters": null
+  },
+  {
+    "Control": "Boolean/condition",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "derivatives_allowed",
+    "Why it matters": null
+  },
+  {
+    "Control": "Display, audio, search, quote, summarize, simplify, translate, train",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "allowed_capabilities",
+    "Why it matters": null
+  },
+  {
+    "Control": "Generated notice",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "required_attribution_notice",
+    "Why it matters": null
+  },
+  {
+    "Control": "Edition/brand naming",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "trademark_constraints",
+    "Why it matters": null
+  },
+  {
+    "Control": "Community authority/restrictions",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "cultural_protocol_status",
+    "Why it matters": null
+  },
+  {
+    "Control": "Approval trail",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "legal_reviewer_and_date",
+    "Why it matters": null
+  },
+  {
+    "Control": "Accuracy/representation trail",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "tradition_editor_and_date",
+    "Why it matters": null
+  },
+  {
+    "Control": "Governance",
+    "Evidence to capture": null,
+    "Gate": null,
+    "Step": "next_review_date",
+    "Why it matters": null
+  }
+]

@@ -5817,5 +5817,309 @@
   "bytes": 985511,
   "sha256": "6c5af88fc15c585f8bc9b452deca0dee4652b0bfd4f9c16694b460cba997c2b2",
   "downloads": 4427
+ },
+ {
+  "slug": "numbered-discourses-suttacentral",
+  "title": "Numbered Discourses",
+  "author": "Sujato, Bhikkhu (translator)",
+  "category": "religion",
+  "blurb": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Taiwan.",
+  "bytes": 2737279,
+  "sha256": "9c01f788374da35db5724a4b084c2a30dd2e8cfedd0f770c6785ef0e98a8141c",
+  "collection": "open-religion"
+ },
+ {
+  "slug": "long-discourses-suttacentral",
+  "title": "Long Discourses",
+  "author": "Sujato, Bhikkhu (translator)",
+  "category": "religion",
+  "blurb": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Taiwan.",
+  "bytes": 1154924,
+  "sha256": "3f6bc81e32bf09b8fb66ff2de55bc391de0deba803bd3988cc72208afa6fecfe",
+  "collection": "open-religion"
+ },
+ {
+  "slug": "so-it-was-said-suttacentral",
+  "title": "So It Was Said",
+  "author": "Sujato, Bhikkhu (translator)",
+  "category": "religion",
+  "blurb": "This translation aims to make a clear, readable, and accurate rendering of the Itivuttaka, preserving consistency with Sujato’s renderings of the main nikāyas. ",
+  "bytes": 125520,
+  "sha256": "8b002f0443fc00b65f4af75e6488c305f6d10681cc7392b3b25575d03b813b15",
+  "collection": "open-religion"
+ },
+ {
+  "slug": "middle-discourses-suttacentral",
+  "title": "Middle Discourses",
+  "author": "Sujato, Bhikkhu (translator)",
+  "category": "religion",
+  "blurb": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Taiwan.",
+  "bytes": 1912484,
+  "sha256": "8b3cba3fc1193af9dd0ea2c43540ca86d03880f1877979a70524dd25e7764ada",
+  "collection": "open-religion"
+ },
+ {
+  "slug": "linked-discourses-suttacentral",
+  "title": "Linked Discourses",
+  "author": "Sujato, Bhikkhu (translator)",
+  "category": "religion",
+  "blurb": "This translation was part of a project to translate the four Pali Nikāyas with the following aims: plain, approachable English; consistent terminology; accurate rendition of the Pali; free of copyright. It was made during 2016–2018 while Bhikkhu Sujato was staying in Qimei, Taiwan.",
+  "bytes": 2324752,
+  "sha256": "494a6b9986ed65ce889a948c4ab77cf943bb6e289c2367960f2d15778af438d3",
+  "collection": "open-religion"
+ },
+ {
+  "slug": "anthology-of-discourses-suttacentral",
+  "title": "Anthology of Discourses",
+  "author": "Sujato, Bhikkhu (translator)",
+  "category": "religion",
+  "blurb": "This translation aims to retain the directness and urgency of the Suttanipāta. The Suttanipāta includes verses from the earliest and latest periods within the period encompassed by the early texts, and so it covers a challenging variety of styles and themes, by turns fierce, devotional, or incisive. In several portions, most notably the Aṭṭhakavagga, there are a range of highly specific usages that demand careful attention.",
+  "bytes": 232909,
+  "sha256": "867494feec7303cd2291ada38f177976957b2565875cc1eb75a5733c04c42c60",
+  "collection": "open-religion"
+ },
+ {
+  "slug": "verses-of-the-senior-monks-suttacentral",
+  "title": "Verses of the Senior Monks",
+  "author": "Sujato, Bhikkhu (translator)",
+  "category": "religion",
+  "blurb": "This translation aims to make a clear, readable, and accurate rendering of the Theragāthā. The initial edition was by Jessica Walton and Bhikkhu Sujato was published in 2014 through SuttaCentral. A revised edition, bringing the terminology in line with the subsequently-translated four Nikāyas, was published in 2019.",
+  "bytes": 202956,
+  "sha256": "26f4dc60de5b3f3be4d21cf5f11f6a1a4589fd831011453930ca6fda9dd750df",
+  "collection": "open-religion"
+ },
+ {
+  "slug": "verses-of-the-senior-nuns-suttacentral",
+  "title": "Verses of the Senior Nuns",
+  "author": "Sujato, Bhikkhu (translator)",
+  "category": "religion",
+  "blurb": "This translation aims to make a clear, readable, and accurate rendering of the Therīgāthā. The initial draft was by Jessica Walton, and it was revised and finished by Bhikkhu Sujato in 2019. The terminology has been brought in line with Bhikkhu Sujato’s translation of the four Nikāyas.",
+  "bytes": 80036,
+  "sha256": "706c026725cde91c6fe99ad159c290f31b18cac1c51e032394c36247cd9eaf69",
+  "collection": "open-religion"
+ },
+ {
+  "slug": "heartfelt-sayings-suttacentral",
+  "title": "Heartfelt Sayings",
+  "author": "Sujato, Bhikkhu (translator)",
+  "category": "religion",
+  "blurb": "The Udāna has a distinctive form, being comprised of Dhammapada-style verses together with contextual narratives in prose. It thus straddles the styles of the prose and verse Suttas. This translation aims to make a clear, readable, and accurate rendering.",
+  "bytes": 163418,
+  "sha256": "fc426f9e2de954c94881fe91eaa2bfc313685d769e6e86060fa551a5722b5b0e",
+  "collection": "open-religion"
+ },
+ {
+  "slug": "the-varieties-of-religious-experience",
+  "title": "The Varieties of Religious Experience",
+  "author": "William James",
+  "category": "philosophy",
+  "blurb": "\"The Varieties of Religious Experience: A Study in Human Nature\" by William James is a book published in 1902, based on lectures delivered at the University of Edinburgh. This pioneering work in psychology explores individual religious experiences and mysticism across different traditions, examining what James calls \"healthy-minded\" and \"sick soul\" religion. Drawing on extensive personal testimonies, James identifies common markers of mystical experience while arguing pragmatically for religion's value through its transformative effects on individuals, regardless of theological truth claims. (This is an automatically generated summary.)",
+  "bytes": 1091746,
+  "sha256": "51599465a92f47470c05ad7027ecb5e1c5ac4512fc7f8ece850afb7333059dd6",
+  "collection": "open-religion",
+  "gutenbergID": 621
+ },
+ {
+  "slug": "the-pilgrim-s-progress",
+  "title": "The Pilgrim's Progress",
+  "author": "John Bunyan",
+  "category": "religion",
+  "blurb": "\"The Pilgrim's Progress from this world to that which is to come\" by John Bunyan is a Christian allegory written in 1678. The story follows Christian, an everyman burdened by sin, as he abandons his home and family to journey from the City of Destruction to the Celestial City atop Mount Zion. Along the way, he encounters treacherous swamps, false guides, and spiritual tests. This dream narrative explores themes of faith, deliverance, and the perils facing those who seek salvation through the narrow path to Heaven. (This is an automatically generated summary.)",
+  "bytes": 303159,
+  "sha256": "3ff8c4d1b0e35b2cbb93aa476d326753f91c06bb7a5b87348d029a62cd1afcf4",
+  "collection": "open-religion",
+  "gutenbergID": 131
+ },
+ {
+  "slug": "paradise-lost",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "category": "poetry",
+  "blurb": "\"Paradise Lost\" by John Milton is an epic poem published in 1667. It retells the biblical story of humanity's fall: Satan's rebellion against God, his banishment to Hell, and his vengeful plot to corrupt God's newest creation—mankind. Through the temptation of Adam and Eve in the Garden of Eden, Milton explores themes of free will, obedience, and moral consequence. The poem features one of literature's most complex villains and ends with humanity's expulsion from Paradise, yet offers hope for redemption. (This is an automatically generated summary.)",
+  "bytes": 451775,
+  "sha256": "414f2ca8352245b86b5c30aa48ac5e6a82e186fd6a8dcec24b87d335dd36edf5",
+  "collection": "open-religion",
+  "gutenbergID": 26
+ },
+ {
+  "slug": "paradise-regained",
+  "title": "Paradise Regained",
+  "author": "John Milton",
+  "category": "poetry",
+  "blurb": "\"Paradise Regained\" by John Milton is an epic poem first published in 1671. This brief epic depicts Christ's forty days in the wilderness, where Satan attempts to break his resolve through increasingly sophisticated temptations. Unlike Milton's ornate \"Paradise Lost,\" this work employs a plainer style to chronicle Christ's spiritual battle. Through offers of food, wealth, power, and ancient wisdom, Satan tests the fasting Jesus, who responds with scripture and steadfast refusal. The poem explores themes of reversal and hunger—both literal and spiritual—as Christ resists temptation to regain what humanity lost in Eden. (This is an automatically generated summary.)",
+  "bytes": 87471,
+  "sha256": "0ca401d7543dfe09f65cb2bedf34627ab4e3d0d466cd3a63875c7667894b5d3b",
+  "collection": "open-religion",
+  "gutenbergID": 58
+ },
+ {
+  "slug": "the-imitation-of-christ",
+  "title": "The Imitation of Christ",
+  "author": "Thomas à Kempis; William Benham (translator)",
+  "category": "religion",
+  "blurb": "\"The Imitation of Christ\" by Thomas à Kempis is a Christian devotional book composed between 1418-1427. Divided into four books of spiritual instruction, this medieval text guides readers toward interior spiritual life and withdrawal from worldly concerns. Emphasizing devotion to the Eucharist and practices from the Devotio Moderna movement, it offers detailed counsels on living a contemplative Christian life. After the Bible, it became the most widely read devotional work in Christianity, with over 745 editions printed before 1650. (This is an automatically generated summary.)",
+  "bytes": 337613,
+  "sha256": "3992340af7b1fd04f60979703818082a91892eadb62da6706dd737548f80dbd9",
+  "collection": "open-religion",
+  "gutenbergID": 1653
+ },
+ {
+  "slug": "the-light-of-asia",
+  "title": "The Light of Asia",
+  "author": "Edwin Arnold",
+  "category": "poetry",
+  "blurb": "\"The Light of Asia\" by Sir Edwin Arnold is a narrative poem published in 1879. It tells the story of Prince Siddharta Gautama's transformation into the Buddha, the Awakened One. Through verse, Arnold presents the Buddha's life, character, and philosophy, tracing his journey from sheltered prince to enlightened teacher. Written when Buddhism was little known in the West, this free adaptation of ancient texts became one of the first works to successfully introduce Buddhist teachings to Western readers, inspiring figures like Mahatma Gandhi and spawning translations into over thirty languages. (This is an automatically generated summary.)",
+  "bytes": 194713,
+  "sha256": "f65710a5afe88bae63587b61a6deb31503fb7191e973426df0bb60e9de1fed8d",
+  "collection": "open-religion",
+  "gutenbergID": 8920
+ },
+ {
+  "slug": "buddhist-birth-stories-jataka-tales-volume-i",
+  "title": "Buddhist Birth Stories: Jataka Tales, Volume I",
+  "author": "T. W. Rhys Davids (translator); V. Fausbøll (editor)",
+  "category": "religion",
+  "blurb": "\"Buddhist Birth Stories; or, Jātaka Tales, Volume 1\" by V. Fausbøll et al. is a collection of ancient folk stories and moral tales written in the late 19th century. This work compiles the oldest known Jātakas, or birth stories, which recount the previous births of the Buddha and include moral lessons often illustrated through animals and humans alike. The tales serve both as a source of entertainment and a vehicle for imparting Buddhist values and teachings.  The opening of this volume presents a rich historical context regarding the Jātaka tales' origins and their significance within Buddhist tradition. It describes how these stories were believed to have been recited by the Buddha during his lifetime to explain principles to his disciples by referencing events from prior lives. Anchored in the Buddhist belief system, the tales emphasize moral teachings through narratives such as \"The Ass in the Lion's Skin\" and \"The Talkative Tortoise,\" both of which convey lessons about identity, deception, and the perils of excessive talk. The preface also highlights the broader cultural impact of these stories, noting their resemblances to Western fables and their enduring influence across various literatures. (This is an automatically generated summary.)",
+  "bytes": 748857,
+  "sha256": "318b9b1793e6c167a33c13b8114bb74cad62c98b8a0a0a2bb3df062365ca1612",
+  "collection": "open-religion",
+  "gutenbergID": 51880
+ },
+ {
+  "slug": "the-mesnevi",
+  "title": "The Mesnevi",
+  "author": "Rumi; James W. Redhouse (translator)",
+  "category": "poetry",
+  "blurb": "\"The Mesnevi\" by Maulana Jalal al-Din Rumi is a Persian poetic work written between 1258 and 1273. Comprising six books with approximately 25,000 verses, this spiritual masterpiece guides Sufis toward divine love through stories, parables, and Islamic wisdom. Drawing from the Quran, hadith, and everyday tales, each narrative illuminates mystical truths about the soul's journey. Regarded by many as the greatest mystical poem in world literature, it remains unfinished—Rumi died before completing the final book. (This is an automatically generated summary.)",
+  "bytes": 738095,
+  "sha256": "c88e5782b86c0547508a6e300d4680e78bdf4be0ef0d2265735c4782cf489598",
+  "collection": "open-religion",
+  "gutenbergID": 61724
+ },
+ {
+  "slug": "the-vedanta-sutras-with-ramanuja-s-commentary",
+  "title": "The Vedanta-Sutras with Ramanuja's Commentary",
+  "author": "Ramanuja; George Thibaut (translator)",
+  "category": "philosophy",
+  "blurb": "\"The Vedanta-Sutras with the Commentary by Ramanuja\" by G. Thibaut and Ramanuja is a philosophical commentary written between 1017–1137. Ramanuja interprets ancient Hindu texts to present his Vishishtadvaita philosophy, describing three categories of reality: God, soul, and matter. He refutes Shankara's Advaita Vedanta, particularly the theory of maya, while developing principles of devotion as paths to liberation. The work establishes fundamental relationships between body and soul through scriptural interpretation. (This is an automatically generated summary.)",
+  "bytes": 1640117,
+  "sha256": "6df46cd0e76edaa41a97d086e611c1943e8a4afaac6506a79d68e611a0591440",
+  "collection": "open-religion",
+  "gutenbergID": 7297
+ },
+ {
+  "slug": "the-vishnu-purana",
+  "title": "The Vishnu Purana",
+  "author": "Manmatha Nath Dutt; H. H. Wilson (translators)",
+  "category": "religion",
+  "blurb": "\"A Prose English Translation of Vishnupuranam\" by Manmatha Nath Dutt and H. H. Wilson is a religious text written in the late 19th century. This translation focuses on the Vishnu Purana, one of the eighteen Mahāpurāṇas in Hindu literature, and provides profound insights into the creation, nature, and duties of the universe, presenting a blend of mythology, philosophy, and cosmology. The content centers around the divine figure Vishnu, his various incarnations, and the ritualistic and philosophical aspects of existence.  At the start of the Vishnupuranam, the dialogue between Maitreya and the sage Parāçara unfolds. Maitreya, eager to gain knowledge, inquires into the origins of the universe and the principles governing existence, prompting Parāçara to recount the creation myth involving Vishnu as the ultimate source of all that is manifest. The narrative introduces the cyclical nature of time, with descriptions of the four ages (Yugas) and the process of creation, maintenance, and destruction that Vishnu oversees. Key themes such as the evolution of various beings, from deities to humans, and their respective duties within this grand tapestry of life establish a foundation for understanding the intricate relationship between the divine and the cosmos. (This is an automatically generated summary.)",
+  "bytes": 850712,
+  "sha256": "048ed7f3e89c34aca1af834b7d5226787526455277e4c2a3a333f9fd1645918d",
+  "collection": "open-religion",
+  "gutenbergID": 66208
+ },
+ {
+  "slug": "the-harivamsha",
+  "title": "The Harivamsha",
+  "author": "Manmatha Nath Dutt (translator)",
+  "category": "religion",
+  "blurb": "\"A Prose English Translation of Harivamsha\" by Manmatha Nath Dutt is a prose translation of a significant ancient Indian text, likely written in the late 19th century. This work serves as a sequel to the epic Mahabharata, offering a comprehensive account of the lineage of Krishna, including the clans of Vrishnis and Andhakas, as well as narratives on creation and the lives of various divine beings and humans. The book emphasizes themes of devotion, morality, and the complexities of divine and human interactions, making it a valuable resource for readers interested in Hindu mythology and spirituality.  The opening of the translation introduces the context and purpose of the Harivamsha, beginning with a conversation between Sounaka and Souti, where Sounaka requests a detailed account of the Vrishni and Andhaka families, which were not fully covered in the Mahabharata. As Souti prepares to recount their stories, the text outlines the creation process and the roles of divine entities like Brahma and Vishnu. The narrative elaborates on the history of significant figures such as Daksha and Prithu, detailing their contributions to the world and the establishment of order among various beings. This introductory section effectively sets the stage for the detailed genealogies and cosmic events that unfold in the subsequent chapters. (This is an automatically generated summary.)",
+  "bytes": 1782679,
+  "sha256": "c8d24234d614bf9cc9dc3951033513a7009585cddac8ee419e6d048b675cf73d",
+  "collection": "open-religion",
+  "gutenbergID": 61937
+ },
+ {
+  "slug": "on-the-indian-sect-of-the-jainas",
+  "title": "On the Indian Sect of the Jainas",
+  "author": "Georg Bühler; James Burgess (editor)",
+  "category": "religion",
+  "blurb": "\"On the Indian Sect of the Jainas\" by Georg Bühler is a scholarly work published in the early 20th century that explores the Jaina religion and its historical significance in India. The book delves into the doctrines, customs, and community structures of the Jaina sect, drawing parallels to Buddhism while also highlighting its distinct features and rich cultural heritage. Bühler's analysis aims to shed light on a religious society that, despite its importance, remains relatively less understood or accessible, particularly among educated Indians who may not be familiar with European languages.  The opening of the work serves as a preface outlining the author's intention and the translation's significance to both European scholars and educated Indians. It discusses the historical context of the Jaina sect, emphasizing its foundation during the same period as Buddhism and its divergence from Brahmanism. Bühler introduces key concepts such as the two major divisions within Jainism - the Digambara and Śvetāmbara sects, along with their respective practices and beliefs. The detailed exploration of Jaina mythology and the emphasis on the sect’s unique principles sets the stage for a deeper understanding of Jainism as a rich philosophical and ethical framework rooted in the quest for spiritual liberation. (This is an automatically generated summary.)",
+  "bytes": 119357,
+  "sha256": "695e3e4a2084bb462299743f921cb6c472f1fa0fcbb6f4039f5d57c3909c2809",
+  "collection": "open-religion",
+  "gutenbergID": 11897
+ },
+ {
+  "slug": "judaism",
+  "title": "Judaism",
+  "author": "Israel Abrahams",
+  "category": "religion",
+  "blurb": "\"Judaism\" by Israel Abrahams is a scholarly examination of the Jewish religion focusing on its doctrines and practices, likely written in the late 19th century. The book explores the evolution of Jewish religious thought and practices from the early Christian era through the significant historical shifts that shaped what is known as Judaism today. It provides insights into the complexities of belief systems, rituals, and the cultural context of the Jewish faith that has endured through centuries of change and challenges.  The opening of the book establishes Abrahams' intent to discuss the foundational concepts of Judaism, tracing its legacy from ancient origins to its contemporary expressions. The author argues that Judaism emerged as a distinct religious identity following the Babylonian Exile and has since intertwined with the broader historical narratives of the Jewish people. He highlights the significance of the Covenant with God, the transition from Temple worship to community-focused practices, and the permeation of legalistic structures within the faith. This introductory section sets the stage for a deeper exploration of various aspects of Judaism, including its laws, observances, and mysticism, as well as the relationship between belief and moral conduct. (This is an automatically generated summary.)",
+  "bytes": 128716,
+  "sha256": "ad6b18f0df2c1c7c798529106c373a62b54287fb6103a9def3d6e77e7964c65a",
+  "collection": "open-religion",
+  "gutenbergID": 6971
+ },
+ {
+  "slug": "studies-in-judaism-first-series",
+  "title": "Studies in Judaism, First Series",
+  "author": "Solomon Schechter",
+  "category": "religion",
+  "blurb": "\"Studies in Judaism, First Series\" by Solomon Schechter is a collection of essays written in the early 20th century. This scholarly work explores various aspects of Jewish tradition, thought, and history, aiming to introduce English readers to significant figures and movements in Judaism. The essays touch on topics such as Chassidism, notable Jewish scholars like Nachman Krochmal and Rabbi Elijah Wilna, as well as broader theological concepts and practices within the Jewish community.  The opening of the work sets the stage for an exploration of the Chassidim, a religious movement that emerged in Eastern Europe. Schechter details the origins of Chassidism, emphasizing its foundation by Israel Baalshem, known for his spiritual insights and teachings aimed at revitalizing Jewish life through emotional expressions of faith, in contrast to the then-dominant intellectualism of Rabbinic scholarship. He highlights Baalshem's background, his early experiences, and the formative influences that shaped his approach to Judaism, which sought to bring divine presence and fervor into the lives of ordinary Jews. The essays promise a deeper understanding of these dynamics and their historical contexts as the series unfolds. (This is an automatically generated summary.)",
+  "bytes": 648576,
+  "sha256": "21900b3bcc2c73b98caffcaade08186faa2caf897810b0f0f8da0e0abb9fa297",
+  "collection": "open-religion",
+  "gutenbergID": 48890
+ },
+ {
+  "slug": "the-kabbalah-its-doctrines-development-and-literature",
+  "title": "The Kabbalah: Its Doctrines, Development, and Literature",
+  "author": "Christian D. Ginsburg",
+  "category": "religion",
+  "blurb": "\"The Kabbalah: Its Doctrines, Development, and Literature\" by Christian D. Ginsburg is a scholarly exploration of the Kabbalistic tradition, written in the early 20th century. This work delves into the intricate beliefs and historical evolution of Kabbalah, a mystical and philosophical system within Jewish thought. Ginsburg aims to unveil the depth of Kabbalistic doctrines and their significant influence on both Jewish and Christian intellectual landscapes.  The opening of the book introduces readers to the foundational concepts of Kabbalah, emphasizing its historical significance and its origins in divine teachings passed down through figures like Adam, Abraham, and Moses. Ginsburg highlights the Kabbalah as a theosophy that encompasses profound doctrines regarding the nature of the Supreme Being, cosmogony, and the relationship between the Divine and humanity. He details the tradition's development through millennia, tracing its influence on notable philosophers and scholars, and sets the stage for a deeper analysis of its principles, particularly the concept of the Sephiroth, which represent the ten emanations of divine attributes. The rich narratives that Ginsburg begins with present Kabbalah not merely as an abstract philosophy, but as a living tradition steeped in history and spiritual aspiration. (This is an automatically generated summary.)",
+  "bytes": 331680,
+  "sha256": "63b620ad96e69b65163f699f374e7757bc303752a1793d37abd7fed284706868",
+  "collection": "open-religion",
+  "gutenbergID": 69243
+ },
+ {
+  "slug": "shinto-the-way-of-the-gods",
+  "title": "Shinto: The Way of the Gods",
+  "author": "W. G. Aston",
+  "category": "religion",
+  "blurb": "\"Shinto (the Way of the Gods)\" by W. G. Aston is a historical account written in the early 20th century. The book serves as an exploration of Shinto, the ancient religion of Japan, detailing its practices, beliefs, and development over time. It delves into aspects such as the pantheon of deities, the concept of kami, and the cultural and historical influences shaping Shinto literature.   At the start of the work, Aston lays the groundwork for exploring Shinto by addressing its foundational elements and historical context. He discusses its rudimentary aspects compared to other world religions, touching on its polytheism and lack of a supreme deity. The opening also highlights how Shinto evolved from a primitive cult into a more organized religion, emphasizing its strong ties to Japanese culture and civilization. Additionally, Aston introduces various sources for studying Shinto, including ancient texts like the \"Kojiki\" and \"Nihongi,\" which provide insight into its mythology and rituals. (This is an automatically generated summary.)",
+  "bytes": 705786,
+  "sha256": "9637cbbe7329bf4ac8cc0da6bd32e85e84ea58855827c959b6ff900e2d08a87f",
+  "collection": "open-religion",
+  "gutenbergID": 46038
+ },
+ {
+  "slug": "the-ninety-five-theses",
+  "title": "The Ninety-Five Theses",
+  "author": "Martin Luther",
+  "category": "religion",
+  "blurb": "\"Disputation of Doctor Martin Luther on the Power and Efficacy of Indulgences\" by Martin Luther is a list of propositions written in 1517. A professor of moral theology challenges the Catholic Church's practice of selling indulgences—certificates meant to reduce punishment for sins in purgatory. Luther questions whether the pope truly has authority over souls and argues that genuine repentance matters more than purchased pardons. These propositions, framed for academic debate, would ignite theological controversy and retrospectively mark the beginning of the Protestant Reformation. (This is an automatically generated summary.)",
+  "bytes": 28700,
+  "sha256": "281a877cbffe05dcb442c9708e64419db45911b197445a877c2f515419ddce01",
+  "collection": "open-religion",
+  "gutenbergID": 274
+ },
+ {
+  "slug": "on-christian-liberty",
+  "title": "On Christian Liberty",
+  "author": "Martin Luther",
+  "category": "religion",
+  "blurb": "\"Concerning Christian Liberty; with Letter of Martin Luther to Pope Leo X.\" by Martin Luther is a treatise written in 1520. As the third of Luther's major reforming works that year, it explores a revolutionary concept: Christians, as forgiven children of God, are no longer compelled to keep God's law for salvation, yet freely choose to serve God and their neighbors. Luther develops his doctrine of justification by faith, declaring that a Christian is simultaneously the \"most free lord of all\" and the \"most dutiful servant of all.\" (This is an automatically generated summary.)",
+  "bytes": 94999,
+  "sha256": "413d7d58c6c370195a284b1c16ff697f022c63115bd8e702a3d81c4b7c89566a",
+  "collection": "open-religion",
+  "gutenbergID": 1911
+ },
+ {
+  "slug": "theological-political-treatise",
+  "title": "Theological-Political Treatise",
+  "author": "Benedict de Spinoza; R. H. M. Elwes (translator)",
+  "category": "philosophy",
+  "blurb": "A reviewed public-domain candidate sourced from Project Gutenberg: Theological-Political Treatise.",
+  "bytes": 610990,
+  "sha256": "de2d36cb2f453f0c84cecd194c4dce60b171289dd35bd24529a1e123fb831d26",
+  "collection": "open-religion",
+  "gutenbergIDs": [
+   989,
+   990,
+   991,
+   992
+  ]
  }
 ]
