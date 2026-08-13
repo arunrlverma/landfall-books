@@ -1,7 +1,8 @@
 {
   "minBuild": 1,
-  "latestBuild": 35,
+  "latestBuild": 37,
   "appStoreURL": "https://apps.apple.com/us/app/landfall-books-podcasts/id6794945892",
   "experienceEnabled": true,
+  "catalogRevision": 3,
   "message": null
 }
