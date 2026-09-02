@@ -9420,5 +9420,137 @@
   "core": false,
   "translator": "D. P. Chase",
   "year": 1911
+ },
+ {
+  "slug": "revelations-of-divine-love",
+  "title": "Revelations of Divine Love",
+  "author": "Julian of Norwich",
+  "category": "sacred",
+  "blurb": "Revelations of Divine Love\" by Julian of Norwich is a medieval work of Christian mystical devotion written between the 14th and 15th centuries.",
+  "gutenbergID": 52958,
+  "bytes": 315686,
+  "sha256": "0ea40609a1d49f017978d841c3c530228bb95a2c73dac112ba21aeeb22394972",
+  "downloads": 4466,
+  "source": "gutenberg:52958",
+  "tradition": "christianity",
+  "editions": [
+   "christianity",
+   "catholic"
+  ],
+  "core": true,
+  "translator": "Grace Warrack (ed.)",
+  "year": 1901
+ },
+ {
+  "slug": "grace-abounding-to-the-chief-of-sinners",
+  "title": "Grace Abounding to the Chief of Sinners",
+  "author": "John Bunyan",
+  "category": "sacred",
+  "blurb": "Grace Abounding to the Chief of Sinners\" by John Bunyan is a theological autobiography written in the late 17th century.",
+  "gutenbergID": 654,
+  "bytes": 304546,
+  "sha256": "4398393c84863afddcd83a60f792fae49d50aa4861c50135bcfe5c9120b33a89",
+  "downloads": 1800,
+  "source": "gutenberg:654",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": true,
+  "year": 1666
+ },
+ {
+  "slug": "the-interior-castle-or-the-mansions",
+  "title": "The Interior Castle; or, The Mansions",
+  "author": "Teresa of Ávila",
+  "category": "sacred",
+  "blurb": "The Interior Castle; or, The Mansions, by Teresa of Ávila, translated by David Lewis (ed.",
+  "gutenbergID": null,
+  "bytes": 427855,
+  "sha256": "092986b04e144e4cc1713ea64d6c17b8c224528eb69adcc9c56305dc2044ae81",
+  "downloads": 0,
+  "source": "ccel:https://www.ccel.org/ccel/t/teresa/castle2/cache/castle2.txt",
+  "tradition": "catholic",
+  "editions": [
+   "catholic"
+  ],
+  "core": true,
+  "translator": "David Lewis (ed. Benedict Zimmerman)",
+  "year": 1912
+ },
+ {
+  "slug": "antiquities-of-the-jews",
+  "title": "Antiquities of the Jews",
+  "author": "Flavius Josephus",
+  "category": "sacred",
+  "blurb": "Antiquities of the Jews\" by Flavius Josephus is a 20-volume historiographical work written in 94 CE.",
+  "gutenbergID": 2848,
+  "bytes": 2948277,
+  "sha256": "b2339cba9b3064e0aecce912189225f1c1d22ba13ddc8ab798ebf3bfcc0c371f",
+  "downloads": 10531,
+  "source": "gutenberg:2848",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": true,
+  "translator": "William Whiston",
+  "year": 1737
+ },
+ {
+  "slug": "reflections-or-sentences-and-moral-maxims",
+  "title": "Reflections; or Sentences and Moral Maxims",
+  "author": "François de La Rochefoucauld",
+  "category": "philosophy",
+  "blurb": "Reflections; or Sentences and Moral Maxims\" by François duc de La Rochefoucauld is a collection of aphorisms and moral observations composed during the 17th…",
+  "gutenbergID": 9105,
+  "bytes": 199186,
+  "sha256": "1bab9e56aa0ee4eab0016ece6b6600efb8e2427d1f8873ba51783c1f5408ba86",
+  "downloads": 4702,
+  "source": "gutenberg:9105",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "J. W. Willis Bund & J. Hain Friswell",
+  "year": 1871
+ },
+ {
+  "slug": "bulfinch-s-mythology",
+  "title": "Bulfinch's Mythology",
+  "author": "Thomas Bulfinch",
+  "category": "classic",
+  "blurb": "Bulfinch's Mythology\" by Thomas Bulfinch is a collection published in 1867 that retells myths and legends for general readers.",
+  "gutenbergID": 4928,
+  "bytes": 1837339,
+  "sha256": "aae3b0693c7093af7a14d25b597739db77f6ea3db85d1bc143f184c3ff4f12d1",
+  "downloads": 2230,
+  "source": "gutenberg:4928",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": true,
+  "year": 1855
+ },
+ {
+  "slug": "the-dialogue-of-the-seraphic-virgin-catherine-of-siena",
+  "title": "The Dialogue of the Seraphic Virgin Catherine of Siena",
+  "author": "Catherine of Siena",
+  "category": "sacred",
+  "blurb": "The Dialogue of the Seraphic Virgin Catherine of Siena, by Catherine of Siena, translated by Algar Thorold (1907).",
+  "gutenbergID": null,
+  "bytes": 494028,
+  "sha256": "0798c3741f95076679cc53013b1aef2b1041b1e5326e844af43a2914f473b44f",
+  "downloads": 0,
+  "source": "ccel:https://www.ccel.org/ccel/c/catherine/dialog/cache/dialog.txt",
+  "tradition": "catholic",
+  "editions": [
+   "catholic"
+  ],
+  "core": false,
+  "translator": "Algar Thorold",
+  "year": 1907
  }
 ]
