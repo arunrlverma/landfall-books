@@ -156,9 +156,9 @@
  {
   "slug": "the-romance-of-tristan-and-iseult",
   "title": "The Romance of Tristan and Iseult",
-  "author": "B\u00e9dier, Joseph",
+  "author": "Bédier, Joseph",
   "category": "history",
-  "blurb": "The Romance of Tristan and Iseult\" by Joseph B\u00e9dier is a classic medieval tale retold in prose, likely written in the early 20th century.",
+  "blurb": "The Romance of Tristan and Iseult\" by Joseph Bédier is a classic medieval tale retold in prose, likely written in the early 20th century.",
   "gutenbergID": 14244,
   "bytes": 134730,
   "sha256": "7ec6055e87b798ba93f8bfca6cbd0f675f6ae10ccd6e2c9aeb4f97e52828db0c",
@@ -188,10 +188,10 @@
  },
  {
   "slug": "the-red-lily-complete",
-  "title": "The Red Lily \u2014 Complete",
+  "title": "The Red Lily — Complete",
   "author": "France, Anatole",
   "category": "fiction",
-  "blurb": "The Red Lily \u2014 Complete\" by Anatole France is a novel published in 1894.",
+  "blurb": "The Red Lily — Complete\" by Anatole France is a novel published in 1894.",
   "gutenbergID": 3922,
   "bytes": 412973,
   "sha256": "3f16d56d4015f9b8b10567cfe5871d4f2f898df0aae4fa257cf0c775b3c221e9",
@@ -202,7 +202,7 @@
   "title": "The Landloper: The Romance of a Man on Foot",
   "author": "Day, Holman",
   "category": "fiction",
-  "blurb": "\u201cThe Landloper: The Romance of a Man on Foot\u201d by Holman Day is a novel written in the early 20th century.",
+  "blurb": "“The Landloper: The Romance of a Man on Foot” by Holman Day is a novel written in the early 20th century.",
   "gutenbergID": 4712,
   "bytes": 566700,
   "sha256": "f6e42de40e46ddfe4a04ab4bb8b861391cd0c5862cb88f1236092697d45f9a30",
@@ -210,10 +210,10 @@
  },
  {
   "slug": "the-works-of-edgar-allan-poe-volume-1",
-  "title": "The Works of Edgar Allan Poe \u2014 Volume 1",
+  "title": "The Works of Edgar Allan Poe — Volume 1",
   "author": "Poe, Edgar Allan",
   "category": "poetry",
-  "blurb": "The Works of Edgar Allan Poe \u2014 Volume 1\" by Edgar Allan Poe is a collection of various literary works, likely written in the mid-19th century.",
+  "blurb": "The Works of Edgar Allan Poe — Volume 1\" by Edgar Allan Poe is a collection of various literary works, likely written in the mid-19th century.",
   "gutenbergID": 2147,
   "bytes": 510209,
   "sha256": "49267169eea71242c683e6a3518ecf26574587af1633bce49a307433c2a886e1",
@@ -244,7 +244,7 @@
  {
   "slug": "undine",
   "title": "Undine",
-  "author": "La Motte-Fouqu\u00e9, Friedrich Heinrich Karl, Freiherr de",
+  "author": "La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de",
   "category": "fiction",
   "blurb": "Undine\" by Friedrich de la Motte Fouque is a romantic fairy tale novel written in the early 19th century.",
   "gutenbergID": 2825,
@@ -397,10 +397,10 @@
  },
  {
   "slug": "life-and-letters-of-charles-darwin-volume-1",
-  "title": "Life and Letters of Charles Darwin \u2014 Volume 1",
+  "title": "Life and Letters of Charles Darwin — Volume 1",
   "author": "Darwin, Charles",
   "category": "history",
-  "blurb": "Life and Letters of Charles Darwin \u2014 Volume 1\" by Charles Darwin is a biographical work published in 1887.",
+  "blurb": "Life and Letters of Charles Darwin — Volume 1\" by Charles Darwin is a biographical work published in 1887.",
   "gutenbergID": 2087,
   "bytes": 1075794,
   "sha256": "fb0d4ded4fa7d2f588535f101590510e4444a68516ba02ea2de37191e5cd8771",
@@ -441,10 +441,10 @@
  },
  {
   "slug": "more-letters-of-charles-darwin-volume-1-a-record-of-his-work",
-  "title": "More Letters of Charles Darwin \u2014 Volume 1: A Record of His Work in a Series of Hitherto Unpublished Letters",
+  "title": "More Letters of Charles Darwin — Volume 1: A Record of His Work in a Series of Hitherto Unpublished Letters",
   "author": "Darwin, Charles",
   "category": "history",
-  "blurb": "More Letters of Charles Darwin \u2014 Volume 1\" by Charles Darwin is a collection of correspondence published in 1903.",
+  "blurb": "More Letters of Charles Darwin — Volume 1\" by Charles Darwin is a collection of correspondence published in 1903.",
   "gutenbergID": 2739,
   "bytes": 1105129,
   "sha256": "17dd5734d2ad2ab2061a542d9b4b604e56106ad869ad6770cda7110373330bc4",
@@ -466,7 +466,7 @@
   "title": "The Secret Agent: A Simple Tale",
   "author": "Conrad, Joseph",
   "category": "fiction",
-  "blurb": "The Secret Agent: A Simple Tale\" by Joseph Conrad is a novel first published in installments in 1905\u20131906 and in book form in 1907.",
+  "blurb": "The Secret Agent: A Simple Tale\" by Joseph Conrad is a novel first published in installments in 1905–1906 and in book form in 1907.",
   "gutenbergID": 974,
   "bytes": 523979,
   "sha256": "4d0836812f81ed7a543d46fdde897445c253751441d35730a377b29c5c870d63",
@@ -565,7 +565,7 @@
   "title": "Love-at-arms: being a narrative excerpted from the chronicles of Urbino, during the dominion of the high and mighty Messer Guidobaldo da Montefeltro",
   "author": "Sabatini, Rafael",
   "category": "history",
-  "blurb": "Love-at-arms: Being a narrative excerpted from the chronicles of Urbino\" by Raphael Sabatini is a historical novel set during the late 15th to early 16th\u2026",
+  "blurb": "Love-at-arms: Being a narrative excerpted from the chronicles of Urbino\" by Raphael Sabatini is a historical novel set during the late 15th to early 16th…",
   "gutenbergID": 3530,
   "bytes": 477680,
   "sha256": "5979283db3e9263d30038a2b14b9adaaa4241d9a5c4b33942456dad87fba0784",
@@ -727,10 +727,10 @@
  },
  {
   "slug": "the-amazing-marriage-complete",
-  "title": "The Amazing Marriage \u2014 Complete",
+  "title": "The Amazing Marriage — Complete",
   "author": "Meredith, George",
   "category": "fiction",
-  "blurb": "The Amazing Marriage \u2014 Complete\" by George Meredith is a novel written in the late 19th century.",
+  "blurb": "The Amazing Marriage — Complete\" by George Meredith is a novel written in the late 19th century.",
   "gutenbergID": 4488,
   "bytes": 868244,
   "sha256": "30c6eef1aee277b3973dabcda58247bad2f56b8578d4cfd0a8c3d5746c4ac31f",
@@ -1112,10 +1112,10 @@
  },
  {
   "slug": "the-notebooks-of-leonardo-da-vinci-complete",
-  "title": "The Notebooks of Leonardo Da Vinci \u2014 Complete",
+  "title": "The Notebooks of Leonardo Da Vinci — Complete",
   "author": "Leonardo, da Vinci",
   "category": "history",
-  "blurb": "The Notebooks of Leonardo Da Vinci \u2014 Complete\" by Leonardo da Vinci is a comprehensive collection of writings and sketches that delve into various aspects of\u2026",
+  "blurb": "The Notebooks of Leonardo Da Vinci — Complete\" by Leonardo da Vinci is a comprehensive collection of writings and sketches that delve into various aspects of…",
   "gutenbergID": 5000,
   "bytes": 1361984,
   "sha256": "401899a2886c673609f987290acae6eb5a59e5f52e446a9be7561dfaa8284842",
@@ -1563,10 +1563,10 @@
  },
  {
   "slug": "essays-of-michel-de-montaigne-complete",
-  "title": "Essays of Michel de Montaigne \u2014 Complete",
+  "title": "Essays of Michel de Montaigne — Complete",
   "author": "Montaigne, Michel de",
   "category": "essays",
-  "blurb": "Essays of Michel de Montaigne \u2014 Complete\" by Michel de Montaigne is a collection of essays written between approximately 1570 and 1592.",
+  "blurb": "Essays of Michel de Montaigne — Complete\" by Michel de Montaigne is a collection of essays written between approximately 1570 and 1592.",
   "gutenbergID": 3600,
   "bytes": 2881068,
   "sha256": "763a29b3a6f3681805f64a1ee85f3f169a7879ed55523740d3c4127263d9cf8a",
@@ -1665,7 +1665,7 @@
   "title": "The Swiss family Robinson",
   "author": "Wyss, Johann David",
   "category": "fiction",
-  "blurb": "The Swiss Family Robinson (German: Der Schweizerische Robinson, \"The Swiss Robinson\") is a novel by the Swiss author Johann David Wyss, first published in\u2026",
+  "blurb": "The Swiss Family Robinson (German: Der Schweizerische Robinson, \"The Swiss Robinson\") is a novel by the Swiss author Johann David Wyss, first published in…",
   "gutenbergID": 78017,
   "bytes": 680177,
   "sha256": "271b675832333ae24afb727f8b7846fa623c656e834e29e1ad225753a4d35989",
@@ -1698,7 +1698,7 @@
   "title": "The sociable ghost: Being the adventures of a reporter who was invited by the sociable ghost to a grand banquet, ball, and convention under the ground of old Trinity churchyard. A true tale of the things he saw and did not see while he was not there.",
   "author": "Harper, Olive",
   "category": "fiction",
-  "blurb": "The sociable ghost : Being the adventures of a reporter who was invited by the\u2026.",
+  "blurb": "The sociable ghost : Being the adventures of a reporter who was invited by the….",
   "gutenbergID": 76737,
   "bytes": 275152,
   "sha256": "615f73dd96aff4e6dfef62d05a090f57ece54bae54df43ffb31bb1eb6b2dab6b",
@@ -1805,10 +1805,10 @@
  },
  {
   "slug": "prraphaelite-diaries-and-letters",
-  "title": "Pr\u00e6raphaelite diaries and letters",
+  "title": "Præraphaelite diaries and letters",
   "author": "Rossetti, Dante Gabriel; Rossetti, Gabriele; Brown, Ford Madox",
   "category": "classic",
-  "blurb": "Pr\u00e6raphaelite diaries and letters\" by Brown, Rossetti, and Rossetti is a collection of diaries and correspondence written in the late 19th century.",
+  "blurb": "Præraphaelite diaries and letters\" by Brown, Rossetti, and Rossetti is a collection of diaries and correspondence written in the late 19th century.",
   "gutenbergID": 78022,
   "bytes": 391435,
   "sha256": "57ddf04404ea052e746fcc6cb6e3ead0cb1161d71b702e98fb8a6a85848b1926",
@@ -1907,7 +1907,7 @@
   "title": "The corsair; or, the little fairy at the bottom of the sea : $b A new Christmas burlesque and pantomime, founded upon the ballet of \"Le corsair\"",
   "author": "Brough, William",
   "category": "drama",
-  "blurb": "The corsair; or, the little fairy at the bottom of the sea : A new Christmas\u2026\" by William Brough is a comic burlesque pantomime from the mid-19th-century\u2026",
+  "blurb": "The corsair; or, the little fairy at the bottom of the sea : A new Christmas…\" by William Brough is a comic burlesque pantomime from the mid-19th-century…",
   "gutenbergID": 76960,
   "bytes": 54042,
   "sha256": "1ed6dca332976a76babaa4fa3e7a8edfb6b2ca31b4fdc47207087c9edebba3b7",
@@ -2091,10 +2091,10 @@
  },
  {
   "slug": "arsene-lupin-intervenes",
-  "title": "Ars\u00e8ne Lupin intervenes",
+  "title": "Arsène Lupin intervenes",
   "author": "Leblanc, Maurice",
   "category": "fiction",
-  "blurb": "Ars\u00e8ne Lupin Intervenes\" by Maurice Leblanc is a novel\u2014more specifically, a work of detective fiction\u2014written in the early 20th century.",
+  "blurb": "Arsène Lupin Intervenes\" by Maurice Leblanc is a novel—more specifically, a work of detective fiction—written in the early 20th century.",
   "gutenbergID": 75896,
   "bytes": 355411,
   "sha256": "758adb8ff9d7def6914597e68d651f4e9c62c5072a6fcaba31018cd2f91de0bc",
@@ -2477,9 +2477,9 @@
  {
   "slug": "the-reign-of-greed",
   "title": "The Reign of Greed",
-  "author": "Rizal, Jos\u00e9",
+  "author": "Rizal, José",
   "category": "history",
-  "blurb": "The Reign of Greed\" by Jos\u00e9 Rizal is a novel written in 1891.",
+  "blurb": "The Reign of Greed\" by José Rizal is a novel written in 1891.",
   "gutenbergID": 10676,
   "bytes": 674587,
   "sha256": "6da0c20dd6c7b9c15e30642ec7a85998f9b50dc1902b387cb388b0a183316f52",
@@ -2707,10 +2707,10 @@
  },
  {
   "slug": "the-wandering-jew-complete",
-  "title": "The Wandering Jew \u2014 Complete",
-  "author": "Sue, Eug\u00e8ne",
+  "title": "The Wandering Jew — Complete",
+  "author": "Sue, Eugène",
   "category": "history",
-  "blurb": "The Wandering Jew \u2014 Complete\" by Eug\u00e8ne Sue is a novel published in 1844.",
+  "blurb": "The Wandering Jew — Complete\" by Eugène Sue is a novel published in 1844.",
   "gutenbergID": 3350,
   "bytes": 2991175,
   "sha256": "af43acff6710b6645c18d177d000323d6e97be5acefb9c7a680f53f7abd5a2da",
@@ -2762,10 +2762,10 @@
  },
  {
   "slug": "archological-essays-vol-1",
-  "title": "Arch\u00e6ological Essays, Vol. 1",
+  "title": "Archæological Essays, Vol. 1",
   "author": "Simpson, James Young",
   "category": "history",
-  "blurb": "Arch\u00e6ological Essays, Vol.",
+  "blurb": "Archæological Essays, Vol.",
   "gutenbergID": 27354,
   "bytes": 522161,
   "sha256": "dfbeb5a4179e0fcf713e3df42f27bf1f90fbff56f53b58e242a9d31af74ceb0e",
@@ -2974,7 +2974,7 @@
   "title": "Nights With Uncle Remus: Myths and Legends of the Old Plantation",
   "author": "Harris, Joel Chandler",
   "category": "fiction",
-  "blurb": "Nights With Uncle Remus: Myths and Legends of the Old Plantation\" by Joel Chandler Harris is a collection of folk tales and legends written in the late 19th\u2026",
+  "blurb": "Nights With Uncle Remus: Myths and Legends of the Old Plantation\" by Joel Chandler Harris is a collection of folk tales and legends written in the late 19th…",
   "gutenbergID": 26429,
   "bytes": 613646,
   "sha256": "d6db5e402d7a243282b90ed9ab163bd884c9725c03f822b529128550fd61b4a9",
@@ -3161,7 +3161,7 @@
   "title": "The Causes of the Corruption of the Traditional Text of the Holy Gospels: Being the Sequel to The Traditional Text of the Holy Gospels",
   "author": "Burgon, John William",
   "category": "sacred",
-  "blurb": "The Causes of the Corruption of the Traditional Text of the Holy Gospels\" by John William Burgon is a scholarly examination of textual corruption in the\u2026",
+  "blurb": "The Causes of the Corruption of the Traditional Text of the Holy Gospels\" by John William Burgon is a scholarly examination of textual corruption in the…",
   "gutenbergID": 21112,
   "bytes": 576174,
   "sha256": "fbda4756688970ef2421440e9171ae6d0de8456dc1f2b9a5c65c278848a4de6e",
@@ -3588,9 +3588,9 @@
  {
   "slug": "the-forbidden-trail",
   "title": "The Forbidden Trail",
-  "author": "Morrow, Honor\u00e9",
+  "author": "Morrow, Honoré",
   "category": "fiction",
-  "blurb": "The Forbidden Trail\" by Honor\u00e9 Willsie is a novel written in the early 20th century.",
+  "blurb": "The Forbidden Trail\" by Honoré Willsie is a novel written in the early 20th century.",
   "gutenbergID": 22284,
   "bytes": 544734,
   "sha256": "d066fc72e2222991d4ad71dc56ecac3a8b18b2167564bfbdc99d43f94369a83e",
@@ -3720,9 +3720,9 @@
  {
   "slug": "a-hungarian-nabob",
   "title": "A Hungarian Nabob",
-  "author": "J\u00f3kai, M\u00f3r",
+  "author": "Jókai, Mór",
   "category": "fiction",
-  "blurb": "A Hungarian Nabob\" by M\u00f3r J\u00f3kai is a novel written in the late 19th century.",
+  "blurb": "A Hungarian Nabob\" by Mór Jókai is a novel written in the late 19th century.",
   "gutenbergID": 20978,
   "bytes": 579132,
   "sha256": "496b2a2e666e525c101fb110dc34cfaf198523d3c1efce14633e42e9626c1be2",
@@ -3909,7 +3909,7 @@
   "title": "Andersonville: A Story of Rebel Military Prisons",
   "author": "McElroy, John",
   "category": "history",
-  "blurb": "Andersonville: A Story of Rebel Military Prisons\" by John McElroy is a historical account written in the late 19th century that recounts the experiences of a\u2026",
+  "blurb": "Andersonville: A Story of Rebel Military Prisons\" by John McElroy is a historical account written in the late 19th century that recounts the experiences of a…",
   "gutenbergID": 3072,
   "bytes": 1078321,
   "sha256": "7331a49df0898d599702ea97158942070735c3d4065671c2c9cfca240437a001",
@@ -3953,7 +3953,7 @@
   "title": "A Voice in the Wilderness",
   "author": "Hill, Grace Livingston",
   "category": "sacred",
-  "blurb": "A Voice in the Wilderness\" by Grace Livingston Hill is a novel written in the early 20th century.\" The story follows a young woman named Margaret Earle as she\u2026",
+  "blurb": "A Voice in the Wilderness\" by Grace Livingston Hill is a novel written in the early 20th century.\" The story follows a young woman named Margaret Earle as she…",
   "gutenbergID": 21219,
   "bytes": 552252,
   "sha256": "defc95dcc8c2e1f8a2cea1ce141ca67c23ac6decb48124af4195285e6c058f97",
@@ -4250,7 +4250,7 @@
   "title": "Labrador Days: Tales of the Sea Toilers",
   "author": "Grenfell, Wilfred Thomason, Sir",
   "category": "fiction",
-  "blurb": "Labrador Days\" by Sir Wilfred Thomason Grenfell is a collection of tales focused on the fishermen and communities of Labrador, written in the early 20th\u2026",
+  "blurb": "Labrador Days\" by Sir Wilfred Thomason Grenfell is a collection of tales focused on the fishermen and communities of Labrador, written in the early 20th…",
   "gutenbergID": 24832,
   "bytes": 232084,
   "sha256": "2ad861903412cf1ba6ddfaa885996be9d6060c6a1b0a77b750d7d25a6dd13778",
@@ -4269,7 +4269,7 @@
  },
  {
   "slug": "indian-poetry-containing-the-indian-song-of-songs-from-the-s",
-  "title": "Indian Poetry: Containing \"The Indian Song of Songs,\" from the Sanskrit of the G\u00eeta Govinda of Jayadeva, Two books from \"The Iliad Of India\" (Mah\u00e1bh\u00e1rata), \"Proverbial Wisdom\" from the Shlokas of the Hitopadesa, and other Oriental Poems.",
+  "title": "Indian Poetry: Containing \"The Indian Song of Songs,\" from the Sanskrit of the Gîta Govinda of Jayadeva, Two books from \"The Iliad Of India\" (Mahábhárata), \"Proverbial Wisdom\" from the Shlokas of the Hitopadesa, and other Oriental Poems.",
   "author": "Arnold, Edwin, Sir",
   "category": "poetry",
   "blurb": "Indian Poetry\" by Sir Edwin Arnold is a collection of translations and adaptations of classic Indian works, likely written in the late 19th century.",
@@ -4404,7 +4404,7 @@
   "title": "Shakespeare, Ben Jonson, Beaumont and Fletcher",
   "author": "Coleridge, Samuel Taylor",
   "category": "drama",
-  "blurb": "Shakespeare, Ben Jonson, Beaumont and Fletcher\" by Samuel Taylor Coleridge is a critical examination of the works of these renowned playwrights, written in the\u2026",
+  "blurb": "Shakespeare, Ben Jonson, Beaumont and Fletcher\" by Samuel Taylor Coleridge is a critical examination of the works of these renowned playwrights, written in the…",
   "gutenbergID": 25585,
   "bytes": 414258,
   "sha256": "c779e9ddebc296c50ec9d94d4186926e78e74c6bd041114f9e5e6e5f9ec28b85",
@@ -4643,10 +4643,10 @@
  },
  {
   "slug": "la-chanson-de-roland-translated-from-the-seventh-edition-of-",
-  "title": "La Chanson de Roland : Translated from the Seventh Edition of L\u00e9on Gautier",
+  "title": "La Chanson de Roland : Translated from the Seventh Edition of Léon Gautier",
   "author": "",
   "category": "poetry",
-  "blurb": "La Chanson de Roland: Translated from the Seventh Edition of L\u00e9on Gautier\" is an epic poem written in the early medieval period, likely composed before the\u2026",
+  "blurb": "La Chanson de Roland: Translated from the Seventh Edition of Léon Gautier\" is an epic poem written in the early medieval period, likely composed before the…",
   "gutenbergID": 23819,
   "bytes": 181606,
   "sha256": "074a8c4bf88d3409c06dfbe19de845ac6e6c7fae0ffe471d04e122b021768539",
@@ -5020,7 +5020,7 @@
   "title": "The Trail of the Goldseekers: A Record of Travel in Prose and Verse",
   "author": "Garland, Hamlin",
   "category": "poetry",
-  "blurb": "The Trail of the Goldseekers: A Record of Travel in Prose and Verse\" by Hamlin Garland is a combination of a travel narrative and poetry written in the late\u2026",
+  "blurb": "The Trail of the Goldseekers: A Record of Travel in Prose and Verse\" by Hamlin Garland is a combination of a travel narrative and poetry written in the late…",
   "gutenbergID": 28551,
   "bytes": 303607,
   "sha256": "4b03adbe91f563676f655e74816f6ca7261095bf6c200b8c80ccdda5fc13c462",
@@ -5328,7 +5328,7 @@
   "title": "Our Mutual Friend",
   "author": "Dickens, Charles",
   "category": "fiction",
-  "blurb": "Our Mutual Friend\" by Charles Dickens is a novel published in 1864\u20131865.",
+  "blurb": "Our Mutual Friend\" by Charles Dickens is a novel published in 1864–1865.",
   "gutenbergID": 883,
   "bytes": 1853812,
   "sha256": "6766de8efa295208697775b6f717dbeafd1fd9f6d1f7acb2044f0bbeaf4bf33a",
@@ -5370,9 +5370,9 @@
  {
   "slug": "an-eagle-flight-a-filipino-novel-adapted-from-noli-me-tanger",
   "title": "An Eagle Flight: A Filipino Novel Adapted from Noli Me Tangere",
-  "author": "Rizal, Jos\u00e9",
+  "author": "Rizal, José",
   "category": "history",
-  "blurb": "An Eagle Flight: A Filipino Novel Adapted from Noli Me Tangere\" by Jos\u00e9 Rizal is a historical novel written in the late 19th century.",
+  "blurb": "An Eagle Flight: A Filipino Novel Adapted from Noli Me Tangere\" by José Rizal is a historical novel written in the late 19th century.",
   "gutenbergID": 27594,
   "bytes": 388447,
   "sha256": "3a7290c41ac75383a5bf815eedf08cde2cfd2ba5bebca90cd1b52e2c9272f3ba",
@@ -5504,7 +5504,7 @@
   "title": "The Form of Perfect Living and Other Prose Treatises",
   "author": "Rolle, Richard, of Hampole",
   "category": "sacred",
-  "blurb": "The Form of Perfect Living and Other Prose Treatises\" by Richard Rolle of Hampole is a collection of spiritual and religious writings composed in the 14th\u2026",
+  "blurb": "The Form of Perfect Living and Other Prose Treatises\" by Richard Rolle of Hampole is a collection of spiritual and religious writings composed in the 14th…",
   "gutenbergID": 25856,
   "bytes": 171233,
   "sha256": "b3006ed48feee33e483f5c17aa397b313ebce2cf7512631790386d2c82cfabac",
@@ -5546,9 +5546,9 @@
  {
   "slug": "the-philippines-a-century-hence",
   "title": "The Philippines a Century Hence",
-  "author": "Rizal, Jos\u00e9",
+  "author": "Rizal, José",
   "category": "history",
-  "blurb": "The Philippines a Century Hence\" by Jos\u00e9 Rizal is a political and social commentary written in the late 19th century.",
+  "blurb": "The Philippines a Century Hence\" by José Rizal is a political and social commentary written in the late 19th century.",
   "gutenbergID": 35899,
   "bytes": 93219,
   "sha256": "d7cdf04f95808a5ec968fdfe915cf0254deead60eb184f2baf6bcaa2550c4f08",
@@ -5768,7 +5768,7 @@
   "title": "Outdoor Sketching: Four Talks Given before the Art Institute of Chicago; The Scammon Lectures, 1914",
   "author": "Smith, Francis Hopkinson",
   "category": "classic",
-  "blurb": "Outdoor Sketching\" by Francis Hopkinson Smith is a collection of lectures on painting techniques delivered at the Art Institute of Chicago in the early 20th\u2026",
+  "blurb": "Outdoor Sketching\" by Francis Hopkinson Smith is a collection of lectures on painting techniques delivered at the Art Institute of Chicago in the early 20th…",
   "gutenbergID": 27340,
   "bytes": 123360,
   "sha256": "ff84f67f553615ed0b40b0bf7363baccac18292e9d889bc38df8d5e7ce0776bd",
@@ -5801,7 +5801,7 @@
   "title": "The Boy Scout Treasure Hunters; Or, The Lost Treasure of Buffalo Hollow",
   "author": "Lerrigo, Charles Henry",
   "category": "fiction",
-  "blurb": "The Boy Scout Treasure Hunters; Or, The Lost Treasure of Buffalo Hollow\" by Charles Henry Lerrigo is a fictional adventure novel written in the early 20th\u2026",
+  "blurb": "The Boy Scout Treasure Hunters; Or, The Lost Treasure of Buffalo Hollow\" by Charles Henry Lerrigo is a fictional adventure novel written in the early 20th…",
   "gutenbergID": 22644,
   "bytes": 260798,
   "sha256": "6ab13387dd001201eac582385a1778ebd442106d0c323af72ebaff1b45153e3a",
@@ -7217,5 +7217,2208 @@
   "source": "PoetryDB public-domain corpus",
   "sourceTitle": "On Time",
   "editorialRank": 100
+ },
+ {
+  "slug": "the-imitation-of-christ",
+  "title": "The Imitation of Christ",
+  "author": "Thomas à Kempis",
+  "category": "sacred",
+  "blurb": "The Imitation of Christ\" by Thomas à Kempis is a Christian devotional book composed between 1418-1427.",
+  "gutenbergID": 1653,
+  "bytes": 337584,
+  "sha256": "c22d7ee1e44ed35a011dc7ef3338bae509ccb7754aea6537b992cfc84b50a041",
+  "downloads": 4549,
+  "source": "gutenberg:1653",
+  "tradition": "christianity",
+  "editions": [
+   "christianity",
+   "catholic"
+  ],
+  "core": true,
+  "translator": "William Benham",
+  "year": 1874
+ },
+ {
+  "slug": "orthodoxy",
+  "title": "Orthodoxy",
+  "author": "G. K. Chesterton",
+  "category": "sacred",
+  "blurb": "Orthodoxy\" by G.",
+  "gutenbergID": 130,
+  "bytes": 352961,
+  "sha256": "7d5fd7ad677b0d1741e041fcea9ba76a76f44415af63666e30e38dc7809ed093",
+  "downloads": 2912,
+  "source": "gutenberg:130",
+  "tradition": "christianity",
+  "editions": [
+   "christianity",
+   "catholic"
+  ],
+  "core": true,
+  "year": 1908
+ },
+ {
+  "slug": "in-his-steps",
+  "title": "In His Steps",
+  "author": "Charles M. Sheldon",
+  "category": "sacred",
+  "blurb": "In His Steps\" by Charles M.",
+  "gutenbergID": 4540,
+  "bytes": 447645,
+  "sha256": "e8c58adb06fedadb47c9a63778cc0fe613031e26291091891e197e94afdb666e",
+  "downloads": 953,
+  "source": "gutenberg:4540",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": true,
+  "year": 1896
+ },
+ {
+  "slug": "paradise-regained",
+  "title": "Paradise Regained",
+  "author": "John Milton",
+  "category": "sacred",
+  "blurb": "Paradise Regained\" by John Milton is an epic poem first published in 1671.",
+  "gutenbergID": 58,
+  "bytes": 89175,
+  "sha256": "8122c5a061737b6a5011f2fb92031ce117110c1c6b668cc7806aadb328e4fcbb",
+  "downloads": 1408,
+  "source": "gutenberg:58",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": true,
+  "year": 1671
+ },
+ {
+  "slug": "divine-comedy-longfellow-s-translation-purgatory",
+  "title": "Divine Comedy, Longfellow's Translation, Purgatory",
+  "author": "Dante Alighieri",
+  "category": "poetry",
+  "blurb": "Divine Comedy, Longfellow's Translation, Purgatory\" by Dante Alighieri is the second part of the Divine Comedy, written in the early 14th century.",
+  "gutenbergID": 1002,
+  "bytes": 208142,
+  "sha256": "9ff3c35f2110d3906733f346f1056965dfb3c1b9367d90765cd2ff17d54a943d",
+  "downloads": 1923,
+  "source": "gutenberg:1002",
+  "tradition": "christianity",
+  "editions": [
+   "christianity",
+   "catholic"
+  ],
+  "core": true,
+  "translator": "Henry Wadsworth Longfellow",
+  "year": 1867
+ },
+ {
+  "slug": "divine-comedy-longfellow-s-translation-paradise",
+  "title": "Divine Comedy, Longfellow's Translation, Paradise",
+  "author": "Dante Alighieri",
+  "category": "poetry",
+  "blurb": "Divine Comedy, Longfellow's Translation, Paradise\" by Dante Alighieri is a poetic epic written in the early 14th century.",
+  "gutenbergID": 1003,
+  "bytes": 208558,
+  "sha256": "7186cbd62558327ade9f5252a7d802dca0d58a86cc18486f1bd5d3b860c8d497",
+  "downloads": 1410,
+  "source": "gutenberg:1003",
+  "tradition": "christianity",
+  "editions": [
+   "christianity",
+   "catholic"
+  ],
+  "core": true,
+  "translator": "Henry Wadsworth Longfellow",
+  "year": 1867
+ },
+ {
+  "slug": "the-life-of-st-teresa-of-jesus-of-the-order-of-our-lady-of-c",
+  "title": "The Life of St. Teresa of Jesus, of the Order of Our Lady of Carmel",
+  "author": "Teresa of Ávila",
+  "category": "sacred",
+  "blurb": "The Life of St.",
+  "gutenbergID": 8120,
+  "bytes": 1039545,
+  "sha256": "852c0fe5360051ddefb3c5a645f03bf0a4c740164fa52c03b720820e5f8a44ec",
+  "downloads": 1665,
+  "source": "gutenberg:8120",
+  "tradition": "catholic",
+  "editions": [
+   "catholic"
+  ],
+  "core": true,
+  "translator": "David Lewis",
+  "year": 1870
+ },
+ {
+  "slug": "apologia-pro-vita-sua",
+  "title": "Apologia pro vita sua",
+  "author": "John Henry Newman",
+  "category": "sacred",
+  "blurb": "Apologia Pro Vita Sua\" by John Henry Newman is a religious autobiography published in 1864.",
+  "gutenbergID": 19690,
+  "bytes": 760320,
+  "sha256": "fc05fbc8b27529ea6fcc6ffd8142a094757160d044625fecc77f2599898e6a72",
+  "downloads": 1654,
+  "source": "gutenberg:19690",
+  "tradition": "catholic",
+  "editions": [
+   "catholic"
+  ],
+  "core": true,
+  "year": 1864
+ },
+ {
+  "slug": "summa-theologica-part-i-prima-pars-from-the-complete-america",
+  "title": "Summa Theologica, Part I (Prima Pars): From the Complete American Edition",
+  "author": "Thomas Aquinas",
+  "category": "sacred",
+  "blurb": "Summa Theologica, Part I (Prima Pars)\" by Saint Thomas Aquinas is a theological work written in the 13th century.",
+  "gutenbergID": 17611,
+  "bytes": 2828971,
+  "sha256": "d218eedbe694cfaa9e4d00ad58979217b216e4d227c06662a9d1e84b690f55f7",
+  "downloads": 2287,
+  "source": "gutenberg:17611",
+  "tradition": "catholic",
+  "editions": [
+   "catholic"
+  ],
+  "core": true,
+  "translator": "Fathers of the English Dominican Province",
+  "year": 1911
+ },
+ {
+  "slug": "the-holy-scriptures-according-to-the-masoretic-text-jps-1917",
+  "title": "The Holy Scriptures According to the Masoretic Text (JPS 1917)",
+  "author": "Jewish Publication Society",
+  "category": "sacred",
+  "blurb": "The Holy Scriptures According to the Masoretic Text (JPS 1917), by Jewish Publication Society, translated by JPS committee (1917) (1917).",
+  "gutenbergID": null,
+  "bytes": 3352487,
+  "sha256": "e8374e0ddf37a6fe6abd3d184bfcc9b5134f2d9c7bb4e1b5c183ec07e943f8ab",
+  "downloads": 0,
+  "source": "wikisource:https://en.wikisource.org/wiki/Bible_(Jewish_Publication_Society_1917)",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": true,
+  "translator": "JPS committee (1917)",
+  "year": 1917
+ },
+ {
+  "slug": "the-legends-of-the-jews-volume-1",
+  "title": "The Legends of the Jews — Volume 1",
+  "author": "Louis Ginzberg",
+  "category": "sacred",
+  "blurb": "The Legends of the Jews — Volume 1\" by Louis Ginzberg is a compilation published between 1909 and 1938.",
+  "gutenbergID": 1493,
+  "bytes": 693928,
+  "sha256": "95737dc982ef00668195097467ed4987df9ecfd1942163a577beab98764e2678",
+  "downloads": 1372,
+  "source": "gutenberg:1493",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": true,
+  "translator": "Henrietta Szold",
+  "year": 1909
+ },
+ {
+  "slug": "the-legends-of-the-jews-volume-2",
+  "title": "The Legends of the Jews — Volume 2",
+  "author": "Louis Ginzberg",
+  "category": "sacred",
+  "blurb": "The Legends of the Jews — Volume 2\" by Louis Ginzberg is a compilation published between 1909 and 1938.",
+  "gutenbergID": 1494,
+  "bytes": 608508,
+  "sha256": "b60096e9e2cb068640ec5beb14c00bd665af7420aefccd44c3e02809f8b23215",
+  "downloads": 757,
+  "source": "gutenberg:1494",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": true,
+  "translator": "Henrietta Szold",
+  "year": 1910
+ },
+ {
+  "slug": "kitab-al-khazari-kuzari",
+  "title": "Kitab al Khazari (Kuzari)",
+  "author": "Judah Halevi",
+  "category": "sacred",
+  "blurb": "Kitab al Khazari (Kuzari), by Judah Halevi, translated by Hartwig Hirschfeld (1905).",
+  "gutenbergID": null,
+  "bytes": 445892,
+  "sha256": "8bedc2e46434e75e2ffad409a0639f782717b1a29203b994791ff64292541cf6",
+  "downloads": 0,
+  "source": "wikisource:https://en.wikisource.org/wiki/Kitab_al_Khazari",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": true,
+  "translator": "Hartwig Hirschfeld",
+  "year": 1905
+ },
+ {
+  "slug": "daniel-deronda",
+  "title": "Daniel Deronda",
+  "author": "George Eliot",
+  "category": "fiction",
+  "blurb": "Daniel Deronda\" by George Eliot is a novel published in 1876.",
+  "gutenbergID": 7469,
+  "bytes": 1760083,
+  "sha256": "5af6efe7efc2daa347d40a041ac96acd5ca29692db43e1041c11d8c3693e00e5",
+  "downloads": 1821,
+  "source": "gutenberg:7469",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": true,
+  "year": 1876
+ },
+ {
+  "slug": "masnavi-i-ma-navi-the-spiritual-couplets-of-maulana-jalalu-d",
+  "title": "Masnavi i Ma'navi: The Spiritual Couplets of Maulána Jalálu-'d-Dín Muhammad i Rúmí",
+  "author": "Jalal al-Din Rumi",
+  "category": "sacred",
+  "blurb": "Masnavi i Ma'navi: The Spiritual Couplets of Maulána Jalálu-'d-Dín Muhammad i Rúmí, by Jalal al-Din Rumi, translated by E.",
+  "gutenbergID": null,
+  "bytes": 686959,
+  "sha256": "747a70c95dada566caad03747d5665353a5c9e8b977a3766295cec9259ec93d4",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/cu31924026910251/cu31924026910251_djvu.txt",
+  "tradition": "islam",
+  "editions": [
+   "islam"
+  ],
+  "core": true,
+  "translator": "E. H. Whinfield",
+  "year": 1887
+ },
+ {
+  "slug": "poems-from-the-divan-of-hafiz",
+  "title": "Poems from the Divan of Hafiz",
+  "author": "Hafiz",
+  "category": "poetry",
+  "blurb": "Poems from the Divan of Hafiz\" by Hafiz is a collection of poems compiled in the late 14th century.",
+  "gutenbergID": 74883,
+  "bytes": 197102,
+  "sha256": "f995a38221317aaf5378f0789dabdb249063ce07f93304ae13c54a4872a5832e",
+  "downloads": 956,
+  "source": "gutenberg:74883",
+  "tradition": "islam",
+  "editions": [
+   "islam"
+  ],
+  "core": true,
+  "translator": "Gertrude Bell",
+  "year": 1897,
+  "rightsNote": "Ḥāfiẓ, active 14th century: Hafez d. c. 1390; translator Gertrude Bell d. 1926"
+ },
+ {
+  "slug": "the-improvement-of-human-reason-exhibited-in-the-life-of-hai",
+  "title": "The Improvement of Human Reason: Exhibited in the Life of Hai Ebn Yokdhan",
+  "author": "Ibn Tufayl",
+  "category": "sacred",
+  "blurb": "The Improvement of Human Reason\" by Ibn Tufail is an Arabic philosophical novel written in the early 12th century.",
+  "gutenbergID": 16831,
+  "bytes": 257714,
+  "sha256": "3c28b16a026d201f1d40b773a00192277fdd80b05433f59442d41c9626ab95c2",
+  "downloads": 760,
+  "source": "gutenberg:16831",
+  "tradition": "islam",
+  "editions": [
+   "islam"
+  ],
+  "core": true,
+  "translator": "Simon Ockley",
+  "year": 1708
+ },
+ {
+  "slug": "the-ramayan-of-valmiki-translated-into-english-verse",
+  "title": "The Rámáyan of Válmíki, translated into English verse",
+  "author": "Valmiki",
+  "category": "sacred",
+  "blurb": "The Rámáyan of Válmíki,\" translated into English verse by Ralph T.",
+  "gutenbergID": 24869,
+  "bytes": 2263257,
+  "sha256": "b7c8e2828b9a4f851e84c90c6f2f52ab3a9f64c3d7bccd3b6b46e03ee3663e9f",
+  "downloads": 16220,
+  "source": "gutenberg:24869",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": true,
+  "translator": "Ralph T. H. Griffith",
+  "year": 1870,
+  "rightsNote": "Valmiki: legendary ancient author; translator R. T. H. Griffith d. 1906"
+ },
+ {
+  "slug": "the-yoga-sutras-of-patanjali-the-book-of-the-spiritual-man",
+  "title": "The Yoga Sutras of Patanjali: The Book of the Spiritual Man",
+  "author": "Patanjali",
+  "category": "sacred",
+  "blurb": "The Yoga Sutras of Patanjali: The Book of the Spiritual Man\" by Patañjali is a compilation of Sanskrit aphorisms compiled in the early centuries CE.",
+  "gutenbergID": 2526,
+  "bytes": 175423,
+  "sha256": "028ab7dd967edb891f455f9903ccf15aa6c90d8484b8ad05268f41b6097e2d70",
+  "downloads": 2070,
+  "source": "gutenberg:2526",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": true,
+  "translator": "Charles Johnston",
+  "year": 1912,
+  "rightsNote": "Patañjali: ancient author (before c. 400 AD); translator Charles Johnston d. 1931"
+ },
+ {
+  "slug": "raja-yoga",
+  "title": "Raja-Yoga",
+  "author": "Swami Vivekananda",
+  "category": "sacred",
+  "blurb": "Raja-Yoga, by Swami Vivekananda (1896).",
+  "gutenbergID": null,
+  "bytes": 351506,
+  "sha256": "1768368b23b4430dfc61be4c9c0d7f9cce86d160c4834f15c99805121412d3ae",
+  "downloads": 0,
+  "source": "wikisource:https://en.wikisource.org/wiki/The_Complete_Works_of_Swami_Vivekananda/Volume_1/Raja-Yoga",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": true,
+  "year": 1896
+ },
+ {
+  "slug": "karma-yoga",
+  "title": "Karma-Yoga",
+  "author": "Swami Vivekananda",
+  "category": "sacred",
+  "blurb": "Karma-Yoga, by Swami Vivekananda (1896).",
+  "gutenbergID": null,
+  "bytes": 169216,
+  "sha256": "dba08bb320ba29aff80e8722a557b1319b98c24d653370c8a3a8fd9dc37c47bd",
+  "downloads": 0,
+  "source": "wikisource:https://en.wikisource.org/wiki/The_Complete_Works_of_Swami_Vivekananda/Volume_1/Karma-Yoga",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": true,
+  "year": 1896
+ },
+ {
+  "slug": "bhakti-yoga",
+  "title": "Bhakti-Yoga",
+  "author": "Swami Vivekananda",
+  "category": "sacred",
+  "blurb": "Bhakti-Yoga, by Swami Vivekananda (1896).",
+  "gutenbergID": null,
+  "bytes": 78060,
+  "sha256": "3f8addc06fab398a6cc90156baa1150b2a40e4b20389095786bd047b08649c81",
+  "downloads": 0,
+  "source": "wikisource:https://en.wikisource.org/wiki/The_Complete_Works_of_Swami_Vivekananda/Volume_3/Bhakti-Yoga",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": true,
+  "year": 1896
+ },
+ {
+  "slug": "jnana-yoga",
+  "title": "Jnana-Yoga",
+  "author": "Swami Vivekananda",
+  "category": "sacred",
+  "blurb": "Jnana-Yoga, by Swami Vivekananda (1899).",
+  "gutenbergID": null,
+  "bytes": 445846,
+  "sha256": "b9ba5084de90249bf6b3882e1ea9db38defe00c848bc2a5ce57c353b4ba61d94",
+  "downloads": 0,
+  "source": "wikisource:https://en.wikisource.org/wiki/The_Complete_Works_of_Swami_Vivekananda/Volume_2/Jnana-Yoga",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": true,
+  "year": 1899
+ },
+ {
+  "slug": "gitanjali",
+  "title": "Gitanjali",
+  "author": "Rabindranath Tagore",
+  "category": "sacred",
+  "blurb": "Gitanjali\" by Rabindranath Tagore is a collection of poems originally published in Bengali in 1910.",
+  "gutenbergID": 7164,
+  "bytes": 75624,
+  "sha256": "c10f92d76af7297219c6dbf0588deadceba0a2d0ae6ca51974139e998b365723",
+  "downloads": 2572,
+  "source": "gutenberg:7164",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": true,
+  "year": 1912
+ },
+ {
+  "slug": "translations-of-shakuntala-and-other-works",
+  "title": "Translations of Shakuntala and Other Works",
+  "author": "Kalidasa",
+  "category": "poetry",
+  "blurb": "Translations of Shakuntala and Other Works\" by Kalidasa is a collection of classical Indian poetry and drama likely written in the fifth century AD.",
+  "gutenbergID": 16659,
+  "bytes": 362984,
+  "sha256": "37b3b4eeb7b91849ecbc89eb684a18860740e2b62efce0999baeaf26db7806e0",
+  "downloads": 1645,
+  "source": "gutenberg:16659",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": true,
+  "translator": "Arthur W. Ryder",
+  "year": 1912,
+  "rightsNote": "Kālidāsa: classical Sanskrit poet, c. 4th-5th century; translator A. W. Ryder d. 1938"
+ },
+ {
+  "slug": "the-hymns-of-the-rigveda-vol-i",
+  "title": "The Hymns of the Rigveda, Vol. I",
+  "author": "Rig Veda",
+  "category": "sacred",
+  "blurb": "The Hymns of the Rigveda, Vol.",
+  "gutenbergID": null,
+  "bytes": 1505431,
+  "sha256": "e2684bbef045d9d57a5f94cae5268e4950ce09b89df329df0d5f6c6abcd4616f",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/in.ernet.dli.2015.284070/2015.284070.The-Hymns_djvu.txt",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": true,
+  "translator": "Ralph T. H. Griffith",
+  "year": 1896
+ },
+ {
+  "slug": "the-bhagavad-gita",
+  "title": "The Bhagavad-Gita",
+  "author": "Vyasa (attrib.)",
+  "category": "sacred",
+  "blurb": "The Bhagavad-Gita, by Vyasa (attrib.), translated by Annie Besant (1895).",
+  "gutenbergID": null,
+  "bytes": 114424,
+  "sha256": "b6be5ea8f0b83be5b0c735ea7a879cd4fc805afd09848836648ce63553ad1653",
+  "downloads": 0,
+  "source": "wikisource:https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": true,
+  "translator": "Annie Besant",
+  "year": 1895
+ },
+ {
+  "slug": "the-light-of-asia",
+  "title": "The Light of Asia",
+  "author": "Edwin Arnold",
+  "category": "sacred",
+  "blurb": "The Light of Asia\" by Sir Edwin Arnold is a narrative poem published in 1879.",
+  "gutenbergID": 8920,
+  "bytes": 194788,
+  "sha256": "046dcaecef840fccb3f1d1bad280e7b74159d13fe2eaa31f71ad8254cbd686fa",
+  "downloads": 1067,
+  "source": "gutenberg:8920",
+  "tradition": "buddhism",
+  "editions": [
+   "buddhism"
+  ],
+  "core": true,
+  "year": 1879
+ },
+ {
+  "slug": "buddhist-suttas-sacred-books-of-the-east-vol-11",
+  "title": "Buddhist Suttas (Sacred Books of the East vol. 11)",
+  "author": "Pali Canon",
+  "category": "sacred",
+  "blurb": "Buddhist Suttas (Sacred Books of the East vol.",
+  "gutenbergID": null,
+  "bytes": 641932,
+  "sha256": "84d02cc26ab5d573d70954c2217dc7cbfa09baf190a1cb9bab8a8c9f35efd293",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/buddhistsuttas00daviuoft/buddhistsuttas00daviuoft_djvu.txt",
+  "tradition": "buddhism",
+  "editions": [
+   "buddhism"
+  ],
+  "core": true,
+  "translator": "T. W. Rhys Davids",
+  "year": 1881
+ },
+ {
+  "slug": "the-sutta-nipata-sacred-books-of-the-east-vol-10-part-2",
+  "title": "The Sutta-Nipâta (Sacred Books of the East vol. 10, part 2)",
+  "author": "Pali Canon",
+  "category": "sacred",
+  "blurb": "The Sutta-Nipâta (Sacred Books of the East vol.",
+  "gutenbergID": null,
+  "bytes": 703950,
+  "sha256": "f6d37ea75e502acd23563901fcdd9926cdf3b2aa718ef9e57305db0dde9c7d04",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/wg910/WG910-1881%20-The%20Sacred%20Books%20of%20East%20-%20Vol%2010%20of%2050-Buddhism-Dhammapada%20And%20Sutta%20Nipata_djvu.txt",
+  "tradition": "buddhism",
+  "editions": [
+   "buddhism"
+  ],
+  "core": true,
+  "translator": "V. Fausböll",
+  "year": 1881
+ },
+ {
+  "slug": "the-book-of-tea",
+  "title": "The Book of Tea",
+  "author": "Kakuzo Okakura",
+  "category": "sacred",
+  "blurb": "The Book of Tea\" by Kakuzo Okakura is an essay written in 1906 that links the Japanese tea ceremony to the aesthetic and cultural values of Japanese life.",
+  "gutenbergID": 769,
+  "bytes": 104746,
+  "sha256": "13eaff309fea96b4cecef91807e09682c6246f1e4d738265f2ae01960b01a14a",
+  "downloads": 3202,
+  "source": "gutenberg:769",
+  "tradition": "buddhism",
+  "editions": [
+   "buddhism",
+   "taoism"
+  ],
+  "core": true,
+  "year": 1906
+ },
+ {
+  "slug": "the-religion-of-the-samurai-a-study-of-zen-philosophy-and-di",
+  "title": "The Religion of the Samurai: A Study of Zen Philosophy and Discipline in China and Japan",
+  "author": "Kaiten Nukariya",
+  "category": "sacred",
+  "blurb": "The Religion of the Samurai\" by Kaiten Nukariya is a scholarly work that examines Zen philosophy and its discipline as practiced in China and Japan, written…",
+  "gutenbergID": 5173,
+  "bytes": 493695,
+  "sha256": "5a6182423ad78694e967fc7566998e6abea852ee8c8078d5cd06f94751612230",
+  "downloads": 794,
+  "source": "gutenberg:5173",
+  "tradition": "buddhism",
+  "editions": [
+   "buddhism"
+  ],
+  "core": true,
+  "year": 1913,
+  "rightsNote": "Nukariya, Kaiten: Kaiten Nukariya 1867-1934 (Gutendex omits the dates)"
+ },
+ {
+  "slug": "the-jataka-or-stories-of-the-buddha-s-former-births-vol-i",
+  "title": "The Jataka; or, Stories of the Buddha's Former Births, Vol. I",
+  "author": "Jataka",
+  "category": "sacred",
+  "blurb": "The Jataka; or, Stories of the Buddha's Former Births, Vol.",
+  "gutenbergID": null,
+  "bytes": 920404,
+  "sha256": "6d014719d62820bb1ff4325e1f935cae93ee0a21338b14662af9c6aa7aeaf408",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/jatakaorstorieso01cowe/jatakaorstorieso01cowe_djvu.txt",
+  "tradition": "buddhism",
+  "editions": [
+   "buddhism"
+  ],
+  "core": true,
+  "translator": "Robert Chalmers (ed. E. B. Cowell)",
+  "year": 1895
+ },
+ {
+  "slug": "the-creed-of-buddha",
+  "title": "The Creed of Buddha",
+  "author": "Edmond Holmes",
+  "category": "sacred",
+  "blurb": "The Creed of Buddha, by Edmond Holmes (1908).",
+  "gutenbergID": null,
+  "bytes": 435152,
+  "sha256": "d541bdba662ce31f9ffeb46f9b474f33853683bf752ec15e1777bd5be472135e",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/creedofbuddha00holm/creedofbuddha00holm_djvu.txt",
+  "tradition": "buddhism",
+  "editions": [
+   "buddhism"
+  ],
+  "core": true,
+  "year": 1908
+ },
+ {
+  "slug": "the-works-of-mencius",
+  "title": "The Works of Mencius",
+  "author": "Mencius",
+  "category": "sacred",
+  "blurb": "The Works of Mencius, by Mencius, translated by James Legge (1861).",
+  "gutenbergID": null,
+  "bytes": 347062,
+  "sha256": "742047c34587fbc57622fe31f1181992d8b351445bd9d893dacbf0e5f5f05b59",
+  "downloads": 0,
+  "source": "wikisource:https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius",
+  "tradition": "taoism",
+  "editions": [
+   "taoism"
+  ],
+  "core": true,
+  "translator": "James Legge",
+  "year": 1861
+ },
+ {
+  "slug": "the-texts-of-taoism-part-ii-sacred-books-of-the-east-vol-40",
+  "title": "The Texts of Taoism, Part II (Sacred Books of the East vol. 40)",
+  "author": "Zhuangzi; Taoist texts",
+  "category": "sacred",
+  "blurb": "The Texts of Taoism, Part II (Sacred Books of the East vol.",
+  "gutenbergID": null,
+  "bytes": 588565,
+  "sha256": "6d7e3777163d2de228aaaba734e1e97f2d3f715e0ce48a2bebec03c1b5495ae2",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/wg940/WG940-1891%20-The%20Sacred%20Books%20of%20East%20-%20Vol%2040%20of%2050%20-%20China%20-%20Texts%20Of%20Taoism%20Part%202%20Of%202_djvu.txt",
+  "tradition": "taoism",
+  "editions": [
+   "taoism"
+  ],
+  "core": true,
+  "translator": "James Legge",
+  "year": 1891
+ },
+ {
+  "slug": "a-lute-of-jade-selections-from-the-classical-poets-of-china",
+  "title": "A Lute of Jade : Selections from the Classical Poets of China",
+  "author": "L. Cranmer-Byng",
+  "category": "poetry",
+  "blurb": "A Lute of Jade: Selections from the Classical Poets of China\" by L.",
+  "gutenbergID": 390,
+  "bytes": 109042,
+  "sha256": "5c73f18780d31f68340d0266fd3cda0f67fbaddcfc96a44061f38b9f0d2f5b05",
+  "downloads": 649,
+  "source": "gutenberg:390",
+  "tradition": "taoism",
+  "editions": [
+   "taoism"
+  ],
+  "core": true,
+  "translator": "L. Cranmer-Byng",
+  "year": 1909
+ },
+ {
+  "slug": "the-shih-king-or-book-of-poetry-from-the-sacred-books-of-the",
+  "title": "The Shih King, or, Book of Poetry: From the Sacred Books of the East Volume 3",
+  "author": "Book of Odes (Shijing)",
+  "category": "poetry",
+  "blurb": "The Shih King, or, Book of Poetry\" by James Legge is a translation of the oldest existing collection of Chinese poetry, comprising 305 works dating from the…",
+  "gutenbergID": 9394,
+  "bytes": 296326,
+  "sha256": "18cffc2b30a63c798e1a307ddd7a158b5d44f07c969809d6bc23509115830492",
+  "downloads": 787,
+  "source": "gutenberg:9394",
+  "tradition": "taoism",
+  "editions": [
+   "taoism"
+  ],
+  "core": true,
+  "translator": "James Legge",
+  "year": 1879
+ },
+ {
+  "slug": "yang-chu-s-garden-of-pleasure",
+  "title": "Yang Chu's Garden of Pleasure",
+  "author": "Yang Zhu",
+  "category": "sacred",
+  "blurb": "Yang Chu's Garden of Pleasure, by Yang Zhu, translated by Anton Forke (1912).",
+  "gutenbergID": null,
+  "bytes": 77774,
+  "sha256": "6184604c87994c110397c6800f20f619ef0ccbdcc4733e20aa2d342a0900d98e",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/yangchusgardenof00yangrich/yangchusgardenof00yangrich_djvu.txt",
+  "tradition": "taoism",
+  "editions": [
+   "taoism"
+  ],
+  "core": true,
+  "translator": "Anton Forke",
+  "year": 1912
+ },
+ {
+  "slug": "the-book-of-war-the-military-classic-of-the-far-east-the-art",
+  "title": "The Book of War: The Military Classic of the Far East: The Articles of Suntzu; The Sayings of Wutzu",
+  "author": "Sunzi; Wu Qi",
+  "category": "philosophy",
+  "blurb": "The Book of War: The Military Classic of the Far East\" by Sunzi and Wu is a treatise on military strategy and philosophy written in the 5th century BC.",
+  "gutenbergID": 44024,
+  "bytes": 120678,
+  "sha256": "07b76a13d3a47543572121c6cae283b82ce106237bfe13ef5081d66df8ad49fd",
+  "downloads": 1601,
+  "source": "gutenberg:44024",
+  "tradition": "taoism",
+  "editions": [
+   "taoism"
+  ],
+  "core": true,
+  "translator": "E. F. Calthrop",
+  "year": 1908,
+  "rightsNote": "Sunzi, active 6th century B.C.: ancient author; translator E. F. Calthrop (1908 text; Calthrop d. 1915)"
+ },
+ {
+  "slug": "the-enchiridion",
+  "title": "The Enchiridion",
+  "author": "Epictetus",
+  "category": "philosophy",
+  "blurb": "The Enchiridion\" by Epictetus is a manual of Stoic ethical advice compiled in the early 2nd century by Arrian, a disciple of the Greek philosopher.",
+  "gutenbergID": 45109,
+  "bytes": 62495,
+  "sha256": "27db34f021e143a974c131a4178be4a5e2946019da4d5e6ad44f5a0bd1765f50",
+  "downloads": 42383,
+  "source": "gutenberg:45109",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "Thomas Wentworth Higginson",
+  "year": 1865
+ },
+ {
+  "slug": "a-selection-from-the-discourses-of-epictetus-with-the-enchei",
+  "title": "A Selection from the Discourses of Epictetus with the Encheiridion",
+  "author": "Epictetus",
+  "category": "philosophy",
+  "blurb": "A Selection from the Discourses of Epictetus with the Encheiridion\" by Epictetus is a philosophical text from ancient times that likely dates back to the early…",
+  "gutenbergID": 10661,
+  "bytes": 320211,
+  "sha256": "1620560ff6d52c0bf664af655e1c7eb3b951dd90f9d3d0596596493776a44ba4",
+  "downloads": 4345,
+  "source": "gutenberg:10661",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "George Long",
+  "year": 1877
+ },
+ {
+  "slug": "crito",
+  "title": "Crito",
+  "author": "Plato",
+  "category": "philosophy",
+  "blurb": "Crito\" by Plato is a dialogue written around 399 BC.",
+  "gutenbergID": 1657,
+  "bytes": 35204,
+  "sha256": "d00013927fb6428b281ff1365ec3da52d0aaa380d095632c8b1644baaf77f322",
+  "downloads": 2084,
+  "source": "gutenberg:1657",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "Benjamin Jowett",
+  "year": 1871
+ },
+ {
+  "slug": "symposium",
+  "title": "Symposium",
+  "author": "Plato",
+  "category": "philosophy",
+  "blurb": "Symposium\" by Plato is a Socratic dialogue written between 385-370 BC.",
+  "gutenbergID": 1600,
+  "bytes": 177979,
+  "sha256": "00eb7a595b8c762dd2c059cac2d6d8c93329d53f84bdfe95a06be0c5780139b3",
+  "downloads": 34172,
+  "source": "gutenberg:1600",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "Benjamin Jowett",
+  "year": 1871
+ },
+ {
+  "slug": "the-republic",
+  "title": "The Republic",
+  "author": "Plato",
+  "category": "philosophy",
+  "blurb": "The Republic\" by Plato is a Socratic dialogue written around 375 BC.",
+  "gutenbergID": 1497,
+  "bytes": 1172833,
+  "sha256": "6afc388cdf9c98c5229f182b69c6168d7b3104ad00153c2c7155efacaec81cbc",
+  "downloads": 18829,
+  "source": "gutenberg:1497",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "Benjamin Jowett",
+  "year": 1871
+ },
+ {
+  "slug": "treatises-on-friendship-and-old-age",
+  "title": "Treatises on Friendship and Old Age",
+  "author": "Cicero",
+  "category": "philosophy",
+  "blurb": "Treatises on Friendship and Old Age\" by Marcus Tullius Cicero is a philosophical dialogue written in 44 BC.",
+  "gutenbergID": 2808,
+  "bytes": 164151,
+  "sha256": "9f957f8ad56978ad273e133bfeadbb305f5ecc0513a0949a49ae498ed7af0988",
+  "downloads": 2139,
+  "source": "gutenberg:2808",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "E. S. Shuckburgh",
+  "year": 1900
+ },
+ {
+  "slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "title": "Walden, and On The Duty Of Civil Disobedience",
+  "author": "Henry David Thoreau",
+  "category": "philosophy",
+  "blurb": "Walden, and On The Duty Of Civil Disobedience\" by Henry David Thoreau is a philosophical essay and social critique written in the mid-19th century.",
+  "gutenbergID": 205,
+  "bytes": 634820,
+  "sha256": "70869ff927bb425e6980025c1fdd0cb7468749bb783633a5922caff4dbe02c2b",
+  "downloads": 23094,
+  "source": "gutenberg:205",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "year": 1854
+ },
+ {
+  "slug": "thus-spake-zarathustra-a-book-for-all-and-none",
+  "title": "Thus Spake Zarathustra: A Book for All and None",
+  "author": "Friedrich Nietzsche",
+  "category": "philosophy",
+  "blurb": "Thus Spake Zarathustra: A Book for All and None\" by Friedrich Wilhelm Nietzsche is a work of philosophical fiction published between 1883 and 1885.",
+  "gutenbergID": 1998,
+  "bytes": 638341,
+  "sha256": "8441c05c17593ce4333f0882e89863d1ee90d072dc3d8e519454e1fb1bf6c8ce",
+  "downloads": 21516,
+  "source": "gutenberg:1998",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "Thomas Common",
+  "year": 1909
+ },
+ {
+  "slug": "the-story-of-the-volsungs-volsunga-saga-with-excerpts-from-t",
+  "title": "The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic Edda",
+  "author": "Völsunga saga",
+  "category": "classic",
+  "blurb": "The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic Edda\" is a legendary saga written in the late 13th century.",
+  "gutenbergID": 1152,
+  "bytes": 304078,
+  "sha256": "fb1e5d88662e068840bf50a97dfc0c0e2f878293b291e469117004e26da6bcda",
+  "downloads": 2912,
+  "source": "gutenberg:1152",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": true,
+  "translator": "William Morris & Eiríkr Magnússon",
+  "year": 1870
+ },
+ {
+  "slug": "beowulf",
+  "title": "Beowulf",
+  "author": "Beowulf poet",
+  "category": "poetry",
+  "blurb": "Beowulf\" by Anonymous, translated by Francis Barton Gummere is an epic poem likely written in the early medieval period.",
+  "gutenbergID": 981,
+  "bytes": 146603,
+  "sha256": "4261234e0e571c2f81236d555f6ef73f2351389351838417bf58e7f311c3003f",
+  "downloads": 2806,
+  "source": "gutenberg:981",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": true,
+  "translator": "Francis B. Gummere",
+  "year": 1910
+ },
+ {
+  "slug": "the-mabinogion",
+  "title": "The Mabinogion",
+  "author": "Mabinogion",
+  "category": "history",
+  "blurb": "The Mabinogion\" by Lady Charlotte Schreiber is a collection of Welsh tales composed in the early 14th century.",
+  "gutenbergID": 5160,
+  "bytes": 580318,
+  "sha256": "2c6e8805f224ef0a19207523578b4dec6e76d2234abdc15a425f1026a3a35ae3",
+  "downloads": 2396,
+  "source": "gutenberg:5160",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": true,
+  "translator": "Lady Charlotte Guest",
+  "year": 1849
+ },
+ {
+  "slug": "the-odyssey-rendered-into-english-prose-for-the-use-of-those",
+  "title": "The Odyssey: Rendered into English prose for the use of those who cannot read the original",
+  "author": "Homer",
+  "category": "philosophy",
+  "blurb": "The Odyssey\" by Homer is an ancient Greek epic composed around the 8th or 7th century BC.",
+  "gutenbergID": 1727,
+  "bytes": 684058,
+  "sha256": "078ef0ad97289835acd6f0c0010f7ec7e3837d5356b346c1462bc15c4a7d6842",
+  "downloads": 139227,
+  "source": "gutenberg:1727",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": true,
+  "translator": "Samuel Butler",
+  "year": 1900
+ },
+ {
+  "slug": "the-iliad",
+  "title": "The Iliad",
+  "author": "Homer",
+  "category": "philosophy",
+  "blurb": "The Iliad\" by Homer is an ancient Greek epic poem composed around the late 8th or early 7th century BC.",
+  "gutenbergID": 2199,
+  "bytes": 813395,
+  "sha256": "ff326f1ba2c6cf0d986419e553b3c8d162e6eff465f8a5edf1d489008d7fb563",
+  "downloads": 37534,
+  "source": "gutenberg:2199",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": true,
+  "translator": "Samuel Butler",
+  "year": 1898
+ },
+ {
+  "slug": "kalevala-the-epic-poem-of-finland-complete",
+  "title": "Kalevala : the Epic Poem of Finland — Complete",
+  "author": "Kalevala (Elias Lönnrot, comp.)",
+  "category": "poetry",
+  "blurb": "Kalevala : the Epic Poem of Finland — Complete\" by Lönnrot and Crawford is a compilation of epic poetry published in 1849.",
+  "gutenbergID": 5186,
+  "bytes": 822770,
+  "sha256": "493abb4fa9a989bc281faa657b23c48f2c7f563910b03d10a9499490acacbd3e",
+  "downloads": 3640,
+  "source": "gutenberg:5186",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": true,
+  "translator": "John Martin Crawford",
+  "year": 1888
+ },
+ {
+  "slug": "the-story-of-burnt-njal-from-the-icelandic-of-the-njals-saga",
+  "title": "The story of Burnt Njal: From the Icelandic of the Njals Saga",
+  "author": "Njáls saga",
+  "category": "history",
+  "blurb": "The story of Burnt Njal: From the Icelandic of the Njals Saga by Dasent\" is a thirteenth-century Icelandic saga describing events between 960 and 1020.",
+  "gutenbergID": 17919,
+  "bytes": 735086,
+  "sha256": "ab4b881d7d65666e33132e2276fe3702b8e91a67310c8594ef4d1a0492375dfe",
+  "downloads": 1044,
+  "source": "gutenberg:17919",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": true,
+  "translator": "George Webbe Dasent",
+  "year": 1861
+ },
+ {
+  "slug": "the-doctrine-and-covenants",
+  "title": "The Doctrine and Covenants",
+  "author": "Joseph Smith Jr. (and successors)",
+  "category": "sacred",
+  "blurb": "The Doctrine and Covenants, by Joseph Smith Jr.",
+  "gutenbergID": null,
+  "bytes": 634002,
+  "sha256": "2a364a447bbb7320b607652b76980ed469bcdb685fdd030688ac5639f153a211",
+  "downloads": 0,
+  "source": "wikisource:https://en.wikisource.org/wiki/The_Doctrine_and_Covenants_(unsourced)",
+  "tradition": "restoration",
+  "editions": [
+   "restoration"
+  ],
+  "core": true,
+  "year": 1921,
+  "rightsNote": "Wikisource '(unsourced)' text; sections 137-138 and Official Declaration 2 excluded (post-1926 additions), Official Declaration 1 (1890) kept."
+ },
+ {
+  "slug": "the-pearl-of-great-price",
+  "title": "The Pearl of Great Price",
+  "author": "Joseph Smith Jr. (ed. James E. Talmage)",
+  "category": "sacred",
+  "blurb": "The Pearl of Great Price, by Joseph Smith Jr.",
+  "gutenbergID": null,
+  "bytes": 146690,
+  "sha256": "8cbf3684605df826131791af6107e7f02f03f42ee60a7cbf40f550192fb6d18f",
+  "downloads": 0,
+  "source": "wikisource:https://en.wikisource.org/wiki/The_Pearl_of_Great_Price_(1913)",
+  "tradition": "restoration",
+  "editions": [
+   "restoration"
+  ],
+  "core": true,
+  "year": 1913,
+  "rightsNote": "Wikisource 1913 edition (James E. Talmage's revision; Talmage d. 1933)."
+ },
+ {
+  "slug": "the-articles-of-faith-a-series-of-lectures-on-the-principal-",
+  "title": "The Articles of Faith: A Series of Lectures on the Principal Doctrines of the Church of Jesus Christ of Latter-Day Saints",
+  "author": "James E. Talmage",
+  "category": "sacred",
+  "blurb": "The Articles of Faith\" by James E.",
+  "gutenbergID": 42238,
+  "bytes": 1023434,
+  "sha256": "b499969553d455f3bc0a0b565282836fb2813cc6d44bd1f964badacdab90facf",
+  "downloads": 1571,
+  "source": "gutenberg:42238",
+  "tradition": "restoration",
+  "editions": [
+   "restoration"
+  ],
+  "core": true,
+  "year": 1899
+ },
+ {
+  "slug": "the-lectures-on-faith",
+  "title": "The Lectures on Faith",
+  "author": "Joseph Smith Jr. (with Sidney Rigdon)",
+  "category": "sacred",
+  "blurb": "The Lectures on Faith\" by Jr.",
+  "gutenbergID": 56684,
+  "bytes": 130537,
+  "sha256": "ad67d42a4577cbbb786267c6c33fd03603d1b76ea442225155c9b418c3536f72",
+  "downloads": 692,
+  "source": "gutenberg:56684",
+  "tradition": "restoration",
+  "editions": [
+   "restoration"
+  ],
+  "core": true,
+  "year": 1835
+ },
+ {
+  "slug": "ben-hur-a-tale-of-the-christ",
+  "title": "Ben-Hur: A tale of the Christ",
+  "author": "Lew Wallace",
+  "category": "sacred",
+  "blurb": "Ben-Hur: A tale of the Christ\" by Lew Wallace is a novel published in 1880.",
+  "gutenbergID": 2145,
+  "bytes": 1111650,
+  "sha256": "9e6b5a637eea5d879c5c626dbc98142f202c6937021331e8154c865b6c139704",
+  "downloads": 1791,
+  "source": "gutenberg:2145",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": false,
+  "year": 1880
+ },
+ {
+  "slug": "morning-and-evening-daily-readings",
+  "title": "Morning and Evening: Daily Readings",
+  "author": "Charles Haddon Spurgeon",
+  "category": "sacred",
+  "blurb": "Morning and Evening: Daily Readings, by Charles Haddon Spurgeon (1868).",
+  "gutenbergID": null,
+  "bytes": 1406242,
+  "sha256": "b0af7280a6e6ad36a28e32febedd649a605d93a8647d17d43a413c462ac47a00",
+  "downloads": 0,
+  "source": "ccel:https://www.ccel.org/ccel/s/spurgeon/morneve/cache/morneve.txt",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": false,
+  "year": 1868
+ },
+ {
+  "slug": "st-francis-of-assisi",
+  "title": "St. Francis of Assisi",
+  "author": "G. K. Chesterton",
+  "category": "sacred",
+  "blurb": "St.",
+  "gutenbergID": 63084,
+  "bytes": 242617,
+  "sha256": "f970b2761312c3d23283ae1ed0c0bb239c817261bee036047d960044367a77b5",
+  "downloads": 782,
+  "source": "gutenberg:63084",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": false,
+  "year": 1923
+ },
+ {
+  "slug": "the-rule-of-st-benedict",
+  "title": "The Rule of St. Benedict",
+  "author": "Benedict of Nursia",
+  "category": "sacred",
+  "blurb": "The Rule of St.",
+  "gutenbergID": null,
+  "bytes": 90550,
+  "sha256": "5017eb3b3fc6b329d62da5002c23194463f636c1dd70f28dbe9dca0d8bde127b",
+  "downloads": 0,
+  "source": "wikisource:https://en.wikisource.org/wiki/Select_Historical_Documents_of_the_Middle_Ages/Book_III/The_Rule_of_St._Benedict",
+  "tradition": "catholic",
+  "editions": [
+   "catholic"
+  ],
+  "core": false,
+  "translator": "Ernest F. Henderson",
+  "year": 1892
+ },
+ {
+  "slug": "the-bible-douay-rheims-complete",
+  "title": "The Bible, Douay-Rheims, Complete",
+  "author": "Douay-Rheims Bible (Challoner revision)",
+  "category": "sacred",
+  "blurb": "The Bible, Douay-Rheims, Complete\" is an English translation of the Bible published between 1582 and 1610.",
+  "gutenbergID": 1581,
+  "bytes": 5673893,
+  "sha256": "43abc7e6801a70bc8df01efb73f29dd7812dac7759475dd240185481e1c64831",
+  "downloads": 4104,
+  "source": "gutenberg:1581",
+  "tradition": "catholic",
+  "editions": [
+   "catholic"
+  ],
+  "core": false,
+  "year": 1899,
+  "rightsNote": "no creator record: Douay-Rheims Bible, Challoner revision (1749-52): anonymous corporate translation, every contributor pre-1800"
+ },
+ {
+  "slug": "the-king-of-schnorrers-grotesques-and-fantasies",
+  "title": "The King of Schnorrers: Grotesques and Fantasies",
+  "author": "Israel Zangwill",
+  "category": "fiction",
+  "blurb": "The King of Schnorrers: Grotesques and Fantasies\" by Israel Zangwill is a picaresque novel published in 1894.",
+  "gutenbergID": 38413,
+  "bytes": 558224,
+  "sha256": "c1f1ac04800e6ccaea9591653c18a1b7dca27044838e424c552b26ea9c69d96d",
+  "downloads": 718,
+  "source": "gutenberg:38413",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": false,
+  "year": 1894
+ },
+ {
+  "slug": "new-edition-of-the-babylonian-talmud-vol-i-tract-sabbath",
+  "title": "New Edition of the Babylonian Talmud, Vol. I (Tract Sabbath)",
+  "author": "Talmud",
+  "category": "sacred",
+  "blurb": "New Edition of the Babylonian Talmud, Vol.",
+  "gutenbergID": null,
+  "bytes": 1012497,
+  "sha256": "0165d53824c7af1f8c3f9b954dc8ad68bc51a93d9bf83de78588fa010b59ee59",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/babyloniantalmud01rodk/babyloniantalmud01rodk_djvu.txt",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": false,
+  "translator": "Michael L. Rodkinson",
+  "year": 1896
+ },
+ {
+  "slug": "the-rise-of-david-levinsky",
+  "title": "The Rise of David Levinsky",
+  "author": "Abraham Cahan",
+  "category": "philosophy",
+  "blurb": "The Rise of David Levinsky\" by Abraham Cahan is a novel published in 1917.",
+  "gutenbergID": 2803,
+  "bytes": 919448,
+  "sha256": "accb1101926a129be6e95a43baca1dc626362f860033a257940b3329fed5a2a9",
+  "downloads": 497,
+  "source": "gutenberg:2803",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": false,
+  "year": 1917
+ },
+ {
+  "slug": "hindu-tales-from-the-sanskrit",
+  "title": "Hindu Tales from the Sanskrit",
+  "author": "S. M. Mitra",
+  "category": "sacred",
+  "blurb": "Hindu Tales from the Sanskrit\" by N.",
+  "gutenbergID": 11310,
+  "bytes": 225967,
+  "sha256": "86e1126b6fa377f24c1b5d9023921cf12547053a6355c00ee89f9a4d2a499168",
+  "downloads": 719,
+  "source": "gutenberg:11310",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": false,
+  "year": 1919
+ },
+ {
+  "slug": "vikram-and-the-vampire-classic-hindu-tales-of-adventure-magi",
+  "title": "Vikram and the Vampire: Classic Hindu Tales of Adventure, Magic, and Romance",
+  "author": "Richard F. Burton",
+  "category": "sacred",
+  "blurb": "Vikram and the Vampire: Classic Hindu Tales of Adventure, Magic, and Romance\" is a collection of tales originally written in Sanskrit, with recensions dating…",
+  "gutenbergID": 2400,
+  "bytes": 447918,
+  "sha256": "82237192e5d4396aab1b7029d9e0f42326aa27580580149be07c1f6df681c999",
+  "downloads": 1593,
+  "source": "gutenberg:2400",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": false,
+  "year": 1870
+ },
+ {
+  "slug": "the-laws-of-manu-sacred-books-of-the-east-vol-25",
+  "title": "The Laws of Manu (Sacred Books of the East vol. 25)",
+  "author": "Manu (attrib.)",
+  "category": "sacred",
+  "blurb": "The Laws of Manu (Sacred Books of the East vol.",
+  "gutenbergID": null,
+  "bytes": 1515226,
+  "sha256": "bbc80e4bcba432f48e0ffea51531c20a602e6e6b3bb1733f6de3b0a3cd9548d9",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/lawsofmanu00manuuoft/lawsofmanu00manuuoft_djvu.txt",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": false,
+  "translator": "Georg Bühler",
+  "year": 1886
+ },
+ {
+  "slug": "buddhist-birth-stories-or-jataka-tales-volume-1",
+  "title": "Buddhist birth stories; or, Jataka tales, Volume 1",
+  "author": "Jataka (Nidanakatha)",
+  "category": "sacred",
+  "blurb": "Buddhist Birth Stories; or, Jātaka Tales, Volume 1\" by V.",
+  "gutenbergID": 51880,
+  "bytes": 749105,
+  "sha256": "83b9f1227e3cec4ed3996c50e1e77e8bd815c6273b0496a43c0b17955af79dc4",
+  "downloads": 1376,
+  "source": "gutenberg:51880",
+  "tradition": "buddhism",
+  "editions": [
+   "buddhism"
+  ],
+  "core": false,
+  "translator": "T. W. Rhys Davids",
+  "year": 1880
+ },
+ {
+  "slug": "the-golden-sayings-of-epictetus-with-the-hymn-of-cleanthes",
+  "title": "The Golden Sayings of Epictetus, with the Hymn of Cleanthes",
+  "author": "Epictetus",
+  "category": "sacred",
+  "blurb": "The Golden Sayings of Epictetus\" by Epictetus is a philosophical work that presents a collection of ethical maxims and reflections attributed to the Stoic…",
+  "gutenbergID": 871,
+  "bytes": 127751,
+  "sha256": "41b5d87bc541a05a5d74d041891ed0009a15dac3cec70ff6c14c4a214faf71f6",
+  "downloads": 2619,
+  "source": "gutenberg:871",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": false,
+  "translator": "Hastings Crossley",
+  "year": 1903
+ },
+ {
+  "slug": "heimskringla-or-the-chronicle-of-the-kings-of-norway",
+  "title": "Heimskringla; Or, The Chronicle of the Kings of Norway",
+  "author": "Snorri Sturluson",
+  "category": "history",
+  "blurb": "Heimskringla; Or, The Chronicle of the Kings of Norway\" by Snorri Sturluson is a collection of sagas written around 1230.",
+  "gutenbergID": 598,
+  "bytes": 1667594,
+  "sha256": "1e71c4d44c9535d955392ebbecf41fd3461051ca31a0a1ee9d5c253b56bfe2e5",
+  "downloads": 3741,
+  "source": "gutenberg:598",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": false,
+  "translator": "Samuel Laing",
+  "year": 1844
+ },
+ {
+  "slug": "a-wonder-book-and-tanglewood-tales-for-girls-and-boys",
+  "title": "A Wonder Book and Tanglewood Tales, for Girls and Boys",
+  "author": "Nathaniel Hawthorne",
+  "category": "classic",
+  "blurb": "A Wonder Book and Tanglewood Tales, for Girls and Boys\" by Nathaniel Hawthorne is a children's book published in 1851.",
+  "gutenbergID": 35377,
+  "bytes": 648949,
+  "sha256": "88bb920f7a45e93e925b5e568e6a14b9b62630390eb9eb818ab4ef21465f62f6",
+  "downloads": 1117,
+  "source": "gutenberg:35377",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": false,
+  "year": 1853
+ },
+ {
+  "slug": "celtic-fairy-tales",
+  "title": "Celtic Fairy Tales",
+  "author": "Joseph Jacobs",
+  "category": "fiction",
+  "blurb": "Celtic Fairy Tales\" by Joseph Jacobs is a collection of folk tales that showcases the rich storytelling tradition of the Celtic cultures, likely compiled in…",
+  "gutenbergID": 7885,
+  "bytes": 392246,
+  "sha256": "d7a73bb258d2836b026ef16032e291e5938fdb7d8bdd31672d8163edd751e9cf",
+  "downloads": 893,
+  "source": "gutenberg:7885",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": false,
+  "year": 1892,
+  "rightsNote": "no creator record: Celtic Fairy Tales, collected and retold by Joseph Jacobs 1854-1916; Gutendex carries no creator record"
+ },
+ {
+  "slug": "the-golden-bough-a-study-of-magic-and-religion",
+  "title": "The Golden Bough: A Study of Magic and Religion",
+  "author": "James George Frazer",
+  "category": "sacred",
+  "blurb": "The Golden Bough: A Study of Magic and Religion\" by James George Frazer is a comparative study first published in 1890.",
+  "gutenbergID": 3623,
+  "bytes": 2264969,
+  "sha256": "fff344f688927ae7816ff2d8118f4475a63bcf5d73228525b4cea88cafbe1df3",
+  "downloads": 3570,
+  "source": "gutenberg:3623",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": false,
+  "year": 1922
+ },
+ {
+  "slug": "legends-of-gods-and-ghosts-hawaiian-mythology-collected-and-",
+  "title": "Legends of Gods and Ghosts (Hawaiian Mythology): Collected and Translated from the Hawaiian",
+  "author": "W. D. Westervelt",
+  "category": "classic",
+  "blurb": "Legends of Gods and Ghosts (Hawaiian Mythology)\" by W.",
+  "gutenbergID": 39195,
+  "bytes": 355917,
+  "sha256": "89d6f2a820735c53c2f182707f1c4e1334846ea7fbcdb694ac2e65540e1858a1",
+  "downloads": 915,
+  "source": "gutenberg:39195",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": false,
+  "year": 1915
+ },
+ {
+  "slug": "history-of-the-church-of-jesus-christ-of-latter-day-saints-v",
+  "title": "History of the Church of Jesus Christ of Latter-Day Saints, Volume 1",
+  "author": "Joseph Smith Jr. (ed. B. H. Roberts)",
+  "category": "sacred",
+  "blurb": "History of the Church of Jesus Christ of Latter-Day Saints, Volume 1\" is a semi-official history written between 1839 and 1856.",
+  "gutenbergID": 47091,
+  "bytes": 1449693,
+  "sha256": "adaca9237b20041b25f836926ea5f447b3bd9042cd04b5a48f3e6ad0e75e9d26",
+  "downloads": 1296,
+  "source": "gutenberg:47091",
+  "tradition": "restoration",
+  "editions": [
+   "restoration"
+  ],
+  "core": false,
+  "year": 1902,
+  "rightsNote": "Church of Jesus Christ of Latter-day Saints: corporate author of the 1902 edition; text by Joseph Smith d. 1844, edited by B. H. Roberts d. 1933"
+ },
+ {
+  "slug": "the-great-apostasy-considered-in-the-light-of-scriptural-and",
+  "title": "The Great Apostasy, Considered in the Light of Scriptural and Secular History",
+  "author": "James E. Talmage",
+  "category": "sacred",
+  "blurb": "The Great Apostasy, Considered in the Light of Scriptural and Secular History\" by James E.",
+  "gutenbergID": 35514,
+  "bytes": 308166,
+  "sha256": "c972e303d7cf3bf28c4ba8d77d31c62ef6f99c76804ccefb835f93f7662e87c8",
+  "downloads": 715,
+  "source": "gutenberg:35514",
+  "tradition": "restoration",
+  "editions": [
+   "restoration"
+  ],
+  "core": false,
+  "year": 1909
+ },
+ {
+  "slug": "journal-of-discourses-vol-1-selections",
+  "title": "Journal of Discourses, Vol. 1 (selections)",
+  "author": "Brigham Young and others (reported by G. D. Watt)",
+  "category": "sacred",
+  "blurb": "Journal of Discourses, Vol.",
+  "gutenbergID": null,
+  "bytes": 1307628,
+  "sha256": "d084848e79debbab198bb436d6dcb2cc9c443625d27d42fdd3df192d7c206d10",
+  "downloads": 0,
+  "source": "wikisource:https://en.wikisource.org/wiki/Journal_of_Discourses/Volume_1",
+  "tradition": "restoration",
+  "editions": [
+   "restoration"
+  ],
+  "core": false,
+  "year": 1854
+ },
+ {
+  "slug": "paradise-lost",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "category": "sacred",
+  "blurb": "Paradise Lost\" by John Milton is an epic poem published in 1667.",
+  "gutenbergID": 20,
+  "bytes": 461597,
+  "sha256": "3c7ca85fcc98c81b7f6da3579aee5a66db9a34313b53553d223b3f5a0da74099",
+  "downloads": 31577,
+  "source": "gutenberg:20",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": true,
+  "year": 1667
+ },
+ {
+  "slug": "selections-from-the-table-talk-of-martin-luther",
+  "title": "Selections from the Table Talk of Martin Luther",
+  "author": "Martin Luther",
+  "category": "sacred",
+  "blurb": "Selections from the Table Talk of Martin Luther\" by Martin Luther is a collection compiled from notes taken between 1531 and 1546.",
+  "gutenbergID": 9841,
+  "bytes": 188070,
+  "sha256": "8fa50ecc5350654293e597f5351ba9ecbbe670d508acda3444dc705def527d05",
+  "downloads": 1123,
+  "source": "gutenberg:9841",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": true,
+  "translator": "William Hazlitt",
+  "year": 1848,
+  "rightsNote": "Bell, Henry, Captain: Captain Henry Bell d. 1661, first English translator (1652); edited by William Hazlitt d. 1913"
+ },
+ {
+  "slug": "dark-night-of-the-soul",
+  "title": "Dark Night of the Soul",
+  "author": "John of the Cross",
+  "category": "sacred",
+  "blurb": "Dark Night of the Soul, by John of the Cross, translated by David Lewis (ed.",
+  "gutenbergID": null,
+  "bytes": 320806,
+  "sha256": "c83e945e41a62d37bed27787ee12dc4820106c4cd18e26ae56102344e232c7a4",
+  "downloads": 0,
+  "source": "ccel:https://www.ccel.org/ccel/j/john_cross/dark_night/cache/dark_night.txt",
+  "tradition": "catholic",
+  "editions": [
+   "catholic"
+  ],
+  "core": true,
+  "translator": "David Lewis (ed. Benedict Zimmerman)",
+  "year": 1908
+ },
+ {
+  "slug": "the-alchemy-of-happiness",
+  "title": "The Alchemy of Happiness",
+  "author": "Abu Hamid al-Ghazali",
+  "category": "sacred",
+  "blurb": "The Alchemy of Happiness, by Abu Hamid al-Ghazali, translated by Claud Field (1910).",
+  "gutenbergID": null,
+  "bytes": 137330,
+  "sha256": "1368ec26800d62b0433e8f3da7f03371072fd77004002b4322ba3f22a651bbaf",
+  "downloads": 0,
+  "source": "wikisource:https://en.wikisource.org/wiki/The_Alchemy_of_Happiness_(Field)",
+  "tradition": "islam",
+  "editions": [
+   "islam"
+  ],
+  "core": true,
+  "translator": "Claud Field",
+  "year": 1910
+ },
+ {
+  "slug": "phaedo",
+  "title": "Phaedo",
+  "author": "Plato",
+  "category": "philosophy",
+  "blurb": "Phaedo\" by Plato is a dialogue written in ancient Greece.",
+  "gutenbergID": 1658,
+  "bytes": 232078,
+  "sha256": "fd44abd9aeaffc723eaf6475b8680a8f5f91daba3eddbadd927e2414ba0bfc2b",
+  "downloads": 29236,
+  "source": "gutenberg:1658",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "Benjamin Jowett",
+  "year": 1871
+ },
+ {
+  "slug": "on-the-nature-of-things",
+  "title": "On the Nature of Things",
+  "author": "Lucretius",
+  "category": "philosophy",
+  "blurb": "On the Nature of Things\" by Titus Lucretius Carus is a didactic poem written in the first century BC.",
+  "gutenbergID": 785,
+  "bytes": 414766,
+  "sha256": "bff5f6d433b5bc1d0040af0467c77bbece3ad0396e9134bc07c448428f16e2ae",
+  "downloads": 27672,
+  "source": "gutenberg:785",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "William Ellery Leonard",
+  "year": 1916
+ },
+ {
+  "slug": "the-varieties-of-religious-experience-a-study-in-human-natur",
+  "title": "The Varieties of Religious Experience: A Study in Human Nature",
+  "author": "William James",
+  "category": "sacred",
+  "blurb": "The Varieties of Religious Experience: A Study in Human Nature\" by William James is a book published in 1902, based on lectures delivered at the University of…",
+  "gutenbergID": 621,
+  "bytes": 1091881,
+  "sha256": "c43ebae986d28c332f1e3f40c88dbe567622f64620ebbfe077e8e390085d5ae9",
+  "downloads": 7068,
+  "source": "gutenberg:621",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": false,
+  "year": 1902
+ },
+ {
+  "slug": "humility-the-beauty-of-holiness",
+  "title": "Humility: The Beauty of Holiness",
+  "author": "Andrew Murray",
+  "category": "sacred",
+  "blurb": "Humility: The Beauty of Holiness\" by Andrew Murray is a spiritual treatise written in the late 19th century.",
+  "gutenbergID": 57121,
+  "bytes": 111578,
+  "sha256": "1e4e1f16d6ce5d7c722d0dee04156eddf42d82fd794dc397e7dcf317673d9d66",
+  "downloads": 1140,
+  "source": "gutenberg:57121",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": false,
+  "year": 1895
+ },
+ {
+  "slug": "dreamers-of-the-ghetto",
+  "title": "Dreamers of the Ghetto",
+  "author": "Israel Zangwill",
+  "category": "history",
+  "blurb": "Dreamers of the Ghetto\" by Israel Zangwill is a historical fiction work written in the late 19th century.",
+  "gutenbergID": 29875,
+  "bytes": 897789,
+  "sha256": "d9d233972fd92508a9b4d17eb0626a15204f46e23c1285efd293b821d03a399d",
+  "downloads": 828,
+  "source": "gutenberg:29875",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": false,
+  "year": 1898
+ },
+ {
+  "slug": "jewish-fairy-tales-and-legends",
+  "title": "Jewish Fairy Tales and Legends",
+  "author": "Gertrude Landa (Aunt Naomi)",
+  "category": "fiction",
+  "blurb": "Jewish Fairy Tales and Legends\" by Gertrude Landa is a collection of fairy tales and legends written in the early 20th century.",
+  "gutenbergID": 26711,
+  "bytes": 275783,
+  "sha256": "ddd15275bb067457fc09f323836888e3e4aa5b09a9f0fe578a38acdca38ff516",
+  "downloads": 4021,
+  "source": "gutenberg:26711",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": false,
+  "year": 1919,
+  "rightsNote": "Landa, Gertrude: Gertrude Landa ('Aunt Naomi') 1892-1941 (Gutendex omits the dates)"
+ },
+ {
+  "slug": "the-kingdom-of-god-is-within-you-christianity-not-as-a-mysti",
+  "title": "\"The Kingdom of God Is Within You\": Christianity Not as a Mystic Religion but as a New Theory of Life",
+  "author": "Leo Tolstoy",
+  "category": "sacred",
+  "blurb": "The Kingdom of God Is Within You\" by graf Leo Tolstoy is a philosophical treatise first published in 1894.",
+  "gutenbergID": 4602,
+  "bytes": 711182,
+  "sha256": "766d9e36a8f8bfdf28107dfcf47507c3b6f3dbf3c204fbbfe8bdeb92a5305b02",
+  "downloads": 972,
+  "source": "gutenberg:4602",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": true,
+  "translator": "Constance Garnett",
+  "year": 1894
+ },
+ {
+  "slug": "the-spiritual-exercises-of-st-ignatius-of-loyola",
+  "title": "The Spiritual Exercises of St. Ignatius of Loyola",
+  "author": "Ignatius of Loyola",
+  "category": "sacred",
+  "blurb": "The Spiritual Exercises of St.",
+  "gutenbergID": null,
+  "bytes": 165808,
+  "sha256": "fbd4beeeb651d443d2430255d99bb2699ba44b4a570985bab951775a6c10ed23",
+  "downloads": 0,
+  "source": "ccel:https://www.ccel.org/ccel/i/ignatius/exercises/cache/exercises.txt",
+  "tradition": "catholic",
+  "editions": [
+   "catholic"
+  ],
+  "core": true,
+  "translator": "Elder Mullan",
+  "year": 1914
+ },
+ {
+  "slug": "the-guide-for-the-perplexed",
+  "title": "The guide for the perplexed",
+  "author": "Moses Maimonides",
+  "category": "sacred",
+  "blurb": "The guide for the perplexed\" by Moses Maimonides is a work of Jewish theology written between 1185 and 1190.",
+  "gutenbergID": 73584,
+  "bytes": 1347511,
+  "sha256": "e0e5bfbb7989865dde00c87084b565383bcba2c3d644670d779eebb8178aac11",
+  "downloads": 2847,
+  "source": "gutenberg:73584",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": true,
+  "translator": "Michael Friedländer",
+  "year": 1904
+ },
+ {
+  "slug": "bird-parliament-mantiq-ut-tair",
+  "title": "Bird-Parliament (Mantiq ut-Tair)",
+  "author": "Farid ud-Din Attar",
+  "category": "sacred",
+  "blurb": "Bird-Parliament (Mantiq ut-Tair), by Farid ud-Din Attar, translated by Edward FitzGerald (1889).",
+  "gutenbergID": null,
+  "bytes": 67231,
+  "sha256": "9ff7749953e7afd4056bc8572881f7722fda2a8ac4c5105ffe51de317a0b278f",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/lettersliterary02fitz/lettersliterary02fitz_djvu.txt",
+  "tradition": "islam",
+  "editions": [
+   "islam"
+  ],
+  "core": true,
+  "translator": "Edward FitzGerald",
+  "year": 1889
+ },
+ {
+  "slug": "songs-of-kabir",
+  "title": "Songs of Kabir",
+  "author": "Kabir",
+  "category": "sacred",
+  "blurb": "Songs of Kabir\" by Kabir, translated by Rabindranath Tagore, is a collection of mystical poetry written around the 15th century.",
+  "gutenbergID": 6519,
+  "bytes": 60308,
+  "sha256": "9096b73ec5fb3d7856753117969dcc60e6fa04cd9a0fe5da9f72a43e1ff312e2",
+  "downloads": 824,
+  "source": "gutenberg:6519",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": true,
+  "translator": "Rabindranath Tagore (with Evelyn Underhill)",
+  "year": 1915
+ },
+ {
+  "slug": "psalms-of-the-early-buddhists-therigatha-theragatha",
+  "title": "Psalms of the Early Buddhists (Therigatha & Theragatha)",
+  "author": "Pali Canon",
+  "category": "sacred",
+  "blurb": "Psalms of the Early Buddhists (Therigatha & Theragatha), by Pali Canon, translated by C.",
+  "gutenbergID": null,
+  "bytes": 288780,
+  "sha256": "c66149497d46da282abbeb3d15042bdf10a2d7c3b95d66e43f2efae286034a2b",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/psalmsofearlybud01davi/psalmsofearlybud01davi_djvu.txt",
+  "tradition": "buddhism",
+  "editions": [
+   "buddhism"
+  ],
+  "core": true,
+  "translator": "C. A. F. Rhys Davids",
+  "year": 1909
+ },
+ {
+  "slug": "a-feast-of-lanterns",
+  "title": "A Feast of Lanterns",
+  "author": "L. Cranmer-Byng",
+  "category": "sacred",
+  "blurb": "A Feast of Lanterns, by L.",
+  "gutenbergID": null,
+  "bytes": 85315,
+  "sha256": "5f69d32ea49fa4464dd035389c2ef367ac2f4448261e8dd0fe4b24e7a5abcab8",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/feastoflanterns00cran/feastoflanterns00cran_djvu.txt",
+  "tradition": "taoism",
+  "editions": [
+   "taoism"
+  ],
+  "core": true,
+  "translator": "L. Cranmer-Byng",
+  "year": 1916
+ },
+ {
+  "slug": "seneca-s-morals-of-a-happy-life-benefits-anger-and-clemency",
+  "title": "Seneca's Morals of a Happy Life, Benefits, Anger and Clemency",
+  "author": "Seneca",
+  "category": "philosophy",
+  "blurb": "Seneca's Morals of a Happy Life, Benefits, Anger and Clemency\" by Seneca is a philosophical text likely written in the 1st century AD.",
+  "gutenbergID": 56075,
+  "bytes": 575923,
+  "sha256": "e2422b3c83b4e46bae289c3649f5951939fd87d05d8e2015aeeba14d4f21bdfd",
+  "downloads": 4522,
+  "source": "gutenberg:56075",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "Roger L'Estrange",
+  "year": 1678
+ },
+ {
+  "slug": "the-consolation-of-philosophy",
+  "title": "The Consolation of Philosophy",
+  "author": "Boethius",
+  "category": "sacred",
+  "blurb": "The Consolation of Philosophy\" by Boethius is a philosophical work written in 523 while imprisoned and awaiting execution for treason.",
+  "gutenbergID": 14328,
+  "bytes": 233148,
+  "sha256": "222087d2cbd33e93a9c065b66fddc6d3bd6e88aaf361497bae1855cd16df2402",
+  "downloads": 32805,
+  "source": "gutenberg:14328",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "H. R. James",
+  "year": 1897
+ },
+ {
+  "slug": "apology",
+  "title": "Apology",
+  "author": "Plato",
+  "category": "philosophy",
+  "blurb": "Apology\" by Plato is a Socratic dialogue written after 399 BC.",
+  "gutenbergID": 1656,
+  "bytes": 59285,
+  "sha256": "2c2d154d5048e9b7bcdb2e33360fc63f1b1cb5b9ea3d396e941664114efdd0ad",
+  "downloads": 33747,
+  "source": "gutenberg:1656",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "Benjamin Jowett",
+  "year": 1871
+ },
+ {
+  "slug": "cicero-s-tusculan-disputations-also-treatises-on-the-nature-",
+  "title": "Cicero's Tusculan Disputations: Also, Treatises On The Nature Of The Gods, And On The Commonwealth",
+  "author": "Cicero",
+  "category": "sacred",
+  "blurb": "Cicero's Tusculan Disputations\" by Marcus Tullius Cicero is a philosophical work written around 45 BC.",
+  "gutenbergID": 14988,
+  "bytes": 1018439,
+  "sha256": "76cda27e6952a025902a2494d37b1e3f439062a51d297f00ca624c9df5be85bd",
+  "downloads": 32121,
+  "source": "gutenberg:14988",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "C. D. Yonge",
+  "year": 1877
+ },
+ {
+  "slug": "the-memorabilia",
+  "title": "The Memorabilia",
+  "author": "Xenophon",
+  "category": "philosophy",
+  "blurb": "The Memorabilia\" by Xenophon is a collection of Socratic dialogues probably completed after 371 BC.",
+  "gutenbergID": 1177,
+  "bytes": 385779,
+  "sha256": "e6e3e72003acf4d7235c354335718706ee19b834a2df7b8363b4b8050ee7f932",
+  "downloads": 3166,
+  "source": "gutenberg:1177",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": true,
+  "translator": "H. G. Dakyns",
+  "year": 1897
+ },
+ {
+  "slug": "hesiod-the-homeric-hymns-and-homerica",
+  "title": "Hesiod, the Homeric Hymns, and Homerica",
+  "author": "Hesiod; Homeric Hymns",
+  "category": "sacred",
+  "blurb": "Hesiod, the Homeric Hymns, and Homerica\" by Hesiod is a collection of ancient Greek poetry that includes works attributed to both Hesiod and Homer, likely…",
+  "gutenbergID": 348,
+  "bytes": 506344,
+  "sha256": "53fe89e0404c5486bd98e7af597e994be1eae9152a4a44934f3999bf5f81dd33",
+  "downloads": 27758,
+  "source": "gutenberg:348",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": true,
+  "translator": "Hugh G. Evelyn-White",
+  "year": 1914,
+  "rightsNote": "Hesiod: ancient author (fl. c. 700 BC); translator H. G. Evelyn-White d. 1924"
+ },
+ {
+  "slug": "myths-legends-of-the-celtic-race",
+  "title": "Myths & Legends of the Celtic Race",
+  "author": "T. W. Rolleston",
+  "category": "sacred",
+  "blurb": "Myths & Legends of the Celtic Race\" by T.",
+  "gutenbergID": 34081,
+  "bytes": 788736,
+  "sha256": "6c03dc94a588ddbdf26c16125a5ae3a62b5b96aab2af3ead268bb94ddb92dd06",
+  "downloads": 2079,
+  "source": "gutenberg:34081",
+  "tradition": "mythology",
+  "editions": [
+   "mythology"
+  ],
+  "core": true,
+  "year": 1911
+ },
+ {
+  "slug": "jesus-the-christ-a-study-of-the-messiah-and-his-mission-acco",
+  "title": "Jesus the Christ: A Study of the Messiah and His Mission According to Holy; Scriptures Both Ancient and Modern",
+  "author": "James E. Talmage",
+  "category": "sacred",
+  "blurb": "Jesus the Christ\" by James E.",
+  "gutenbergID": 22542,
+  "bytes": 1747742,
+  "sha256": "80d1056a39d28dfd93cdaeb5da88d48623c16d230cfa5128add35c61d04f0434",
+  "downloads": 9998,
+  "source": "gutenberg:22542",
+  "tradition": "restoration",
+  "editions": [
+   "restoration"
+  ],
+  "core": true,
+  "year": 1915
+ },
+ {
+  "slug": "quo-vadis-a-narrative-of-the-time-of-nero",
+  "title": "Quo Vadis: A Narrative of the Time of Nero",
+  "author": "Henryk Sienkiewicz",
+  "category": "sacred",
+  "blurb": "Quo Vadis: A Narrative of the Time of Nero\" by Henryk Sienkiewicz is a historical novel written in 1895-1896.",
+  "gutenbergID": 2853,
+  "bytes": 1172231,
+  "sha256": "ed6c168284b06e6b22bbca923c68d2ee586e2a5f288f1e7b0edd908561ba7afa",
+  "downloads": 1895,
+  "source": "gutenberg:2853",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": false,
+  "translator": "Jeremiah Curtin",
+  "year": 1896
+ },
+ {
+  "slug": "children-of-the-ghetto-a-study-of-a-peculiar-people",
+  "title": "Children of the Ghetto: A Study of a Peculiar People",
+  "author": "Israel Zangwill",
+  "category": "fiction",
+  "blurb": "Children of the Ghetto: A Study of a Peculiar People\" by Israel Zangwill is a novel set in the early 20th century, exploring the lives and struggles of Jewish…",
+  "gutenbergID": 12680,
+  "bytes": 1111122,
+  "sha256": "01ea6ade15e881f627051509a8dcad75fd88400ba8ba7cd459450bb040db35d2",
+  "downloads": 720,
+  "source": "gutenberg:12680",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": false,
+  "year": 1892
+ },
+ {
+  "slug": "history-of-the-jews-vol-1-of-6",
+  "title": "History of the Jews, Vol. 1 (of 6)",
+  "author": "Heinrich Graetz",
+  "category": "sacred",
+  "blurb": "History of the Jews, Vol.",
+  "gutenbergID": 43056,
+  "bytes": 1037373,
+  "sha256": "824bed53d30a142007f16a9503ae35f2063dc7f34de66a920439ffb2417519ad",
+  "downloads": 714,
+  "source": "gutenberg:43056",
+  "tradition": "judaism",
+  "editions": [
+   "judaism"
+  ],
+  "core": false,
+  "translator": "Bella Löwy (JPS edition)",
+  "year": 1891
+ },
+ {
+  "slug": "mishcat-ul-masabih-vol-i",
+  "title": "Mishcât-ul-Masâbih, Vol. I",
+  "author": "al-Khatib al-Tabrizi",
+  "category": "sacred",
+  "blurb": "Mishcât-ul-Masâbih, Vol.",
+  "gutenbergID": null,
+  "bytes": 1261733,
+  "sha256": "78f18c108c5de799145301fc3c135dff7265f39630553cfcf3e457694b2283a9",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/10219219bsb/10219219bsb_djvu.txt",
+  "tradition": "islam",
+  "editions": [
+   "islam"
+  ],
+  "core": false,
+  "translator": "A. N. Matthews",
+  "year": 1809
+ },
+ {
+  "slug": "the-lives-and-opinions-of-eminent-philosophers",
+  "title": "The Lives and Opinions of Eminent Philosophers",
+  "author": "Diogenes Laertius",
+  "category": "philosophy",
+  "blurb": "The Lives and Opinions of Eminent Philosophers\" by Diogenes Laertius is a compilation of historical accounts and biographical sketches written in the late 2nd…",
+  "gutenbergID": 57342,
+  "bytes": 1078801,
+  "sha256": "00f5fe0455fcb0e68831b46bd20c8130b50cba65a6d2d2272f90999d360aa85b",
+  "downloads": 58086,
+  "source": "gutenberg:57342",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": false,
+  "translator": "C. D. Yonge",
+  "year": 1853,
+  "rightsNote": "Diogenes Laertius: ancient author (3rd century AD); translator C. D. Yonge d. 1891"
+ },
+ {
+  "slug": "the-house-of-the-lord-a-study-of-holy-sanctuaries-ancient-an",
+  "title": "The House of the Lord: A Study of Holy Sanctuaries Ancient and Modern",
+  "author": "James E. Talmage",
+  "category": "sacred",
+  "blurb": "The House of the Lord: A Study of Holy Sanctuaries Ancient and Modern\" by James E.",
+  "gutenbergID": 45149,
+  "bytes": 466016,
+  "sha256": "1206b4ba7adb6b80d81342f4153ec4c4c1617f9d37818735f00a9bf267cb28d6",
+  "downloads": 818,
+  "source": "gutenberg:45149",
+  "tradition": "restoration",
+  "editions": [
+   "restoration"
+  ],
+  "core": false,
+  "year": 1912
+ },
+ {
+  "slug": "the-pilgrim-s-progress-from-this-world-to-that-which-is-to-c",
+  "title": "The Pilgrim's Progress",
+  "author": "John Bunyan",
+  "category": "sacred",
+  "blurb": "The Pilgrim's Progress from this world to that which is to come\" by John Bunyan is a Christian allegory written in 1678.",
+  "gutenbergID": 131,
+  "bytes": 300787,
+  "sha256": "72e257da693748051bcd11837062d70adf386189a08076a8e9b181fc1ab604fd",
+  "downloads": 5805,
+  "source": "gutenberg:131",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": true,
+  "year": 1678
+ },
+ {
+  "slug": "the-practice-of-the-presence-of-god",
+  "title": "The Practice of the Presence of God",
+  "author": "Brother Lawrence",
+  "category": "sacred",
+  "blurb": "The Practice of the Presence of God\" by Brother Lawrence is a collection of spiritual teachings compiled posthumously in the 17th century.",
+  "gutenbergID": 5657,
+  "bytes": 55272,
+  "sha256": "4e3e1d4fd8c10cdc206b4d7fc6f5132b4e2d3b3336b0ceff183d086c4ab8ff19",
+  "downloads": 5171,
+  "source": "gutenberg:5657",
+  "tradition": "christianity",
+  "editions": [
+   "christianity"
+  ],
+  "core": true,
+  "translator": "anonymous (pre-1900)",
+  "year": 1692,
+  "rightsNote": "anonymous pre-1900 English translation (Brother Lawrence d. 1691). translator: anonymous (pre-1900)"
+ },
+ {
+  "slug": "ramayana-the-epic-of-rama-prince-of-india-condensed-into-eng",
+  "title": "Ramayana: The Epic of Rama, Prince of India",
+  "author": "Valmiki",
+  "category": "sacred",
+  "blurb": "Ramayana: The Epic of Rama, Prince of India, by Valmiki, translated by Romesh Chunder Dutt (1899).",
+  "gutenbergID": null,
+  "bytes": 298416,
+  "sha256": "6e54e55b106124b059c5ec9936c981572ade387344e675ef184e748a5d8be0a1",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/RamayanaTheEpicOfRamaPrinceOfIndiaCondensedIntoEnglishVerseBy/Ramayana_the_epic_of_Rama_prince_of_Indi_djvu.txt",
+  "tradition": "hinduism",
+  "editions": [
+   "hinduism"
+  ],
+  "core": true,
+  "textQuality": "ocr-unproofed",
+  "translator": "Romesh Chunder Dutt",
+  "year": 1899
+ },
+ {
+  "slug": "buddhism-in-translations",
+  "title": "Buddhism in Translations",
+  "author": "Henry Clarke Warren",
+  "category": "sacred",
+  "blurb": "Buddhism in Translations, by Henry Clarke Warren, translated by Henry Clarke Warren (1896).",
+  "gutenbergID": null,
+  "bytes": 1055876,
+  "sha256": "35b9682e010fdd29c3101a2da010da397c935af9fb97e1ce8435b0eee21f04c0",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/in.ernet.dli.2015.217548/2015.217548.Buddhism-In_djvu.txt",
+  "tradition": "buddhism",
+  "editions": [
+   "buddhism"
+  ],
+  "core": true,
+  "textQuality": "ocr-unproofed",
+  "translator": "Henry Clarke Warren",
+  "year": 1896
+ },
+ {
+  "slug": "the-questions-of-king-milinda-sacred-books-of-the-east-vol-3",
+  "title": "The Questions of King Milinda (Sacred Books of the East vol. 35)",
+  "author": "Milindapañha",
+  "category": "sacred",
+  "blurb": "The Questions of King Milinda (Sacred Books of the East vol.",
+  "gutenbergID": null,
+  "bytes": 529290,
+  "sha256": "001ecccbd18a9b9f3af169d71f440d1c18ae42147243b87b2a9a215c2e9ff13f",
+  "downloads": 0,
+  "source": "archive:https://archive.org/download/india.history.resource.89743/89743_djvu.txt",
+  "tradition": "buddhism",
+  "editions": [
+   "buddhism"
+  ],
+  "core": true,
+  "textQuality": "ocr-unproofed",
+  "translator": "T. W. Rhys Davids",
+  "year": 1890
+ },
+ {
+  "slug": "the-nicomachean-ethics-of-aristotle",
+  "title": "The Nicomachean ethics of Aristotle",
+  "author": "Aristotle",
+  "category": "philosophy",
+  "blurb": "The Ethics of Aristotle\" by Aristotle is a foundational philosophical treatise written in the 4th century BC.",
+  "gutenbergID": 8438,
+  "bytes": 637927,
+  "sha256": "4fc1f7ba4329a5857ec51f3717fa9a17a65b981b5139b659b09981fa76f5f834",
+  "downloads": 9857,
+  "source": "gutenberg:8438",
+  "tradition": "stoicism",
+  "editions": [
+   "stoicism"
+  ],
+  "core": false,
+  "translator": "D. P. Chase",
+  "year": 1911
  }
 ]
