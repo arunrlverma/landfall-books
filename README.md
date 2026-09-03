@@ -7,8 +7,13 @@ normalized, openings cleaned — zero prose altered), and filtered to a
 conservative worldwide rights rule (every author and translator dead 70+ years,
 unknowns excluded).
 
-- `catalog.json` — the searchable index the app fetches
-- `books/<slug>.md` — one cleaned text per book
+- `catalog.json` — the searchable index Landfall fetches
+- `editions/catalog.json` — the index the faith/philosophy editions fetch: every
+  entry in `catalog.json`, in the same order, followed by the titles those
+  editions ship. The extra entries carry an `editions` list naming the editions
+  that show them. Landfall never reads this file, so a title landing here is
+  invisible to the shipping app until it also lands in `catalog.json`.
+- `books/<slug>.md` — one cleaned text per book, shared by both indexes
 - `famous-poems.json` — the reviewed ordering and provenance for Landfall's
   100 individually readable Famous Poems
 
